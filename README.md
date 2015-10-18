@@ -12,6 +12,8 @@ Will store links to known evaluation datasets alongside stats to characterize th
 * Scripts that generate tables/charts with benchmark statistics for any benchmark (number of sentences, number of annotations, pos tags, etc.)
 * Scripts that generate tables/charts with target entity statistics (are the entities popular? which types? etc.)
 * Scripts that generate tables/charts with mention statistics (are the mentions "easy", which POS? etc.)
+* Discussions will be held on Slack: https://nlpdbpedia2015.slack.com/messages/general/
+* Issues will be tracked on GitHub: https://github.com/dbpedia-spotlight/evaluation-datasets/issues
 
 # Benchmark Common Format
 
