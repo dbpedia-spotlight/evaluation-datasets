@@ -1,4 +1,5 @@
 # evaluation-datasets
+
 Will store links to known evaluation datasets alongside stats to characterize them
 
 
@@ -14,17 +15,44 @@ Will store links to known evaluation datasets alongside stats to characterize th
 
 # Benchmark Common Format
 
-We will translate all benchmarks to a (simple) common format so that every script can read in the same format. Here are current suggestions. TODO: settle on the official format so everyone can get working
-* Heiko: entity lists
+We will translate all benchmarks to a (simple) common format so that every script can read in the same format. Here are current suggestions. We can take this incrementally. Easier formats first, and as we get those done, we add scripts to work on the more complicated formats. TODO: settle on the official format so everyone can get working
+
+* Heiko: entity lists. Example:
+```
+http://dbpedia.org/resource/Berlin
+```
 * Pablo: TSV list of pairs (surface form -> entity)
+```
+Berlin  http://dbpedia.org/resource/Berlin
+German capital  http://dbpedia.org/resource/Berlin
+Berlin  http://dbpedia.org/resource/Berlin
+Paris http://dbpedia.org/resource/Paris
+```
+* Giuseppe: also add POS tags (could be TSV, but perhaps easier in JSON if we have many fields?)
+```
+Berlin  NNP http://dbpedia.org/resource/Berlin
+German capital  NP  http://dbpedia.org/resource/Berlin
+Berlin  NNP http://dbpedia.org/resource/Berlin
+Paris NNP http://dbpedia.org/resource/Paris
+```
+or:
+```
+[
+{'surface_form': 'Berlin', 'pos_tag': 'NNP', 'uri': 'http://dbpedia.org/resource/Berlin'},
+{'surface_form': 'German capital', 'pos_tag': 'NNP', 'uri': 'http://dbpedia.org/resource/Berlin'},
+...
+]
+```
+
 
 # Benchmarks
 
 These datasets are the target of our evaluations. We want to learn more about how they behave and what exactly are they evaluating.
 
-See the Google Doc (currently private, later will be migrated here).
+See the [original Google Doc we created in the workshop](https://docs.google.com/document/d/1pZH9KihVYLxjEh7wMViMLcigei0C7EQgF4W6-Di0bmU/edit) (currently private; results will later be migrated here). The Doc is being migrated to a Spreadsheet because it's easier to handle in that format and then export to LaTeX and Markdown
 
-* https://docs.google.com/document/d/1pZH9KihVYLxjEh7wMViMLcigei0C7EQgF4W6-Di0bmU/edit
+* Spreadsheet: https://docs.google.com/spreadsheets/d/19KhVh5OMGJa7bO8sRrmBbBf9pM1e4g2CmvkcCdjcWKY/edit#gid=0
+* Original Doc: https://docs.google.com/document/d/1pZH9KihVYLxjEh7wMViMLcigei0C7EQgF4W6-Di0bmU
 
 # Helper datasets
 
@@ -32,3 +60,5 @@ Helper datasets contain helpful stats or other metadata that we will use to char
 
 * URI counts, Sf counts and SfUri counts. [link](https://github.com/dbpedia-spotlight/dbpedia-spotlight/wiki/Raw-data)
 * Wikipedia URL to DBpedia URI. ???link???
+* Entity types (as mentioned by Julien, Giuseppe)
+
