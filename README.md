@@ -36,7 +36,7 @@ Berlin  NNP http://dbpedia.org/resource/Berlin
 Paris NNP http://dbpedia.org/resource/Paris
 ```
 or:
-```
+```json
 [
 {'surface_form': 'Berlin', 'pos_tag': 'NNP', 'uri': 'http://dbpedia.org/resource/Berlin'},
 {'surface_form': 'German capital', 'pos_tag': 'NNP', 'uri': 'http://dbpedia.org/resource/Berlin'},
@@ -58,9 +58,9 @@ See the [original Google Doc we created in the workshop](https://docs.google.com
 
 Helper datasets contain helpful stats or other metadata that we will use to characterize the benchmarks
 
-* URI counts, Sf counts and SfUri counts. [link](https://github.com/dbpedia-spotlight/dbpedia-spotlight/wiki/Raw-data)
+* [URI counts, Sf counts and SfUri counts](https://github.com/dbpedia-spotlight/dbpedia-spotlight/wiki/Raw-data)
 * Wikipedia URL to DBpedia URI. ???link???
 * Entity types (as mentioned by Julien, Giuseppe)
-* DBpedia Graph Measures [link](http://s16a.org/node/6)
+* [DBpedia Graph Measures](http://s16a.org/node/6)
 
 
