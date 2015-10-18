@@ -61,4 +61,6 @@ Helper datasets contain helpful stats or other metadata that we will use to char
 * URI counts, Sf counts and SfUri counts. [link](https://github.com/dbpedia-spotlight/dbpedia-spotlight/wiki/Raw-data)
 * Wikipedia URL to DBpedia URI. ???link???
 * Entity types (as mentioned by Julien, Giuseppe)
+* DBpedia Graph Measures [link](http://s16a.org/node/6)
+
 
