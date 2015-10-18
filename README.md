@@ -39,8 +39,7 @@ or:
 ```json
 [
 {'surface_form': 'Berlin', 'pos_tag': 'NNP', 'uri': 'http://dbpedia.org/resource/Berlin'},
-{'surface_form': 'German capital', 'pos_tag': 'NNP', 'uri': 'http://dbpedia.org/resource/Berlin'},
-...
+{'surface_form': 'German capital', 'pos_tag': 'NNP', 'uri': 'http://dbpedia.org/resource/Berlin'}
 ]
 ```
 
