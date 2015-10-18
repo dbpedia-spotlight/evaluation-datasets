@@ -54,6 +54,19 @@ or:
 ]
 ```
 
+(Bash+jq) Command line to convert from JSON to CSV:
+
+TSV
+```
+cat data.json | jq -r '.[] | "\(.surface_form)\t\(.pos_tag)\t\(.uri)"' 
+```
+
+CSV:
+```
+cat data.json | jq -c -r '.[] | [.surface_form, .uri] | @csv '
+```
+
+
 
 # Benchmarks
 
