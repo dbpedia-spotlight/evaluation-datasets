@@ -4,7 +4,7 @@
 from rdflib import Graph
 
 g = Graph()
-g.parse("rss500-nif-ner.ttl", format="n3")
+g.parse("rss500.ttl", format="n3")
 
 print len(g)
 
