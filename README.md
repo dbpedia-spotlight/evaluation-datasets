@@ -82,6 +82,22 @@ Usage to print the TSV result in a file:
 python nif2tsv.py -i <nif_file> -o <output_file>
 ```
 
+## NIF to JSON
+
+The script uses Python 2.7.10 (or 3.4.3) with RDFlib 4.2.1.
+
+Usage to print the JSON result on stdout:
+
+```
+python nif2tsv.py -i <nif_file>
+```
+
+Usage to print the JSON result in a file:
+
+```
+python nif2tsv.py -i <nif_file> -o <output_file>
+```
+
 # Benchmarks
 
 These datasets are the target of our evaluations. We want to learn more about how they behave and what exactly are they evaluating.
