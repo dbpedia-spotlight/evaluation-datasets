@@ -11,7 +11,7 @@ def file_choices(fname):
        parser.error("the output file '{}' doesn't end with 'json' extension".format(fname))
     return fname
 
-def nif2tsv():
+def nif2json():
 	parser = argparse.ArgumentParser(prog='nif2json.py', description='Translate a NIF dataset into a JSON representation. If no output file is given print the result on stdout by default.', version='1.0')
 	parser.add_argument('-i', '--input', type=argparse.FileType('r', 0), help='NIF input file', required=True)
 	parser.add_argument('-o', '--output', type=lambda s:file_choices(s), help='JSON output file')
@@ -47,4 +47,4 @@ def nif2tsv():
 		file.close()
 
 if __name__ == '__main__':
-    nif2tsv()
+    nif2json()
