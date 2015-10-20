@@ -8,7 +8,7 @@ import json
 def file_choices(fname):
     ext = os.path.splitext(fname)[1][1:]
     if ext != 'json':
-       parser.error("the output file '{}' doesn't end with 'tsv' extension".format(fname))
+       parser.error("the output file '{}' doesn't end with 'json' extension".format(fname))
     return fname
 
 def nif2tsv():
