@@ -1,8 +1,12 @@
 import csv
+import sys
 
 sf_to_links={}
+if len(sys.argv)<2:
+	print "Please add the TSV file of the dataset as an argument"
+	sys.exit(1)
 
-with open('wikinews.tsv','rb') as tsvin:
+with open(sys.argv[1],'rb') as tsvin:
 	tsvin = csv.reader(tsvin, delimiter='\t')
 	for row in tsvin:
 		if len(row)==2:
