@@ -1,0 +1,3084 @@
+#1	http://dbpedia.org/resource/1_(number)
+#34	http://dbpedia.org/resource/34_(number)
+#5	http://dbpedia.org/resource/5_(number)
+0	http://dbpedia.org/resource/0_(number)
+007	http://dbpedia.org/resource/James_Bond_(literary_character)
+1	http://dbpedia.org/resource/1_(number)
+1 John	http://dbpedia.org/resource/First_Epistle_of_John
+1 million	http://dbpedia.org/resource/Million
+1,000	http://dbpedia.org/resource/1000_(number)
+10	http://dbpedia.org/resource/10_(number)
+10,000	http://dbpedia.org/resource/10000_(number)
+100	http://dbpedia.org/resource/100_(number)
+1000	http://dbpedia.org/resource/1000_(number)
+100000	http://dbpedia.org/resource/100000_(number)
+101	http://dbpedia.org/resource/101_(number)
+102	http://dbpedia.org/resource/102_(number)
+1027KIISFM	http://dbpedia.org/resource/KIIS-FM
+106andpark	http://dbpedia.org/resource/106_&_Park
+11	http://dbpedia.org/resource/11_(number)
+116	http://dbpedia.org/resource/116_(number)
+12	http://dbpedia.org/resource/12_(number)
+122	http://dbpedia.org/resource/122_(number)
+123	http://dbpedia.org/resource/123_(number)
+125	http://dbpedia.org/resource/125_(number)
+128	http://dbpedia.org/resource/128_(number)
+13	http://dbpedia.org/resource/13_(number)
+13	http://dbpedia.org/resource/2013
+13 August	http://dbpedia.org/resource/August_13
+131	http://dbpedia.org/resource/131_(number)
+135	http://dbpedia.org/resource/135_(number)
+138	http://dbpedia.org/resource/138_(number)
+14	http://dbpedia.org/resource/2014
+140	http://dbpedia.org/resource/140_(number)
+15	http://dbpedia.org/resource/15_(number)
+150	http://dbpedia.org/resource/150_(number)
+155	http://dbpedia.org/resource/155_(number)
+157	http://dbpedia.org/resource/157_(number)
+16	http://dbpedia.org/resource/16_(number)
+16 and Pregnant	http://dbpedia.org/resource/16_and_Pregnant
+17	http://dbpedia.org/resource/17_(number)
+1700	http://dbpedia.org/resource/1700_(number)
+18	http://dbpedia.org/resource/18_(number)
+1811	http://dbpedia.org/resource/1811
+182	http://dbpedia.org/resource/182_(number)
+18th November	http://dbpedia.org/resource/November_18
+190	http://dbpedia.org/resource/190_(number)
+191	http://dbpedia.org/resource/191_(number)
+1934	http://dbpedia.org/resource/1934
+1942	http://dbpedia.org/resource/1942
+1958	http://dbpedia.org/resource/1958
+1969	http://dbpedia.org/resource/1969
+1971	http://dbpedia.org/resource/1971
+1975	http://dbpedia.org/resource/1975
+1977	http://dbpedia.org/resource/1977
+1978	http://dbpedia.org/resource/1978
+1983	http://dbpedia.org/resource/1983
+1988	http://dbpedia.org/resource/1988
+1989	http://dbpedia.org/resource/1989
+199	http://dbpedia.org/resource/199_(number)
+1995	http://dbpedia.org/resource/1995
+1998	http://dbpedia.org/resource/1998
+1Billion	http://dbpedia.org/resource/1,000,000,000
+1D	http://dbpedia.org/resource/One_Direction
+2	http://dbpedia.org/resource/2_(number)
+2,000	http://dbpedia.org/resource/2000_(number)
+20	http://dbpedia.org/resource/20_(number)
+200	http://dbpedia.org/resource/200_(number)
+2000	http://dbpedia.org/resource/2000
+2000	http://dbpedia.org/resource/2000_(number)
+2003	http://dbpedia.org/resource/2003
+2005	http://dbpedia.org/resource/2005
+2007	http://dbpedia.org/resource/2007
+2008	http://dbpedia.org/resource/2008
+2008 financial crisis	http://dbpedia.org/resource/Global_financial_crisis_in_September_2008
+2010	http://dbpedia.org/resource/2010
+2011	http://dbpedia.org/resource/2011
+2011 OpenChampion	http://dbpedia.org/resource/2011_Open_Championship
+2012	http://dbpedia.org/resource/2012
+2012 Summer Olympics	http://dbpedia.org/resource/2012_Summer_Olympics
+2012 games	http://dbpedia.org/resource/2012_Summer_Olympics
+2013	http://dbpedia.org/resource/2013
+2013 All-Star Game	http://dbpedia.org/resource/2013_NBA_All-Star_Game
+2014 World Cup	http://dbpedia.org/resource/2014_FIFA_World_Cup
+2025	http://dbpedia.org/resource/2025
+21	http://dbpedia.org/resource/21_(number)
+21 August	http://dbpedia.org/resource/August_21
+21 July	http://dbpedia.org/resource/July_21
+211	http://dbpedia.org/resource/211_(number)
+212	http://dbpedia.org/resource/212_(number)
+216	http://dbpedia.org/resource/216_(number)
+21st century	http://dbpedia.org/resource/21st_century
+22	http://dbpedia.org/resource/22_(number)
+23	http://dbpedia.org/resource/23_(number)
+24	http://dbpedia.org/resource/24_(number)
+24 hours	http://dbpedia.org/resource/Day
+25	http://dbpedia.org/resource/25_(number)
+27	http://dbpedia.org/resource/27_(number)
+27 club	http://dbpedia.org/resource/27_Club
+28	http://dbpedia.org/resource/28_(number)
+29	http://dbpedia.org/resource/29_(number)
+3	http://dbpedia.org/resource/3_(number)
+3,000	http://dbpedia.org/resource/3000_(number)
+30	http://dbpedia.org/resource/30_(number)
+30 min	http://dbpedia.org/resource/30_Minutes
+30 minutes	http://dbpedia.org/resource/30_Minutes
+30's	http://dbpedia.org/resource/1930
+300	http://dbpedia.org/resource/300_(number)
+3000	http://dbpedia.org/resource/3000_(number)
+30th Jan	http://dbpedia.org/resource/January_30
+30th of February	http://dbpedia.org/resource/February_30
+31	http://dbpedia.org/resource/31_(number)
+31 October	http://dbpedia.org/resource/October_31
+32	http://dbpedia.org/resource/32_(number)
+33	http://dbpedia.org/resource/33_(number)
+338	http://dbpedia.org/resource/300_(number)
+35	http://dbpedia.org/resource/35_(number)
+350	http://dbpedia.org/resource/350_(number)
+36	http://dbpedia.org/resource/36_(number)
+37	http://dbpedia.org/resource/37_(number)
+371	http://dbpedia.org/resource/300_(number)
+3d model	http://dbpedia.org/resource/3D_modeling
+4	http://dbpedia.org/resource/4_(Beyonc%C3%A9_Knowles_album)
+4	http://dbpedia.org/resource/4_(number)
+4,000	http://dbpedia.org/resource/4000_(number)
+40	http://dbpedia.org/resource/40_(number)
+40,000	http://dbpedia.org/resource/40000_(number)
+400	http://dbpedia.org/resource/400_(number)
+405	http://dbpedia.org/resource/400_(number)
+41	http://dbpedia.org/resource/41_(number)
+422	http://dbpedia.org/resource/400_(number)
+429	http://dbpedia.org/resource/400_(number)
+430	http://dbpedia.org/resource/400_(number)
+45	http://dbpedia.org/resource/45_(number)
+456	http://dbpedia.org/resource/400_(number)
+457	http://dbpedia.org/resource/400_(number)
+47	http://dbpedia.org/resource/_(number)
+48	http://dbpedia.org/resource/48_(number)
+490	http://dbpedia.org/resource/400_(number)
+49ers	http://dbpedia.org/resource/San_Francisco_49ers
+5	http://dbpedia.org/resource/5_(number)
+5	http://dbpedia.org/resource/IPhone_5
+5,000	http://dbpedia.org/resource/5000_(number)
+50	http://dbpedia.org/resource/50_(number)
+50,000	http://dbpedia.org/resource/50000_(number)
+500	http://dbpedia.org/resource/500_(number)
+51	http://dbpedia.org/resource/51_(number)
+54	http://dbpedia.org/resource/54_(number)
+56	http://dbpedia.org/resource/56_(number)
+6	http://dbpedia.org/resource/6_(number)
+600	http://dbpedia.org/resource/600_(number)
+61	http://dbpedia.org/resource/61_(number)
+62	http://dbpedia.org/resource/62_(number)
+631	http://dbpedia.org/resource/631_(number)
+635	http://dbpedia.org/resource/600_(number)
+64	http://dbpedia.org/resource/64_(number)
+66	http://dbpedia.org/resource/66_(number)
+68	http://dbpedia.org/resource/68_(number)
+7	http://dbpedia.org/resource/7_(number)
+7,000	http://dbpedia.org/resource/7000_(number)
+7/7	http://dbpedia.org/resource/7_July_2005_London_bombings
+700	http://dbpedia.org/resource/700_(number)
+71	http://dbpedia.org/resource/71_(number)
+734	http://dbpedia.org/resource/700_(number)
+75	http://dbpedia.org/resource/75_(number)
+750	http://dbpedia.org/resource/750_(number)
+76	http://dbpedia.org/resource/76_(number)
+777s	http://dbpedia.org/resource/Boeing_777
+779	http://dbpedia.org/resource/700_(number)
+78	http://dbpedia.org/resource/78_(number)
+787	http://dbpedia.org/resource/700_(number)
+8	http://dbpedia.org/resource/8_(number)
+80	http://dbpedia.org/resource/1980
+80	http://dbpedia.org/resource/80_(number)
+81	http://dbpedia.org/resource/81_(number)
+87	http://dbpedia.org/resource/87_(number)
+888	http://dbpedia.org/resource/888_(number)
+8th of June	http://dbpedia.org/resource/June_8
+9	http://dbpedia.org/resource/9_(number)
+90	http://dbpedia.org/resource/90_(number)
+92	http://dbpedia.org/resource/92_(number)
+93	http://dbpedia.org/resource/93_(number)
+96	http://dbpedia.org/resource/96_(number)
+99	http://dbpedia.org/resource/99_(number)
+9th/12th Royal Lancers	http://dbpedia.org/resource/12th_Royal_Lancers
+A	http://dbpedia.org/resource/Oakland_Athletics
+A3	http://dbpedia.org/resource/A3_road
+AAA rating	http://dbpedia.org/resource/Bond_credit_rating
+AAPL	http://dbpedia.org/resource/Apple_Inc.
+ABC News	http://dbpedia.org/resource/ABC_News
+AFC	http://dbpedia.org/resource/A.F.C._Leopards
+AFC	http://dbpedia.org/resource/Arsenal_F.C.
+AHN	http://dbpedia.org/resource/All_Headline_News
+AJELive	http://dbpedia.org/resource/Al_Jazeera
+ALBUQUERQUE, NM	http://dbpedia.org/resource/Albuquerque,_New_Mexico
+AMEX	http://dbpedia.org/resource/American_Stock_Exchange
+AP	http://dbpedia.org/resource/Associated_Press
+APKs	http://dbpedia.org/resource/APK_(file_format)
+AS Red and AS Blue	http://dbpedia.org/resource/A.S._Red_&_Blue
+ATC	http://dbpedia.org/resource/Air_traffic_control
+ATL	http://dbpedia.org/resource/Atlanta
+ATTORNEY GENERAL HORNE	http://dbpedia.org/resource/Tom_Horne
+AW Tozer	http://dbpedia.org/resource/A._W._Tozer
+Abby Wambach	http://dbpedia.org/resource/Abby_Wambach
+Aberdeen	http://dbpedia.org/resource/Aberdeen
+Abu Dhabi	http://dbpedia.org/resource/Abu_Dhabi
+Actor	http://dbpedia.org/resource/Actor
+Adam Vinatieri	http://dbpedia.org/resource/Adam_Vinatieri
+Adam Young	http://dbpedia.org/resource/Adam_Young
+AddThis	http://dbpedia.org/resource/AddThis
+Adelaide	http://dbpedia.org/resource/Adelaide
+Aden, Yemen	http://dbpedia.org/resource/Aden
+Adli the former minister of Interior	http://dbpedia.org/resource/Habib_el-Adly
+Affordable Care Act	http://dbpedia.org/resource/Patient_Protection_and_Affordable_Care_Act
+Afghan	http://dbpedia.org/resource/Afghan
+Afghan bank	http://dbpedia.org/resource/Da_Afghanistan_Bank
+Afghanistan	http://dbpedia.org/resource/Afghanistan
+Africa	http://dbpedia.org/resource/Africa
+African	http://dbpedia.org/resource/African_people
+African Americans	http://dbpedia.org/resource/African_American
+Air Canada	http://dbpedia.org/resource/Air_Canada
+Al Arabiya	http://dbpedia.org/resource/Al_Arabiya
+Al Jazeera	http://dbpedia.org/resource/Al_Jazeera
+Al Jazeera English	http://dbpedia.org/resource/Al_Jazeera_English
+Al Jazeera Misr	http://dbpedia.org/resource/Al_Jazeera_Mubasher
+Alaa	http://dbpedia.org/resource/Alaa_Mubarak
+Alabama	http://dbpedia.org/resource/Alabama
+Alamance	http://dbpedia.org/resource/Alamance,_North_Carolina
+Alan	http://dbpedia.org/resource/Alan_Carr
+AlanCarr	http://dbpedia.org/resource/Alan_Carr
+Alarms	http://dbpedia.org/resource/Alarm_device
+Alaska	http://dbpedia.org/resource/Alaska
+Alastair Cook	http://dbpedia.org/resource/Alastair_Cook
+Alastair Reynolds	http://dbpedia.org/resource/Alastair_Reynolds
+Albuquerque	http://dbpedia.org/resource/Albuquerque,_New_Mexico
+Alex Meruelo	http://dbpedia.org/resource/Alex_Meruelo
+Alex Morgan	http://dbpedia.org/resource/Alex_Morgan
+Alex Oxlade Chamberlain	http://dbpedia.org/resource/Alex_Oxlade-Chamberlain
+Alex Song	http://dbpedia.org/resource/Alex_Song
+All Headline News	http://dbpedia.org/resource/All_Headline_News
+All-Big 12 team	http://dbpedia.org/resource/Big_12_Conference_All-Time_football_team_(2010)
+Allah	http://dbpedia.org/resource/Allah
+AllenWest	http://dbpedia.org/resource/Allen_West_(politician)
+AllisonIraheta	http://dbpedia.org/resource/Allison_Iraheta
+Alvaro Pereira	http://dbpedia.org/resource/%C3%81lvaro_Pereira
+Amanda Knox	http://dbpedia.org/resource/Amanda_Knox
+Amazon	http://dbpedia.org/resource/Amazon.com
+Ambition	http://dbpedia.org/resource/Ambition_(Wale_album)
+America	http://dbpedia.org/resource/United_States
+American	http://dbpedia.org/resource/Americans
+American	http://dbpedia.org/resource/United_States
+Americans	http://dbpedia.org/resource/Americans
+Ames StrawPoll	http://dbpedia.org/resource/Ames_Straw_Poll
+Amobi Okoye	http://dbpedia.org/resource/Amobi_Okoye
+Amy	http://dbpedia.org/resource/Amy_Winehouse
+Amy Anderson	http://dbpedia.org/resource/Amy_Anderson_(comedian)
+Amy Whinehouse	http://dbpedia.org/resource/Amy_Winehouse
+Amy WineHouse	http://dbpedia.org/resource/Amy_Winehouse
+Amy Winehouse	http://dbpedia.org/resource/Amy_Winehouse
+AmyWinehouse	http://dbpedia.org/resource/Amy_Winehouse
+Amywinehouse	http://dbpedia.org/resource/Amy_Winehouse
+Anders Behring Breivik	http://dbpedia.org/resource/Anders_Behring_Breivik
+AndersBBreivik	http://dbpedia.org/resource/Anders_Behring_Breivik
+Andrew Cuomo	http://dbpedia.org/resource/Andrew_Cuomo
+Andrew Weatherall	http://dbpedia.org/resource/Andrew_Weatherall
+Android	http://dbpedia.org/resource/Android_(operating_system)
+Android Honeycomb	http://dbpedia.org/resource/Android_(operating_system)
+Android Market	http://dbpedia.org/resource/Google_Play
+Andy Coulson	http://dbpedia.org/resource/Andy_Coulson
+Anfield	http://dbpedia.org/resource/Anfield
+AngelaSimmons	http://dbpedia.org/resource/Run's_House
+Angelenos	http://dbpedia.org/resource/Demographics_of_Los_Angeles
+Anger	http://dbpedia.org/resource/Anger
+Angry Birds	http://dbpedia.org/resource/Angry_Birds
+AnonPlus	http://dbpedia.org/resource/Anonplus
+Anonymous	http://dbpedia.org/resource/Anonymous_(group)
+Antichrist	http://dbpedia.org/resource/Antichrist
+Antisec	http://dbpedia.org/resource/Antisec_Movement
+Aperture	http://dbpedia.org/resource/Aperture_(software)
+Apple	http://dbpedia.org/resource/Apple_Inc.
+Apple Retail Stores	http://dbpedia.org/resource/Apple_Store
+Apple Store	http://dbpedia.org/resource/Apple_Store
+Apple Stores	http://dbpedia.org/resource/Apple_Store
+Apple chips	http://dbpedia.org/resource/Apple_A6
+Apprentice	http://dbpedia.org/resource/The_Apprentice_(UK_TV_series)
+April 2010	http://dbpedia.org/resource/April_2010
+Aquarian	http://dbpedia.org/resource/Aquarius_(astrology)
+Aquarians	http://dbpedia.org/resource/Aquarius_(astrology)
+Aquarius	http://dbpedia.org/resource/Aquarius_(astrology)
+Arab	http://dbpedia.org/resource/Arab_world
+ArabSpring	http://dbpedia.org/resource/Arab_Spring
+ArcelorMi	http://dbpedia.org/resource/ArcelorMittal
+Arctic	http://dbpedia.org/resource/Arctic
+ArianaGrande	http://dbpedia.org/resource/Ariana_Grande
+Arians	http://dbpedia.org/resource/Arianism
+Aries	http://dbpedia.org/resource/Aries_(astrology)
+Aristotle	http://dbpedia.org/resource/Aristotle
+Armor of God	http://dbpedia.org/resource/Armor_of_God
+Ars Technica	http://dbpedia.org/resource/Ars_Technica
+Arsenal	http://dbpedia.org/resource/Arsenal_F.C.
+Arsenal Football Club	http://dbpedia.org/resource/Arsenal_F.C.
+Arsene Wenger	http://dbpedia.org/resource/Ars%C3%A8ne_Wenger
+Arsène Wenger	http://dbpedia.org/resource/Ars%C3%A8ne_Wenger
+Aruba	http://dbpedia.org/resource/Aruba
+AshrafGhori	http://dbpedia.org/resource/Ashraf_Ghori
+Asia	http://dbpedia.org/resource/Asia
+Asomugha	http://dbpedia.org/resource/Nnamdi_Asomugha
+Assad	http://dbpedia.org/resource/Bashar_al-Assad
+Aston Villa	http://dbpedia.org/resource/Aston_Villa_F.C.
+Atlanta	http://dbpedia.org/resource/Atlanta
+Atlanta Athletic Club	http://dbpedia.org/resource/Atlanta_Athletic_Club
+Atlantis	http://dbpedia.org/resource/Space_Shuttle_Atlantis
+Atlas 5 rocket	http://dbpedia.org/resource/Atlas_V
+Atletico Madrid	http://dbpedia.org/resource/Atl%C3%A9tico_Madrid
+Attorney	http://dbpedia.org/resource/Lawyer
+Auberge Resorts	http://dbpedia.org/resource/Auberge_Resorts
+Auburn Hills	http://dbpedia.org/resource/Auburn_Hills,_Michigan
+Audio Production Schools	http://dbpedia.org/resource/SAE_Institute
+Aug 1	http://dbpedia.org/resource/August_1
+Aug. 11th	http://dbpedia.org/resource/August_11
+Aug. 15	http://dbpedia.org/resource/August_15
+August	http://dbpedia.org/resource/August
+August 17	http://dbpedia.org/resource/August_17
+August 6	http://dbpedia.org/resource/August_6
+Austin Powers	http://dbpedia.org/resource/Austin_Powers_(film_series)
+AustinMahone	http://dbpedia.org/resource/Austin_Mahone
+Australia	http://dbpedia.org/resource/Australia
+Australian	http://dbpedia.org/resource/Australians
+Autumn's concerto	http://dbpedia.org/resource/Autumn's_Concerto
+Ayn Rand	http://dbpedia.org/resource/Ayn_Rand
+Azkals	http://dbpedia.org/resource/Philippines_national_football_team
+B Scott	http://dbpedia.org/resource/Bart_Scott
+BABY	http://dbpedia.org/resource/Baby_(Justin_Bieber_song)
+BAHRAIN	http://dbpedia.org/resource/Bahrain
+BART	http://dbpedia.org/resource/Bay_Area_Rapid_Transit
+BBC	http://dbpedia.org/resource/BBC
+BBC News	http://dbpedia.org/resource/BBC_News
+BBC News at Six	http://dbpedia.org/resource/BBC_News_at_Six
+BBC Panorama	http://dbpedia.org/resource/Panorama_(TV_series)
+BBC news	http://dbpedia.org/resource/BBC_News_(TV_channel)
+BBC1	http://dbpedia.org/resource/BBC_One
+BBCF1	http://dbpedia.org/resource/BBC_Sport
+BBCNews	http://dbpedia.org/resource/BBC_News
+BBCWorld	http://dbpedia.org/resource/BBC_World_News
+BIRMINGHAM RIOTS	http://dbpedia.org/resource/2011_England_riots
+BPD	http://dbpedia.org/resource/Boston_Police_Department
+BREAKING	http://dbpedia.org/resource/Breaking_news
+BREAKING NEWS	http://dbpedia.org/resource/Breaking_news
+BRIC	http://dbpedia.org/resource/BRIC
+BT	http://dbpedia.org/resource/BT_Group
+BTC	http://dbpedia.org/resource/Bitcoin
+BTR	http://dbpedia.org/resource/Big_Time_Rush
+BVB	http://dbpedia.org/resource/Borussia_Dortmund
+Babe Ruth	http://dbpedia.org/resource/Babe_Ruth
+Bachmann	http://dbpedia.org/resource/Michele_Bachmann
+Bad Romance	http://dbpedia.org/resource/Bad_Romance
+Baharuddin	http://dbpedia.org/resource/Baharuddin_Lopa
+Bahrain	http://dbpedia.org/resource/Bahrain
+Baidu	http://dbpedia.org/resource/Baidu
+Bajan lifestyle	http://dbpedia.org/resource/Culture_of_Barbados
+Baliga	http://dbpedia.org/resource/Baliga
+Bangalore	http://dbpedia.org/resource/Bangalore
+Bangkok	http://dbpedia.org/resource/Bangkok
+Bank of America	http://dbpedia.org/resource/Bank_of_America
+Bank of England	http://dbpedia.org/resource/Bank_of_England
+Bank of Virginia	http://dbpedia.org/resource/Bank_of_Virginia
+Barack Obama	http://dbpedia.org/resource/Barack_Obama
+BarackObama	http://dbpedia.org/resource/Barack_Obama
+Barca	http://dbpedia.org/resource/FC_Barcelona
+Barcelona	http://dbpedia.org/resource/Barcelona
+Barcelona	http://dbpedia.org/resource/FC_Barcelona
+Barking	http://dbpedia.org/resource/Barking
+Barnsley	http://dbpedia.org/resource/Barnsley
+Barrancabermeja	http://dbpedia.org/resource/Barrancabermeja
+Barry Cofield	http://dbpedia.org/resource/Barry_Cofield
+Bartoli	http://dbpedia.org/resource/Marion_Bartoli
+Barça	http://dbpedia.org/resource/FC_Barcelona
+Bay Area Rapid Transit	http://dbpedia.org/resource/Bay_Area_Rapid_Transit
+Bayern	http://dbpedia.org/resource/FC_Bayern_Munich
+Bayern Munich	http://dbpedia.org/resource/FC_Bayern_Munich
+Bayern munich	http://dbpedia.org/resource/FC_Bayern_Munich
+Bear	http://dbpedia.org/resource/Polar_bear
+Bears	http://dbpedia.org/resource/Chicago_Bears
+Beckenham	http://dbpedia.org/resource/Beckenham
+Beer	http://dbpedia.org/resource/Beer
+BeingSalmanKhan	http://dbpedia.org/resource/Salman_Khan
+Belfast	http://dbpedia.org/resource/Belfast
+Berkeley	http://dbpedia.org/resource/Berkeley,_California
+Berkman	http://dbpedia.org/resource/Alexander_Berkman
+Bernabeu	http://dbpedia.org/resource/Santiago_Bernab%C3%A9u_Stadium
+Bernie Ecclestone	http://dbpedia.org/resource/Bernie_Ecclestone
+Bethenny Frankel	http://dbpedia.org/resource/Bethenny_Frankel
+Beyonce	http://dbpedia.org/resource/Beyonc%C3%A9_Knowles
+Beyoncé	http://dbpedia.org/resource/Beyonc%C3%A9_Knowles
+Bieber Fever	http://dbpedia.org/resource/Justin_Bieber
+Big 12 Media Days	http://dbpedia.org/resource/Big_12_Conference
+Big Boi	http://dbpedia.org/resource/Big_Boi
+Big Jim	http://dbpedia.org/resource/Big_Jim
+Big Sean	http://dbpedia.org/resource/Big_Sean
+BigSean	http://dbpedia.org/resource/Big_Sean
+Bill Gates	http://dbpedia.org/resource/Bill_Gates
+Billboard Hot 100 chart	http://dbpedia.org/resource/Billboard_Hot_100
+Billion	http://dbpedia.org/resource/1,000,000,000
+Bing	http://dbpedia.org/resource/Bing
+Bing Maps	http://dbpedia.org/resource/Bing_Maps
+Bird	http://dbpedia.org/resource/Bird
+Birmingham	http://dbpedia.org/resource/Birmingham
+Birmingham City Centre	http://dbpedia.org/resource/Birmingham_City_Centre
+Birmingham city centre	http://dbpedia.org/resource/Birmingham_City_Centre
+Bismarck/Mandan	http://dbpedia.org/resource/Bismarck%E2%80%93Mandan
+Bison	http://dbpedia.org/resource/Bison
+Bitcoin	http://dbpedia.org/resource/Bitcoin
+Black Hats	http://dbpedia.org/resource/Black_hat_(film)
+Black Sea	http://dbpedia.org/resource/Black_Sea
+Black Veil Brides	http://dbpedia.org/resource/Black_Veil_Brides
+Blackberries	http://dbpedia.org/resource/BlackBerry
+Blink-182	http://dbpedia.org/resource/Blink-182
+Blondie	http://dbpedia.org/resource/Blondie_(band)
+Blood Quantum	http://dbpedia.org/resource/Blood_quantum_laws
+Blue Bombers	http://dbpedia.org/resource/Winnipeg_Blue_Bombers
+Blue Button	http://dbpedia.org/resource/The_Blue_Button
+Blue Sky Studios	http://dbpedia.org/resource/Blue_Sky_Studios
+Bluesfest	http://dbpedia.org/resource/Ottawa_Bluesfest
+Bluewater	http://dbpedia.org/resource/Bluewater_(shopping_centre)
+Bob Bradley	http://dbpedia.org/resource/Bob_Bradley
+Bodyguard	http://dbpedia.org/resource/Bodyguard_(2011_Hindi_film)
+Boehner	http://dbpedia.org/resource/John_Boehner
+Boeing	http://dbpedia.org/resource/Boeing
+Boeing CEO McNerney	http://dbpedia.org/resource/James_McNerney
+BofA	http://dbpedia.org/resource/Bank_of_America
+BofI Holding, Inc.	http://dbpedia.org/resource/BofI_Holding_Inc
+Bollywood	http://dbpedia.org/resource/Bollywood
+Bond girl	http://dbpedia.org/resource/Bond_girl
+Bond market	http://dbpedia.org/resource/Bond_market
+Bono	http://dbpedia.org/resource/Bono
+Bootle	http://dbpedia.org/resource/Bootle
+Bordeaux	http://dbpedia.org/resource/Bordeaux
+Boris	http://dbpedia.org/resource/Boris_Johnson
+Boris johnson	http://dbpedia.org/resource/Boris_Johnson
+Borno Haram	http://dbpedia.org/resource/Haram
+Borno State	http://dbpedia.org/resource/Borno_State
+Borussia Dortmund	http://dbpedia.org/resource/Borussia_Dortmund
+Boston	http://dbpedia.org/resource/Boston
+Botox	http://dbpedia.org/resource/Botulinum_toxin
+Bowyer	http://dbpedia.org/resource/Clint_Bowyer
+Brandone Moore	http://dbpedia.org/resource/Brandon_Moore_(guard)
+Braves	http://dbpedia.org/resource/Atlanta_Braves
+Brazil	http://dbpedia.org/resource/Brazil
+Brazilian	http://dbpedia.org/resource/Brazilian_people
+Brazilians	http://dbpedia.org/resource/Brazilian_people
+Breaking News	http://dbpedia.org/resource/Breaking_news
+Breaking news	http://dbpedia.org/resource/Breaking_news
+BreakingNews	http://dbpedia.org/resource/Breaking_news
+Breivik	http://dbpedia.org/resource/Anders_Behring_Breivik
+Brewers	http://dbpedia.org/resource/Milwaukee_Brewers
+Brick Squad Monopoly	http://dbpedia.org/resource/1017_Brick_Squad_Records
+Bristol	http://dbpedia.org/resource/Bristol
+Britain	http://dbpedia.org/resource/Great_Britain
+Britain	http://dbpedia.org/resource/United_Kingdom
+Britain's Capital city	http://dbpedia.org/resource/London
+Britains	http://dbpedia.org/resource/Great_Britain
+Britannia Stadium	http://dbpedia.org/resource/Britannia_Stadium
+British	http://dbpedia.org/resource/British_people
+British Gas	http://dbpedia.org/resource/British_Gas_plc
+British Muslim	http://dbpedia.org/resource/Islam_in_the_United_Kingdom
+British politician	http://dbpedia.org/resource/Politics_of_the_United_Kingdom
+British soldier	http://dbpedia.org/resource/British_Soldier
+British soldiers	http://dbpedia.org/resource/British_Army
+Britney	http://dbpedia.org/resource/Britney_Spears
+Brixton	http://dbpedia.org/resource/Brixton
+Broadway	http://dbpedia.org/resource/Broadway_theatre
+Broderick Bunkley	http://dbpedia.org/resource/Brodrick_Bunkley
+Bromwich	http://dbpedia.org/resource/West_Bromwich
+Brooks	http://dbpedia.org/resource/Rebekah_Brooks
+Brown	http://dbpedia.org/resource/Cleveland_Browns
+Browns	http://dbpedia.org/resource/Cleveland_Browns
+Bruce Willis	http://dbpedia.org/resource/Bruce_Willis
+Brunnell	http://dbpedia.org/resource/Mark_Brunell
+Bruno Mars	http://dbpedia.org/resource/Bruno_Mars
+BubbaSmith	http://dbpedia.org/resource/Bubba_Smith
+Buccaneers	http://dbpedia.org/resource/Tampa_Bay_Buccaneers
+Buddha	http://dbpedia.org/resource/Gautama_Buddha
+Buddhist holiday	http://dbpedia.org/resource/Buddhist_holidays
+Buffalo Bills	http://dbpedia.org/resource/Buffalo_Bills
+Bundy	http://dbpedia.org/resource/Ted_Bundy
+Bureau of Ocean En	http://dbpedia.org/resource/Bureau_of_Ocean_Energy_Management,_Regulation_and_Enforcement
+Burgan Bank	http://dbpedia.org/resource/Burgan_Bank
+Bush	http://dbpedia.org/resource/Reggie_Bush
+Buzz	http://dbpedia.org/resource/Buzz_Lightyear
+C Pace	http://dbpedia.org/resource/Calvin_Pace
+CBA	http://dbpedia.org/resource/2011_NFL_lockout
+CBS	http://dbpedia.org/resource/CBS
+CBS 21 News	http://dbpedia.org/resource/WHP-TV
+CBS News	http://dbpedia.org/resource/CBS_News
+CBSNews	http://dbpedia.org/resource/CBS_News
+CCBL championship series	http://dbpedia.org/resource/Cape_Cod_Baseball_League
+CCTV	http://dbpedia.org/resource/Closed-circuit_television
+CEO	http://dbpedia.org/resource/Chief_executive_officer
+CEOs	http://dbpedia.org/resource/Chief_executive_officer
+CFC	http://dbpedia.org/resource/Chelsea_F.C.
+CHARLESTON, South Carolina	http://dbpedia.org/resource/Charleston,_South_Carolina
+CHOP	http://dbpedia.org/resource/Children's_Hospital_of_Philadelphia
+CIA	http://dbpedia.org/resource/Central_Intelligence_Agency
+CIO	http://dbpedia.org/resource/Chief_information_officer
+CMPunk	http://dbpedia.org/resource/CM_Punk
+CNBC	http://dbpedia.org/resource/CNBC
+CNBC-TV18	http://dbpedia.org/resource/CNBC-TV18
+CNN	http://dbpedia.org/resource/CNN
+COREY HART	http://dbpedia.org/resource/Corey_Hart_(baseball)
+COURT	http://dbpedia.org/resource/United_States_federal_courts
+CSI	http://dbpedia.org/resource/CSI:_Crime_Scene_Investigation
+CSLEWIS	http://dbpedia.org/resource/C._S._Lewis
+CSLewis	http://dbpedia.org/resource/C._S._Lewis
+CYBEX	http://dbpedia.org/resource/Cybex_International
+Cabinet	http://dbpedia.org/resource/Cabinet_(government)
+Cairns	http://dbpedia.org/resource/Cairns
+Cairo	http://dbpedia.org/resource/Cairo
+California	http://dbpedia.org/resource/California
+Call 911	http://dbpedia.org/resource/Call_911
+Cam Newton	http://dbpedia.org/resource/Cam_Newton
+Cambodia	http://dbpedia.org/resource/Cambodia
+Cambridgeshire	http://dbpedia.org/resource/Cambridgeshire
+Camden	http://dbpedia.org/resource/Camden,_New_Jersey
+Cameron	http://dbpedia.org/resource/David_Cameron
+Camlough	http://dbpedia.org/resource/Camlough
+Campbell	http://dbpedia.org/resource/David_Campbell_(Australian_musician)
+Campbell	http://dbpedia.org/resource/Joel_Campbell
+Canada	http://dbpedia.org/resource/Canada
+Cancer	http://dbpedia.org/resource/Cancer
+Cancer	http://dbpedia.org/resource/Cancer_(astrology)
+Cancers	http://dbpedia.org/resource/Cancer_(astrology)
+Candy Spelling	http://dbpedia.org/resource/Candy_Spelling
+Canmore	http://dbpedia.org/resource/Canmore,_Alberta
+Canon Rebel EOS	http://dbpedia.org/resource/Canon_EOS
+Canon Rebel series	http://dbpedia.org/resource/Canon_EOS
+Cantor	http://dbpedia.org/resource/Eric_Cantor
+Canucks	http://dbpedia.org/resource/Vancouver_Canucks
+Capgemini	http://dbpedia.org/resource/Capgemini
+Capitol	http://dbpedia.org/resource/United_States_Capitol
+Capricorn	http://dbpedia.org/resource/Capricorn_(astrology)
+Capricorns	http://dbpedia.org/resource/Capricorn_(astrology)
+Carbon monoxide	http://dbpedia.org/resource/Carbon_monoxide
+Cardiff	http://dbpedia.org/resource/Cardiff
+Cardinals	http://dbpedia.org/resource/Arizona_Cardinals
+Cargill	http://dbpedia.org/resource/Cargill
+Carl Icahn	http://dbpedia.org/resource/Carl_Icahn
+Carlisle	http://dbpedia.org/resource/City_of_Carlisle
+Carmageddon Race	http://dbpedia.org/resource/Carmageddon
+Casey Anthony	http://dbpedia.org/resource/Death_of_Caylee_Anthony
+CaseyAnthony	http://dbpedia.org/resource/Death_of_Caylee_Anthony
+CaseyCuntAnthony	http://dbpedia.org/resource/Death_of_Caylee_Anthony
+Casino Royale	http://dbpedia.org/resource/Casino_Royale_(novel)
+Catch-22	http://dbpedia.org/resource/Catch-22
+Cathay Pacific	http://dbpedia.org/resource/Cathay_Pacific
+Catherine the Great	http://dbpedia.org/resource/Catherine_the_Great
+Catholics	http://dbpedia.org/resource/Catholicism
+Caucasian	http://dbpedia.org/resource/Caucasian_race
+Caucus	http://dbpedia.org/resource/Caucus
+Cdnpoli	http://dbpedia.org/resource/Politics_of_Canada
+Celtic	http://dbpedia.org/resource/Celtic_F.C.
+Census	http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census
+Cesc	http://dbpedia.org/resource/Cesc_F%C3%A0bregas
+Cesc Fabregas	http://dbpedia.org/resource/Cesc_F%C3%A0bregas
+Chad Henne	http://dbpedia.org/resource/Chad_Henne
+ChadMMurray	http://dbpedia.org/resource/Chad_Michael_Murray
+Champions League	http://dbpedia.org/resource/UEFA_Champions_League
+Chandigarh	http://dbpedia.org/resource/Chandigarh
+Chandler	http://dbpedia.org/resource/Chandler_Bing
+Channel 4 news	http://dbpedia.org/resource/Channel_4_News
+Chapeltown	http://dbpedia.org/resource/Chapeltown,_Leeds
+Charles 'Bubba' Smith	http://dbpedia.org/resource/Bubba_Smith
+Charles N'zogbia	http://dbpedia.org/resource/Charles_N'Zogbia
+Charleston, SC.	http://dbpedia.org/resource/Charleston,_South_Carolina
+Charlton	http://dbpedia.org/resource/Charlton,_Worcestershire
+Charlton	http://dbpedia.org/resource/Charlton_Athletic_F.C.
+Chase	http://dbpedia.org/resource/Chase_for_the_Sprint_Cup
+Chatroulette	http://dbpedia.org/resource/Chatroulette
+Chch quake	http://dbpedia.org/resource/2011_Christchurch_earthquake
+Chelsea	http://dbpedia.org/resource/Chelsea,_Manhattan
+Chelsea	http://dbpedia.org/resource/Chelsea_F.C.
+Chelsea boss Andre Villas-Boas	http://dbpedia.org/resource/Andr%C3%A9_Villas-Boas
+Chelsea squad	http://dbpedia.org/resource/Chelsea_F.C.
+CherLloyd	http://dbpedia.org/resource/Cher_Lloyd
+Chevron	http://dbpedia.org/resource/Chevron_Corporation
+Chicago	http://dbpedia.org/resource/Chicago_White_Sox
+Chicago Cubs	http://dbpedia.org/resource/Chicago_Cubs
+Chief Constable	http://dbpedia.org/resource/Chief_constable
+China	http://dbpedia.org/resource/China
+China Southern Airlines	http://dbpedia.org/resource/China_Southern_Airlines
+China's central bank governor	http://dbpedia.org/resource/Zhou_Xiaochuan
+China's growing navy	http://dbpedia.org/resource/People's_Liberation_Army_Navy
+China's population	http://dbpedia.org/resource/Demographics_of_China
+Chinese	http://dbpedia.org/resource/Chinese_people
+Chinese	http://dbpedia.org/resource/Chinese_white_dolphin
+Chinese City	http://dbpedia.org/resource/Jiangmen
+Chinese city	http://dbpedia.org/resource/Jiangmen
+Cholesterol	http://dbpedia.org/resource/Cholesterol
+Chris	http://dbpedia.org/resource/Chris_Griffin
+Chris Brown	http://dbpedia.org/resource/Chris_Brown_(American_entertainer)
+Chris Martin	http://dbpedia.org/resource/Chris_Martin_(cricketer)
+ChrisBrown	http://dbpedia.org/resource/Chris_Brown_(American_entertainer)
+ChrisBrownTODAY	http://dbpedia.org/resource/Chris_Brown_(American_entertainer)
+ChrisBryantMP	http://dbpedia.org/resource/Chris_Bryant
+Christ	http://dbpedia.org/resource/Christ
+Christine Lagarde	http://dbpedia.org/resource/Christine_Lagarde
+Chuck Norris	http://dbpedia.org/resource/Chuck_Norris
+ChuckNorriz	http://dbpedia.org/resource/Chuck_Norris
+Cincinnati airport	http://dbpedia.org/resource/Cincinnati_Airport
+Cissokho	http://dbpedia.org/resource/Aly_Cissokho
+Civic Center	http://dbpedia.org/resource/Civic_center
+Clapham	http://dbpedia.org/resource/Clapham
+Clapham Junction	http://dbpedia.org/resource/Clapham_Junction_railway_station
+Class Action Lawsuit	http://dbpedia.org/resource/Class_action
+Clayton	http://dbpedia.org/resource/Mark_Jermaine_Clayton
+Cleveland	http://dbpedia.org/resource/Cleveland
+Cleveland Police	http://dbpedia.org/resource/Cleveland_Police
+Clinton	http://dbpedia.org/resource/Clinton,_Indiana
+Clorox	http://dbpedia.org/resource/Clorox
+Close to the Edge	http://dbpedia.org/resource/Close_to_the_Edge_(Yes_album)
+Club	http://dbpedia.org/resource/Manchester_United_F.C.
+Clydesdale Bank 40	http://dbpedia.org/resource/ECB_40
+Cm punk	http://dbpedia.org/resource/CM_Punk
+Co Mayo	http://dbpedia.org/resource/County_Mayo
+Coca-Cola	http://dbpedia.org/resource/Coca-Cola
+Coldplay	http://dbpedia.org/resource/Coldplay
+Colin Kaepernick	http://dbpedia.org/resource/Colin_Kaepernick
+Cologne	http://dbpedia.org/resource/1._FC_K%C3%B6ln
+Colts	http://dbpedia.org/resource/Indianapolis_Colts
+Comcast-Spectacor	http://dbpedia.org/resource/Comcast_Spectacor
+Comic-Con	http://dbpedia.org/resource/Central_Canada_Comic_Con
+Commons	http://dbpedia.org/resource/House_of_Commons_of_the_United_Kingdom
+Community Shield	http://dbpedia.org/resource/FA_Community_Shield
+Conan O’Brien	http://dbpedia.org/resource/Conan_O'Brien
+Congress	http://dbpedia.org/resource/Congress
+Congress	http://dbpedia.org/resource/United_States_Congress
+Congressman	http://dbpedia.org/resource/Member_of_Congress
+Congressman Bill Johnson	http://dbpedia.org/resource/Bill_Johnson_(Ohio_politician)
+Copa America	http://dbpedia.org/resource/Copa_Am%C3%A9rica
+Copa AmÃ©rica	http://dbpedia.org/resource/Copa_Am%C3%A9rica
+Cops	http://dbpedia.org/resource/Police_officer
+Cordero	http://dbpedia.org/resource/Francisco_Cordero
+Corinthians	http://dbpedia.org/resource/Corinthian_F.C.
+Cornel West	http://dbpedia.org/resource/Cornel_West
+Corporate barter exchanges	http://dbpedia.org/resource/Barter
+Costa Calida	http://dbpedia.org/resource/Costa_C%C3%A1lida
+Costco	http://dbpedia.org/resource/Costco
+Coventry	http://dbpedia.org/resource/Coventry
+Credit default swap	http://dbpedia.org/resource/Credit_default_swap
+Credit rating agency	http://dbpedia.org/resource/Credit_rating_agency
+Credit ratings agencies	http://dbpedia.org/resource/Credit_rating_agency
+Croatian	http://dbpedia.org/resource/Croats
+Croc	http://dbpedia.org/resource/Crocodile
+Croft	http://dbpedia.org/resource/Steven_Croft_(cricketer)
+Crores	http://dbpedia.org/resource/Crore
+Crowd	http://dbpedia.org/resource/Crowd
+Croydon	http://dbpedia.org/resource/Croydon
+Croydon Mosque	http://dbpedia.org/resource/Croydon_Mosque
+Cubs	http://dbpedia.org/resource/Chicago_Cubs
+Curry's store	http://dbpedia.org/resource/Currys
+D. McNabb	http://dbpedia.org/resource/Donovan_McNabb
+D.B. Cooper	http://dbpedia.org/resource/D._B._Cooper
+D.C.	http://dbpedia.org/resource/Washington,_D.C.
+DAILY MAIL	http://dbpedia.org/resource/Daily_Mail
+DARPA	http://dbpedia.org/resource/DARPA
+DC	http://dbpedia.org/resource/Washington,_D.C.
+DC.	http://dbpedia.org/resource/Washington,_D.C.
+DDos attack	http://dbpedia.org/resource/Denial-of-service_attack
+DE Jarvis Moss	http://dbpedia.org/resource/Jarvis_Moss
+DE Jason Babin	http://dbpedia.org/resource/Jason_Babin
+DEA	http://dbpedia.org/resource/Drug_Enforcement_Administration
+DEVisHot	http://dbpedia.org/resource/Dev_(singer)
+DMV	http://dbpedia.org/resource/Department_of_Motor_Vehicles
+DOG	http://dbpedia.org/resource/Dog
+DOMA	http://dbpedia.org/resource/Defense_of_Marriage_Act
+DR Cromatrie	http://dbpedia.org/resource/Dominique_Rodgers-Cromartie
+DSU	http://dbpedia.org/resource/Delaware_State_University
+DUI	http://dbpedia.org/resource/Driving_under_the_influence
+DVDs	http://dbpedia.org/resource/DVD
+Dalai Lama	http://dbpedia.org/resource/Dalai_Lama
+Dale Carnegie	http://dbpedia.org/resource/Dale_Carnegie
+Dallas	http://dbpedia.org/resource/Dallas
+Damascus	http://dbpedia.org/resource/Damascus
+Damien Wright	http://dbpedia.org/resource/Damien_Wright
+Dan Radcliffe	http://dbpedia.org/resource/Daniel_Radcliffe
+Dan Rivers	http://dbpedia.org/resource/Dan_Rivers
+Dana Ave in Hyde Park	http://dbpedia.org/resource/Hyde_Park,_Boston
+Dana Gas	http://dbpedia.org/resource/Dana_Gas
+Daniel	http://dbpedia.org/resource/Daniel_Radcliffe
+Daniel Radcliffe	http://dbpedia.org/resource/Daniel_Radcliffe
+Darfur	http://dbpedia.org/resource/Darfur
+Darlington	http://dbpedia.org/resource/Darlington,_Indiana
+Darren Clarke	http://dbpedia.org/resource/Darren_Clarke
+Darren Criss	http://dbpedia.org/resource/Darren_Criss
+Dartford	http://dbpedia.org/resource/Dartford
+Data Mining	http://dbpedia.org/resource/Data_mining
+David Cameron	http://dbpedia.org/resource/David_Cameron
+David Ford	http://dbpedia.org/resource/David_Ford
+David Wu	http://dbpedia.org/resource/David_Wu
+David Yates	http://dbpedia.org/resource/David_Yates
+DavidCornDC	http://dbpedia.org/resource/David_Corn
+DavidShuster	http://dbpedia.org/resource/David_Shuster
+Dayton	http://dbpedia.org/resource/Dayton,_Ohio
+De Smith	http://dbpedia.org/resource/DeMaurice_Smith
+DeMarcus Cousins	http://dbpedia.org/resource/DeMarcus_Cousins
+DeSean Jackson	http://dbpedia.org/resource/DeSean_Jackson
+Deathly Hallows Part 2	http://dbpedia.org/resource/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2
+Debt Ceiling Agreement	http://dbpedia.org/resource/United_States_debt_ceiling
+Dec 06	http://dbpedia.org/resource/December_6
+Dec 09	http://dbpedia.org/resource/December_9
+Dec. 30th	http://dbpedia.org/resource/December_30
+Def	http://dbpedia.org/resource/Def_Leppard
+Deitrick	http://dbpedia.org/resource/Campus_of_Virginia_Tech
+Demi	http://dbpedia.org/resource/Demi_Lovato
+Demi Lovato	http://dbpedia.org/resource/Demi_Lovato
+Democrats	http://dbpedia.org/resource/Democratic_Party_(United_States)
+Denver	http://dbpedia.org/resource/Denver_Broncos
+Department of Enviromental Quality	http://dbpedia.org/resource/Oklahoma_Department_of_Environmental_Quality
+Deputy Prime Minister	http://dbpedia.org/resource/Deputy_prime_minister
+Derby	http://dbpedia.org/resource/Derby
+Derbyshire	http://dbpedia.org/resource/Derbyshire_County_Cricket_Club
+Derrybeg	http://dbpedia.org/resource/Derrybeg
+Desperate Housewives	http://dbpedia.org/resource/Desperate_Housewives
+Detroit	http://dbpedia.org/resource/Detroit
+Deut	http://dbpedia.org/resource/Book_of_Deuteronomy
+Devon Smith	http://dbpedia.org/resource/Devon_Smith_(footballer)
+Dhiba	http://dbpedia.org/resource/Dehiba
+Diabetes	http://dbpedia.org/resource/Diabetes_mellitus
+Dietrick	http://dbpedia.org/resource/Campus_of_Virginia_Tech
+Dietrick dining hall	http://dbpedia.org/resource/Campus_of_Virginia_Tech
+Disc Jockey	http://dbpedia.org/resource/Disc_jockey
+Disney	http://dbpedia.org/resource/The_Walt_Disney_Company
+Divided House	http://dbpedia.org/resource/United_States_House_of_Representatives
+DjokerNole	http://dbpedia.org/resource/Novak_Djokovic
+Doctor Who	http://dbpedia.org/resource/Doctor_Who
+Dodgers	http://dbpedia.org/resource/Los_Angeles_Dodgers
+Dogs	http://dbpedia.org/resource/Dog
+Doha	http://dbpedia.org/resource/Doha
+Dolphins	http://dbpedia.org/resource/Miami_Dolphins
+Dominican Day Parade	http://dbpedia.org/resource/Dominican_Day_Parade
+Dominique Rodgers-Crom	http://dbpedia.org/resource/Dominique_Rodgers-Cromartie
+Don Mann	http://dbpedia.org/resource/Don_Mann
+Don't Stop Believin'	http://dbpedia.org/resource/Don't_Stop_Believin'
+Donahoe	http://dbpedia.org/resource/John_Donahoe
+Doncaster	http://dbpedia.org/resource/Doncaster
+Donnie Yen	http://dbpedia.org/resource/Donnie_Yen
+Donovan McNabb	http://dbpedia.org/resource/Donovan_McNabb
+Doojoon	http://dbpedia.org/resource/Yoon_Doo-joon
+Dortmund	http://dbpedia.org/resource/Borussia_Dortmund
+Dougie	http://dbpedia.org/resource/Dougie
+Dovizioso	http://dbpedia.org/resource/Andrea_Dovizioso
+Dow	http://dbpedia.org/resource/Dow_Jones_Industrial_Average
+Dow Jones	http://dbpedia.org/resource/Dow_Jones_&_Company
+Dow Jones	http://dbpedia.org/resource/Dow_Jones_Industrial_Average
+Dow Jones index	http://dbpedia.org/resource/Dow_Jones_Industrial_Average
+Downing	http://dbpedia.org/resource/Stewart_Downing
+Dream Team	http://dbpedia.org/resource/Dream_Team
+Drew Rosenhaus	http://dbpedia.org/resource/Drew_Rosenhaus
+Droid 3	http://dbpedia.org/resource/Droid_3
+Dublin Super Cup	http://dbpedia.org/resource/2011_Dublin_Super_Cup
+Duce pound	http://dbpedia.org/resource/Maybach_Music_Group
+Dudley	http://dbpedia.org/resource/Dudley
+Duggan	http://dbpedia.org/resource/Death_of_Mark_Duggan
+Duggan shooting	http://dbpedia.org/resource/Death_of_Mark_Duggan
+Duke	http://dbpedia.org/resource/Duke_Nukem_Forever
+Dunn	http://dbpedia.org/resource/Adam_Dunn
+Dutch	http://dbpedia.org/resource/Dutch_people
+Dutch Lion	http://dbpedia.org/resource/Dayton_Dutch_Lions
+Dwayne Wade	http://dbpedia.org/resource/Dwyane_Wade
+E.A. Poe	http://dbpedia.org/resource/Edgar_Allan_Poe
+ECB	http://dbpedia.org/resource/European_Central_Bank
+ED	http://dbpedia.org/resource/Directorate_General_of_Economic_Enforcement
+EDT	http://dbpedia.org/resource/Eastern_Time_Zone
+EF	http://dbpedia.org/resource/Ethanol_fuel
+EFC	http://dbpedia.org/resource/Everton_F.C.
+ENOC	http://dbpedia.org/resource/Emirates_National_Oil_Company
+EPA	http://dbpedia.org/resource/United_States_Environmental_Protection_Agency
+EPL	http://dbpedia.org/resource/Premier_League
+EQT Corp	http://dbpedia.org/resource/EQT
+ESPN	http://dbpedia.org/resource/ESPN
+ESPNSoccernet	http://dbpedia.org/resource/ESPN_FC
+ESPNcricinfo	http://dbpedia.org/resource/ESPNcricinfo
+ESSEX	http://dbpedia.org/resource/Essex
+EWErickson	http://dbpedia.org/resource/Erick_Erickson
+Eagle	http://dbpedia.org/resource/Eagle
+Eagles	http://dbpedia.org/resource/Philadelphia_Eagles
+Ealing	http://dbpedia.org/resource/Ealing
+Earlsfield	http://dbpedia.org/resource/Earlsfield
+Earth	http://dbpedia.org/resource/Earth
+East Ham	http://dbpedia.org/resource/East_Ham
+East Texas	http://dbpedia.org/resource/East_Texas
+East dulwich	http://dbpedia.org/resource/East_Dulwich
+Edinburgh	http://dbpedia.org/resource/Edinburgh
+Edmonton	http://dbpedia.org/resource/Edmonton,_London
+Egypt	http://dbpedia.org/resource/Egypt
+Egyptian troops	http://dbpedia.org/resource/Egyptian_Armed_Forces
+Egyptians	http://dbpedia.org/resource/Egyptians
+Eight	http://dbpedia.org/resource/8_(number)
+El Bulli	http://dbpedia.org/resource/ElBulli
+Elderly	http://dbpedia.org/resource/Old_age
+Ellison	http://dbpedia.org/resource/Keith_Ellison
+Eltham	http://dbpedia.org/resource/Eltham
+EmWatson	http://dbpedia.org/resource/Emma_Watson
+Emily	http://dbpedia.org/resource/Tropical_Storm_Emily_(2011)
+Enchanted	http://dbpedia.org/resource/Enchanted_(film)
+Enfield	http://dbpedia.org/resource/Enfield_Town
+Enfield	http://dbpedia.org/resource/London_Borough_of_Enfield
+Enforcement Directorate	http://dbpedia.org/resource/Directorate_General_of_Economic_Enforcement
+England	http://dbpedia.org/resource/England
+England	http://dbpedia.org/resource/England_cricket_team
+England team	http://dbpedia.org/resource/England_cricket_team
+English	http://dbpedia.org/resource/English_language
+Enrique	http://dbpedia.org/resource/Jos%C3%A9_Enrique_S%C3%A1nchez
+Eph	http://dbpedia.org/resource/Epistle_to_the_Ephesians
+Epictetus	http://dbpedia.org/resource/Epictetus
+Eric Bledsoe	http://dbpedia.org/resource/Eric_Bledsoe
+Eric Cantor	http://dbpedia.org/resource/Eric_Cantor
+Erik  Bedard	http://dbpedia.org/resource/%C3%89rik_B%C3%A9dard
+Erik Spoelstra	http://dbpedia.org/resource/Erik_Spoelstra
+Essence	http://dbpedia.org/resource/Essence_(magazine)
+Essex	http://dbpedia.org/resource/Essex
+Etihad Stadium	http://dbpedia.org/resource/City_of_Manchester_Stadium
+Eton	http://dbpedia.org/resource/Eton_College
+Euro	http://dbpedia.org/resource/Euro
+Europa League	http://dbpedia.org/resource/UEFA_Europa_League
+Europe	http://dbpedia.org/resource/Europe
+European	http://dbpedia.org/resource/Citizenship_of_the_European_Union
+European Central Bank	http://dbpedia.org/resource/European_Central_Bank
+European Union	http://dbpedia.org/resource/European_Union
+Euros	http://dbpedia.org/resource/UEFA_European_Football_Championship
+Eurozone	http://dbpedia.org/resource/Eurozone
+Exec Committee	http://dbpedia.org/resource/Committee
+Exxon	http://dbpedia.org/resource/ExxonMobil
+Exxon Mobil	http://dbpedia.org/resource/ExxonMobil
+F-22	http://dbpedia.org/resource/Lockheed_Martin_F-22_Raptor
+F1	http://dbpedia.org/resource/Formula_One
+FA	http://dbpedia.org/resource/The_Football_Association
+FA Cup	http://dbpedia.org/resource/FA_Cup
+FAA	http://dbpedia.org/resource/Federal_Aviation_Administration
+FB	http://dbpedia.org/resource/Facebook
+FBI	http://dbpedia.org/resource/Federal_Bureau_of_Investigation
+FCB	http://dbpedia.org/resource/FC_Barcelona
+FCC	http://dbpedia.org/resource/Federal_Communications_Commission
+FDA	http://dbpedia.org/resource/Food_and_Drug_Administration
+FDR	http://dbpedia.org/resource/Franklin_D._Roosevelt
+FIFA Women's world cup	http://dbpedia.org/resource/FIFA_Women's_World_Cup
+FXCM	http://dbpedia.org/resource/FXCM
+FY2012	http://dbpedia.org/resource/2012_United_States_federal_budget
+Fabregas	http://dbpedia.org/resource/Cesc_F%C3%A0bregas
+Face book	http://dbpedia.org/resource/Facebook
+FaceBook	http://dbpedia.org/resource/Facebook
+Facebook	http://dbpedia.org/resource/Facebook
+Facebook.	http://dbpedia.org/resource/Facebook
+Falcon HTV-2	http://dbpedia.org/resource/Hypersonic_Technology_Vehicle_2
+Faleomavaega	http://dbpedia.org/resource/Eni_Faleomavaega
+Falmouth	http://dbpedia.org/resource/Falmouth_Commodores
+Family Guy	http://dbpedia.org/resource/Family_Guy
+Fannie Mae	http://dbpedia.org/resource/Fannie_Mae
+Feb. 5	http://dbpedia.org/resource/February_5
+Feb20	http://dbpedia.org/resource/February_20
+February	http://dbpedia.org/resource/February
+Federal Aviation Administration	http://dbpedia.org/resource/Federal_Aviation_Administration
+Fellaini	http://dbpedia.org/resource/Marouane_Fellaini
+Fenelon Falls	http://dbpedia.org/resource/Fenelon_Falls
+Fenland	http://dbpedia.org/resource/Fenland
+Ferb	http://dbpedia.org/resource/Ferb_Fletcher
+Ferguson	http://dbpedia.org/resource/Alex_Ferguson
+Fernando Torres	http://dbpedia.org/resource/Fernando_Torres
+Ferran	http://dbpedia.org/resource/Ferran_Adri%C3%A0
+Film4	http://dbpedia.org/resource/Film4
+FinallyFamous	http://dbpedia.org/resource/Finally_Famous_(Big_Sean_album)
+Finn	http://dbpedia.org/resource/Steven_Finn_(cricketer)
+Finnish	http://dbpedia.org/resource/Finns
+Firefighters	http://dbpedia.org/resource/Firefighter
+First Responders	http://dbpedia.org/resource/Certified_first_responder
+Five	http://dbpedia.org/resource/5_(number)
+Flaming C	http://dbpedia.org/resource/List_of_Conan_sketches
+Florida	http://dbpedia.org/resource/Florida
+Florida	http://dbpedia.org/resource/List_of_people_from_Florida
+Fodor's	http://dbpedia.org/resource/Fodor's
+Football	http://dbpedia.org/resource/Association_football
+Football	http://dbpedia.org/resource/Football
+FootballManager	http://dbpedia.org/resource/Football_Manager
+Ford	http://dbpedia.org/resource/Ford_Motor_Company
+Forex	http://dbpedia.org/resource/Foreign_exchange_market
+Forlan	http://dbpedia.org/resource/Diego_Forl%C3%A1n
+Former Ravens S Dawan Landry	http://dbpedia.org/resource/Dawan_Landry
+Formula1	http://dbpedia.org/resource/Formula_One
+Foster Wheeler	http://dbpedia.org/resource/Foster_Wheeler
+Fox News	http://dbpedia.org/resource/Fox_News_Channel
+FoxNews	http://dbpedia.org/resource/Fox_News_Channel
+Foxconn	http://dbpedia.org/resource/Foxconn
+France	http://dbpedia.org/resource/France
+FrankieTheSats	http://dbpedia.org/resource/Frankie_Sandford
+Franklin D. Roosevelt	http://dbpedia.org/resource/Franklin_D._Roosevelt
+Fred Weasley	http://dbpedia.org/resource/Dumbledore's_Army
+French	http://dbpedia.org/resource/French_people
+French people	http://dbpedia.org/resource/French_people
+Fri	http://dbpedia.org/resource/Friday
+Friday	http://dbpedia.org/resource/Friday
+Fulham	http://dbpedia.org/resource/Fulham_F.C.
+Full Moon	http://dbpedia.org/resource/Full_moon
+Furcal	http://dbpedia.org/resource/Rafael_Furcal
+G+	http://dbpedia.org/resource/Google+
+GAA	http://dbpedia.org/resource/Gaelic_Athletic_Association
+GB	http://dbpedia.org/resource/Great_Britain
+GDP growth	http://dbpedia.org/resource/Economic_growth
+GIANTS	http://dbpedia.org/resource/New_York_Giants
+GM	http://dbpedia.org/resource/General_Motors
+GMAT	http://dbpedia.org/resource/Graduate_Management_Admission_Test
+GMPolice	http://dbpedia.org/resource/Greater_Manchester_Police
+GOD	http://dbpedia.org/resource/God
+GOP	http://dbpedia.org/resource/Republican_Party_(United_States)
+GPA	http://dbpedia.org/resource/Grading_(education)
+GREEN LANTERN	http://dbpedia.org/resource/Green_Lantern_(film)
+GTA	http://dbpedia.org/resource/Grand_Theft_Auto_(video_game)
+Gabrielle Giffords	http://dbpedia.org/resource/Gabrielle_Giffords
+Gadhafi's Son	http://dbpedia.org/resource/Saif_al-Arab_Gaddafi
+Galileo	http://dbpedia.org/resource/Galileo_Galilei
+Gallery	http://dbpedia.org/resource/Robert_Gallery
+Gallup	http://dbpedia.org/resource/Gallup_(company)
+Galway	http://dbpedia.org/resource/Galway
+Galway Arts Festival	http://dbpedia.org/resource/Galway_Arts_Festival
+Gamal	http://dbpedia.org/resource/Gamal_Mubarak
+Game of Thrones	http://dbpedia.org/resource/Game_of_Thrones
+Gang of Six	http://dbpedia.org/resource/Gang_of_Six
+Gay Byrne	http://dbpedia.org/resource/Gay_Byrne
+Geico	http://dbpedia.org/resource/GEICO
+Gemini	http://dbpedia.org/resource/Gemini_(astrology)
+Geminis	http://dbpedia.org/resource/Gemini_(astrology)
+George Eads	http://dbpedia.org/resource/George_Eads
+George Osborne	http://dbpedia.org/resource/George_Osborne
+Georgia	http://dbpedia.org/resource/Georgia_(U.S._state)
+Georgia	http://dbpedia.org/resource/Georgia_(country)
+Georgia	http://dbpedia.org/resource/Georgia_national_football_team
+Gerard Way	http://dbpedia.org/resource/Gerard_Way
+Gerber Baby	http://dbpedia.org/resource/Gerber_Baby
+German Grand Prix	http://dbpedia.org/resource/2011_German_Grand_Prix
+Germany	http://dbpedia.org/resource/Germany
+Gerrard	http://dbpedia.org/resource/Steven_Gerrard
+Gervinho	http://dbpedia.org/resource/Gervinho
+Gerviniho	http://dbpedia.org/resource/Gervinho
+GetGlue	http://dbpedia.org/resource/GetGlue
+Ghanam town	http://dbpedia.org/resource/Bir_al-Ghanam
+Giants	http://dbpedia.org/resource/New_York_Giants
+Giffords	http://dbpedia.org/resource/Gabrielle_Giffords
+Giggs	http://dbpedia.org/resource/Ryan_Giggs
+Gilenya	http://dbpedia.org/resource/Fingolimod
+Gillispie	http://dbpedia.org/resource/Billy_Gillispie
+Gitchee, Gitchee, Goo	http://dbpedia.org/resource/Flop_Starz
+Glasgow	http://dbpedia.org/resource/Glasgow
+Glee	http://dbpedia.org/resource/Glee_(TV_series)
+Glee 3D	http://dbpedia.org/resource/Glee:_The_3D_Concert_Movie
+GlobeandMail	http://dbpedia.org/resource/The_Globe_and_Mail
+Gloucester	http://dbpedia.org/resource/Gloucester
+Go Compare	http://dbpedia.org/resource/Gocompare.com
+GoAztecs	http://dbpedia.org/resource/San_Diego_State_Aztecs
+God	http://dbpedia.org/resource/God
+God	http://dbpedia.org/resource/God_in_Judaism
+God the Father	http://dbpedia.org/resource/God_the_Father
+Gods	http://dbpedia.org/resource/God
+Goldman Sachs	http://dbpedia.org/resource/Goldman_Sachs
+Golf Balls	http://dbpedia.org/resource/Golf_ball
+Golf ball	http://dbpedia.org/resource/Golf_ball
+Goo Hara	http://dbpedia.org/resource/Goo_Ha-ra
+Good Weekend	http://dbpedia.org/resource/The_Sydney_Morning_Herald
+Goodell	http://dbpedia.org/resource/Roger_Goodell
+Google	http://dbpedia.org/resource/Google
+Google translator	http://dbpedia.org/resource/Google_Translate
+Google+	http://dbpedia.org/resource/Google+
+GoonSquad	http://dbpedia.org/resource/Goon_squad
+Goosebumps books	http://dbpedia.org/resource/List_of_Goosebumps_books
+Gor	http://dbpedia.org/resource/Gor_Mahia_F.C.
+Gor Mahia	http://dbpedia.org/resource/Gor_Mahia_F.C.
+Government	http://dbpedia.org/resource/Government_of_the_United_Kingdom
+GovernorPerry	http://dbpedia.org/resource/Rick_Perry
+Graeme_McDowell	http://dbpedia.org/resource/Graeme_McDowell
+Grant Shapps	http://dbpedia.org/resource/Grant_Shapps
+Grapevine	http://dbpedia.org/resource/Grapevine,_Texas
+Greater Manchester	http://dbpedia.org/resource/Greater_Manchester
+Greater Manchester Police	http://dbpedia.org/resource/Greater_Manchester_Police
+Greece	http://dbpedia.org/resource/Greece
+Greek debt crisis	http://dbpedia.org/resource/Greek_government-debt_crisis
+Green Lantern	http://dbpedia.org/resource/Green_Lantern
+Gremio	http://dbpedia.org/resource/Gr%C3%AAmio_Foot-Ball_Porto_Alegrense
+Grim Reaper	http://dbpedia.org/resource/Death_(personification)
+Ground Force	http://dbpedia.org/resource/Ground_Force
+Groupon	http://dbpedia.org/resource/Groupon
+Groupon MyCityDeal	http://dbpedia.org/resource/Groupon_MyCityDeal
+Gryffindor	http://dbpedia.org/resource/Hogwarts
+Guardian	http://dbpedia.org/resource/The_Guardian
+Guinness	http://dbpedia.org/resource/Guinness
+Gulf of Mexico	http://dbpedia.org/resource/Gulf_of_Mexico
+H1N1	http://dbpedia.org/resource/Influenza_A_virus_subtype_H1N1
+HARRY POTTER	http://dbpedia.org/resource/Harry_Potter_(film_series)
+HM	http://dbpedia.org/resource/Hizbul_Mujahideen
+HP	http://dbpedia.org/resource/Harry_Potter
+HP	http://dbpedia.org/resource/Harry_Potter_(film_series)
+HP	http://dbpedia.org/resource/Hewlett-Packard
+HP7.2	http://dbpedia.org/resource/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2
+HSM	http://dbpedia.org/resource/High_School_Musical
+HTML5	http://dbpedia.org/resource/HTML5
+HackGate	http://dbpedia.org/resource/News_International_phone_hacking_scandal
+Hackgate	http://dbpedia.org/resource/News_International_phone_hacking_scandal
+Hackney	http://dbpedia.org/resource/Hackney_Central
+Hackney	http://dbpedia.org/resource/London_Borough_of_Hackney
+HadleyFreeman	http://dbpedia.org/resource/Hadley_Freeman
+Hagrid	http://dbpedia.org/resource/Rubeus_Hagrid
+Hajduk Split	http://dbpedia.org/resource/HNK_Hajduk_Split
+Half-Blood Prince	http://dbpedia.org/resource/Harry_Potter_and_the_Half-Blood_Prince
+Hall of Famer	http://dbpedia.org/resource/Hall_of_fame
+Halloween	http://dbpedia.org/resource/Halloween
+Hamilton	http://dbpedia.org/resource/Lewis_Hamilton
+Han Geng	http://dbpedia.org/resource/Han_Geng
+Hans Rosling	http://dbpedia.org/resource/Hans_Rosling
+Harris	http://dbpedia.org/resource/Richard_Harris
+Harrison Ford	http://dbpedia.org/resource/Harrison_Ford
+Harry	http://dbpedia.org/resource/Harry_Potter_(character)
+Harry P	http://dbpedia.org/resource/Harry_Potter_(film_series)
+Harry Potter	http://dbpedia.org/resource/Harry_Potter
+Harry Potter	http://dbpedia.org/resource/Harry_Potter_(film_series)
+Harry Potter and the Deathly Hallows	http://dbpedia.org/resource/Harry_Potter_and_the_Deathly_Hallows
+Harry Potter and the Deathly Hallows Part II	http://dbpedia.org/resource/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2
+Harry Potter and the Deathly Hallows part 2	http://dbpedia.org/resource/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2
+Harry Potter film	http://dbpedia.org/resource/Harry_Potter_(film_series)
+Harry Potter series	http://dbpedia.org/resource/Harry_Potter_(film_series)
+HarryPotter	http://dbpedia.org/resource/Harry_Potter_(film_series)
+HarryPotter and the Deathly Hallows part 2	http://dbpedia.org/resource/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2
+Hartley	http://dbpedia.org/resource/Garrett_Hartley
+Harwich	http://dbpedia.org/resource/Harwich,_Massachusetts
+Harwich	http://dbpedia.org/resource/Harwich_Mariners
+Haryana	http://dbpedia.org/resource/Haryana
+Hawks	http://dbpedia.org/resource/Atlanta_Hawks
+Hawthorne	http://dbpedia.org/resource/Hawthorne_(TV_series)
+Health Shuler	http://dbpedia.org/resource/Heath_Shuler
+Heaven	http://dbpedia.org/resource/Heaven
+Heb	http://dbpedia.org/resource/Epistle_to_the_Hebrews
+Heechul	http://dbpedia.org/resource/Kim_Heechul
+Hell	http://dbpedia.org/resource/Hell
+Helsinki	http://dbpedia.org/resource/Helsinki
+Hemelhempstead	http://dbpedia.org/resource/Hemel_Hempstead
+Henderson	http://dbpedia.org/resource/Jordan_Henderson
+Henry George	http://dbpedia.org/resource/Henry_George
+Hermione	http://dbpedia.org/resource/Hermione_Granger
+Herts Police	http://dbpedia.org/resource/Hertfordshire_Constabulary
+High School	http://dbpedia.org/resource/High_school
+High school	http://dbpedia.org/resource/High_school
+Hillsborough	http://dbpedia.org/resource/Hillsborough_Stadium
+Hillside/Shelbourne	http://dbpedia.org/resource/Hillside_Shopping_Centre
+Hindus	http://dbpedia.org/resource/Hindu
+Hinton	http://dbpedia.org/resource/Les_Hinton
+Hipsters	http://dbpedia.org/resource/Hipster_(contemporary_subculture)
+His Holiness the Dalai Lama	http://dbpedia.org/resource/14th_Dalai_Lama
+Ho Chi Minh City, Vietnam	http://dbpedia.org/resource/Ho_Chi_Minh_City
+Hoarders	http://dbpedia.org/resource/Hoarders
+Hockey Hall of Fame	http://dbpedia.org/resource/Hockey_Hall_of_Fame
+Hogwarts	http://dbpedia.org/resource/Hogwarts
+Holland	http://dbpedia.org/resource/Fran%C3%A7ois_Hollande
+Holland, MI	http://dbpedia.org/resource/Holland,_Michigan
+Holliday	http://dbpedia.org/resource/Bug_Holliday
+Hollywood	http://dbpedia.org/resource/Hollywood
+Holmes	http://dbpedia.org/resource/Santonio_Holmes
+Homs	http://dbpedia.org/resource/Homs
+Honeymoon	http://dbpedia.org/resource/Honeymoon
+Hong Kong	http://dbpedia.org/resource/Hong_Kong
+Horn of Africa	http://dbpedia.org/resource/Horn_of_Africa
+Hosni Mubarak	http://dbpedia.org/resource/Hosni_Mubarak
+House	http://dbpedia.org/resource/United_States_House_of_Representatives
+House	http://dbpedia.org/resource/White_House
+House GOP	http://dbpedia.org/resource/Republican_Conference_of_the_United_States_House_of_Representatives
+House Republicans	http://dbpedia.org/resource/Republican_Conference_of_the_United_States_House_of_Representatives
+House Rules Committee Chairman Dreier	http://dbpedia.org/resource/David_Dreier
+House and Senate	http://dbpedia.org/resource/United_States_Congress
+House of Saud	http://dbpedia.org/resource/House_of_Saud
+Houston	http://dbpedia.org/resource/Houston
+Houston	http://dbpedia.org/resource/Houston_Astros
+Houston Business Journal	http://dbpedia.org/resource/American_City_Business_Journals
+Houstons	http://dbpedia.org/resource/Houston
+How to Succeed in Business	http://dbpedia.org/resource/How_to_Succeed_in_Business_Without_Really_Trying
+Hubble Space Telescope	http://dbpedia.org/resource/Hubble_Space_Telescope
+HuffDaddy	http://dbpedia.org/resource/Aubrey_Huff
+Hulls	http://dbpedia.org/resource/Jordan_Hulls
+Human Rights	http://dbpedia.org/resource/Human_rights
+HumanRights	http://dbpedia.org/resource/Human_rights
+Humanrights	http://dbpedia.org/resource/Human_rights
+Hyde Park	http://dbpedia.org/resource/Hyde_Park,_New_York
+Hynix	http://dbpedia.org/resource/SK_Hynix
+I've Got Rhythm	http://dbpedia.org/resource/I_Got_Rhythm
+IAF	http://dbpedia.org/resource/Indian_Air_Force
+ICC Under-19 World Cup	http://dbpedia.org/resource/ICC_Under-19_Cricket_World_Cup
+ICJ	http://dbpedia.org/resource/International_Court_of_Justice
+ICONic	http://dbpedia.org/resource/America's_Best_Dance_Crew_(season_6)
+ICONic Boyz	http://dbpedia.org/resource/America's_Best_Dance_Crew_(season_6)
+ICRC	http://dbpedia.org/resource/International_Committee_of_the_Red_Cross
+ICameron	http://dbpedia.org/resource/David_Cameron
+IFAs	http://dbpedia.org/resource/Independent_Financial_Adviser
+IHS CERA	http://dbpedia.org/resource/Cambridge_Energy_Research_Associates
+II	http://dbpedia.org/resource/2_(number)
+IIEC	http://dbpedia.org/resource/Interim_Independent_Electoral_Commission_of_Kenya
+IMF	http://dbpedia.org/resource/International_Monetary_Fund
+INR	http://dbpedia.org/resource/Indian_rupee
+IPO	http://dbpedia.org/resource/Initial_public_offering
+IPSOS	http://dbpedia.org/resource/Ipsos
+ISAF	http://dbpedia.org/resource/International_Security_Assistance_Force
+ISM	http://dbpedia.org/resource/Institute_for_Supply_Management
+ITC	http://dbpedia.org/resource/United_States_International_Trade_Commission
+Ibrox	http://dbpedia.org/resource/Ibrox_Stadium
+Ice Flyers	http://dbpedia.org/resource/Pensacola_Ice_Flyers
+Ice-Age	http://dbpedia.org/resource/Ice_Age_(film)
+Iftar	http://dbpedia.org/resource/Iftar
+Illsley	http://dbpedia.org/resource/Eric_Illsley
+Immigration Law	http://dbpedia.org/resource/Immigration_law
+Imphal	http://dbpedia.org/resource/Imphal
+InayatKhan	http://dbpedia.org/resource/Inayat_Khan
+Incheon	http://dbpedia.org/resource/Incheon
+Independence Day	http://dbpedia.org/resource/Independence_Day_(India)
+Independent	http://dbpedia.org/resource/The_Independent
+India	http://dbpedia.org/resource/India
+Indian	http://dbpedia.org/resource/Indian_people
+Indian Air Force (IAF) chief P V Naik	http://dbpedia.org/resource/Pradeep_Vasant_Naik
+Indian Food	http://dbpedia.org/resource/Indian_cuisine
+Indiana	http://dbpedia.org/resource/Indiana
+Indiana State Fair	http://dbpedia.org/resource/Indiana_State_Fair
+Indiana State Fair stage collapse	http://dbpedia.org/resource/Indiana_State_Fair_stage_collapse
+Indiana State Police	http://dbpedia.org/resource/Indiana_State_Police
+Indianapolis Department of Public Safety	http://dbpedia.org/resource/Indianapolis_Metropolitan_Police_Department
+Indians	http://dbpedia.org/resource/Cleveland_Indians
+Indians	http://dbpedia.org/resource/Indianapolis_Indians
+Indonesia	http://dbpedia.org/resource/Indonesia
+Indus	http://dbpedia.org/resource/Indus_River
+Intel	http://dbpedia.org/resource/Intel
+Inter	http://dbpedia.org/resource/Inter_Milan
+Inter Milan	http://dbpedia.org/resource/Inter_Milan
+Interior Design	http://dbpedia.org/resource/Interior_design
+International Committee of the Red Cross	http://dbpedia.org/resource/International_Committee_of_the_Red_Cross
+International Monetary Fund	http://dbpedia.org/resource/International_Monetary_Fund
+Internet	http://dbpedia.org/resource/Internet
+Internet commerce	http://dbpedia.org/resource/E-commerce
+Invest	http://dbpedia.org/resource/Invest_(meteorology)
+Iran	http://dbpedia.org/resource/Iran
+Iraq	http://dbpedia.org/resource/Iraq
+Iraqi	http://dbpedia.org/resource/Iraqi_people
+Iraqis	http://dbpedia.org/resource/Iraqi_people
+Ireland	http://dbpedia.org/resource/Ireland
+Ireland	http://dbpedia.org/resource/Ireland_Under-19_cricket_team
+Irelands	http://dbpedia.org/resource/Irish_people
+Irish	http://dbpedia.org/resource/Irish_people
+Irish Sea	http://dbpedia.org/resource/Irish_Sea
+Islam	http://dbpedia.org/resource/Islam
+Islamist	http://dbpedia.org/resource/Islamism
+Israel	http://dbpedia.org/resource/Israel
+Israel PM	http://dbpedia.org/resource/Prime_Minister_of_Israel
+Israeli	http://dbpedia.org/resource/Israelis
+Israeli intelligence	http://dbpedia.org/resource/Mossad
+Italian	http://dbpedia.org/resource/Italian_language
+Italian government	http://dbpedia.org/resource/Politics_of_Italy
+Italy	http://dbpedia.org/resource/Italy
+Ivory Coast	http://dbpedia.org/resource/Ivory_Coast
+Iyenemi Furo	http://dbpedia.org/resource/Iyenemi_Furo
+J.K Rowling	http://dbpedia.org/resource/J._K._Rowling
+J.K. Rowling	http://dbpedia.org/resource/J._K._Rowling
+J.Lo	http://dbpedia.org/resource/Jennifer_Lopez
+J.P. Morgan	http://dbpedia.org/resource/J._P._Morgan
+JAKARTA	http://dbpedia.org/resource/Jakarta
+JAPAN	http://dbpedia.org/resource/Japan
+JESUS	http://dbpedia.org/resource/Jesus
+JETS	http://dbpedia.org/resource/New_York_Jets
+JK Rowling	http://dbpedia.org/resource/J._K._Rowling
+JKR	http://dbpedia.org/resource/J._K._Rowling
+JKRowling	http://dbpedia.org/resource/J._K._Rowling
+JLS	http://dbpedia.org/resource/JLS
+JLSOfficial	http://dbpedia.org/resource/JLS
+JPN	http://dbpedia.org/resource/Japan
+JUNE 14	http://dbpedia.org/resource/June_14
+Jack Layton	http://dbpedia.org/resource/Jack_Layton
+Jack London Square	http://dbpedia.org/resource/Jack_London_Square
+Jackie Robinson	http://dbpedia.org/resource/Jackie_Robinson
+Jaguars	http://dbpedia.org/resource/Jacksonville_Jaguars
+Jamali	http://dbpedia.org/resource/Jamali
+James Bond	http://dbpedia.org/resource/James_Bond
+James Murdoch	http://dbpedia.org/resource/James_Murdoch
+Jan25	http://dbpedia.org/resource/January_25
+JanelleMonae	http://dbpedia.org/resource/Janelle_Mon%C3%A1e
+Jani Lane	http://dbpedia.org/resource/Jani_Lane
+Jankovic	http://dbpedia.org/resource/Jelena_Jankovi%C4%87
+Jannik Hansen	http://dbpedia.org/resource/Jannik_Hansen
+January	http://dbpedia.org/resource/January
+Japan	http://dbpedia.org/resource/Government_of_Japan
+Japan	http://dbpedia.org/resource/Japan
+Japan's Nikkei	http://dbpedia.org/resource/Nikkei_225
+Japanese government	http://dbpedia.org/resource/Government_of_Japan
+Jared Allen	http://dbpedia.org/resource/Jared_Allen
+Jason LaCanfora	http://dbpedia.org/resource/Jason_La_Canfora
+Jason Marquis	http://dbpedia.org/resource/Jason_Marquis
+Jay Cutler	http://dbpedia.org/resource/Jay_Cutler_(American_football)
+JayZ	http://dbpedia.org/resource/Jay-Z
+Jay_Glazer	http://dbpedia.org/resource/Jay_Glazer
+Jeff Francoeur	http://dbpedia.org/resource/Jeff_Francoeur
+Jeju Island	http://dbpedia.org/resource/Jeju_Province
+Jeju island	http://dbpedia.org/resource/Jeju_Province
+Jeopardy	http://dbpedia.org/resource/Jeopardy!
+Jersey shore	http://dbpedia.org/resource/Jersey_Shore
+Jesus	http://dbpedia.org/resource/Jesus
+Jesus Christ	http://dbpedia.org/resource/Jesus
+Jets	http://dbpedia.org/resource/New_York_Jets
+Jewish	http://dbpedia.org/resource/Jews
+Jim Rohn	http://dbpedia.org/resource/Jim_Rohn
+Jiuquan	http://dbpedia.org/resource/Jiuquan
+Jln Besar stadium	http://dbpedia.org/resource/Jalan_Besar_Stadium
+Joe B	http://dbpedia.org/resource/Joe_B._Hall
+Joe Paterno	http://dbpedia.org/resource/Joe_Paterno
+Joe Sakic	http://dbpedia.org/resource/Joe_Sakic
+JoePa	http://dbpedia.org/resource/Joe_Paterno
+Joel Campbell	http://dbpedia.org/resource/Joel_Campbell
+JoelOsteen	http://dbpedia.org/resource/Joel_Osteen
+Joey	http://dbpedia.org/resource/Joey_Tribbiani
+Joey Barton	http://dbpedia.org/resource/Joey_Barton
+Joey7Barton	http://dbpedia.org/resource/Joey_Barton
+Johann Hari	http://dbpedia.org/resource/Johann_Hari
+Johann Wolfgang von Goethe	http://dbpedia.org/resource/Johann_Wolfgang_von_Goethe
+John	http://dbpedia.org/resource/Gospel_of_John
+John Boehner	http://dbpedia.org/resource/John_Boehner
+John C Maxwell	http://dbpedia.org/resource/John_C._Maxwell
+John Calipari	http://dbpedia.org/resource/John_Calipari
+John Cena	http://dbpedia.org/resource/John_Cena
+John Clayton	http://dbpedia.org/resource/John_Clayton_(sportswriter)
+John Kuhn	http://dbpedia.org/resource/John_Kuhn
+John Laurinaitis	http://dbpedia.org/resource/John_Laurinaitis
+John Nolen	http://dbpedia.org/resource/Jonathan_Nolan
+John Terry	http://dbpedia.org/resource/John_Terry
+John Wall	http://dbpedia.org/resource/John_Wall_(basketball)
+John Yates	http://dbpedia.org/resource/John_Yates_(police_officer)
+JohnCena	http://dbpedia.org/resource/John_Cena
+JohnKingUSA	http://dbpedia.org/resource/John_King_(journalist)
+Johnnie Lee Higgins	http://dbpedia.org/resource/Johnnie_Lee_Higgins
+Jolly Roger	http://dbpedia.org/resource/Jolly_Roger
+Jon cena	http://dbpedia.org/resource/John_Cena
+Jonas Brothers	http://dbpedia.org/resource/Jonas_Brothers
+Jordan	http://dbpedia.org/resource/Air_Jordan
+Jose Enrique	http://dbpedia.org/resource/Jos%C3%A9_Enrique_S%C3%A1nchez
+Jose Reyes	http://dbpedia.org/resource/Jos%C3%A9_Reyes_(shortstop)
+Josh Reddick	http://dbpedia.org/resource/Josh_Reddick
+Joshua Harris	http://dbpedia.org/resource/Joshua_Harris_(actor)
+Juan Mata	http://dbpedia.org/resource/Juan_Mata
+Judge	http://dbpedia.org/resource/Judge
+Judge Mark Ciavarella, Jr	http://dbpedia.org/resource/Mark_Ciavarella
+Jul 29	http://dbpedia.org/resource/July_29
+July 11	http://dbpedia.org/resource/July_11
+July 15	http://dbpedia.org/resource/July_15
+July 16	http://dbpedia.org/resource/July_16
+July 2	http://dbpedia.org/resource/July_2
+July 22	http://dbpedia.org/resource/July_22
+July 25	http://dbpedia.org/resource/July_25
+July 26	http://dbpedia.org/resource/July_26
+July 27th	http://dbpedia.org/resource/July_27
+July 28	http://dbpedia.org/resource/July_28
+July 30	http://dbpedia.org/resource/July_30
+July 6	http://dbpedia.org/resource/July_6
+July 7	http://dbpedia.org/resource/July_7
+June 31	http://dbpedia.org/resource/June
+Junhyung	http://dbpedia.org/resource/Yong_Jun-hyung
+Juno spacecraft	http://dbpedia.org/resource/Juno_(spacecraft)
+Jupiter	http://dbpedia.org/resource/Jupiter
+Jurgen Klinsmann	http://dbpedia.org/resource/J%C3%BCrgen_Klinsmann
+Jurmala	http://dbpedia.org/resource/J%C5%ABrmala
+Just the way you  are	http://dbpedia.org/resource/Just_the_Way_You_Are_(Bruno_Mars_song)
+Justice Minister	http://dbpedia.org/resource/Justice_ministry
+Justin	http://dbpedia.org/resource/Justin_Bieber
+Justin Bieber	http://dbpedia.org/resource/Justin_Bieber
+Justins	http://dbpedia.org/resource/Justin_Bieber
+Juwanna Man	http://dbpedia.org/resource/Juwanna_Mann
+KELO	http://dbpedia.org/resource/KELO-TV
+KISS	http://dbpedia.org/resource/Kiss_(band)
+KU	http://dbpedia.org/resource/University_of_Kansas
+KUWAIT	http://dbpedia.org/resource/Kuwait_national_football_team
+Kaiser Chiefs	http://dbpedia.org/resource/Kaiser_Chiefs
+Kalmadi	http://dbpedia.org/resource/Suresh_Kalmadi
+Karen	http://dbpedia.org/resource/Plankton_(SpongeBob_SquarePants)
+Karma	http://dbpedia.org/resource/Karma
+Kashmir	http://dbpedia.org/resource/Kashmir
+Kate	http://dbpedia.org/resource/Catherine,_Duchess_of_Cambridge
+Katrina kaif	http://dbpedia.org/resource/Katrina_Kaif
+Kayani	http://dbpedia.org/resource/Ashfaq_Parvez_Kayani
+KeithClark_	http://dbpedia.org/resource/Keith_Clark
+Kelowna	http://dbpedia.org/resource/Kelowna
+Kennedy Space Center	http://dbpedia.org/resource/Kennedy_Space_Center
+Kent	http://dbpedia.org/resource/Kent
+Kent	http://dbpedia.org/resource/Kent_County_Cricket_Club
+Kenya	http://dbpedia.org/resource/Kenya
+Kenya	http://dbpedia.org/resource/Kenya_Under-19_cricket_team
+Kevin	http://dbpedia.org/resource/Kevin_Woo
+Kevin Kolb	http://dbpedia.org/resource/Kevin_Kolb
+Kevlar	http://dbpedia.org/resource/Kevlar
+KeystoneXL tarsands pipeline	http://dbpedia.org/resource/Keystone_Pipeline
+Khap	http://dbpedia.org/resource/Khap_(film)
+Kicker Ryan Longwell	http://dbpedia.org/resource/Ryan_Longwell
+Kidrauhl	http://dbpedia.org/resource/Justin_Bieber
+Killzone 3	http://dbpedia.org/resource/Killzone_3
+Kim Jaejoong	http://dbpedia.org/resource/Jaejoong
+King	http://dbpedia.org/resource/Rodney_King
+Kingston	http://dbpedia.org/resource/Kingston_upon_Thames
+Kishtwar	http://dbpedia.org/resource/Kishtwar
+Klinsmann	http://dbpedia.org/resource/J%C3%BCrgen_Klinsmann
+Knighthood	http://dbpedia.org/resource/Knight
+Knox	http://dbpedia.org/resource/Amanda_Knox
+Kodak	http://dbpedia.org/resource/Eastman_Kodak
+Korea	http://dbpedia.org/resource/Korea
+Korean	http://dbpedia.org/resource/Koreans
+Korean Music	http://dbpedia.org/resource/Music_of_Korea
+Koscielny	http://dbpedia.org/resource/Laurent_Koscielny
+Krabby Patty	http://dbpedia.org/resource/SpongeBob_SquarePants
+Kristen Glover	http://dbpedia.org/resource/Kristen_Glover
+Kristin Cavallari	http://dbpedia.org/resource/Kristin_Cavallari
+Kun Aguero	http://dbpedia.org/resource/Sergio_Ag%C3%BCero
+Kurt Geiger	http://dbpedia.org/resource/Kurt_Geiger
+Kuwait	http://dbpedia.org/resource/Kuwait_national_football_team
+Kuznetsova	http://dbpedia.org/resource/Svetlana_Kuznetsova
+Kyle Orton	http://dbpedia.org/resource/Kyle_Orton
+Kyodo	http://dbpedia.org/resource/Kyodo_News
+L.A	http://dbpedia.org/resource/Los_Angeles
+L.A.	http://dbpedia.org/resource/Los_Angeles
+LA	http://dbpedia.org/resource/Los_Angeles
+LA Noire	http://dbpedia.org/resource/L.A._Noire
+LAGalaxy	http://dbpedia.org/resource/Los_Angeles_Galaxy
+LAWYER	http://dbpedia.org/resource/Lawyer
+LB Michael Boley	http://dbpedia.org/resource/Michael_Boley
+LCpl	http://dbpedia.org/resource/Lance_corporal
+LFC	http://dbpedia.org/resource/Liverpool_F.C.
+LI	http://dbpedia.org/resource/Long_Island
+LIVERPOOL	http://dbpedia.org/resource/Liverpool
+LONDON	http://dbpedia.org/resource/London
+LORD	http://dbpedia.org/resource/Lord
+LR police	http://dbpedia.org/resource/Little_Rock_Police_Department
+LSU	http://dbpedia.org/resource/LSU_Tigers_football
+LSU	http://dbpedia.org/resource/Louisiana_State_University
+LT	http://dbpedia.org/resource/Lawrence_Taylor
+LTE network	http://dbpedia.org/resource/LTE_Advanced
+La Manga	http://dbpedia.org/resource/La_Manga
+Lab	http://dbpedia.org/resource/Labour_Party_(UK)
+Labour	http://dbpedia.org/resource/Labour_Party_(UK)
+Labour party conference	http://dbpedia.org/resource/Labour_Party_(UK)_Conference
+Ladbroke Grove	http://dbpedia.org/resource/Ladbroke_Grove
+Lady	http://dbpedia.org/resource/Lady_Gaga
+Lady Gaga	http://dbpedia.org/resource/Lady_Gaga
+Lamar Odom	http://dbpedia.org/resource/Lamar_Odom
+Lancashire	http://dbpedia.org/resource/Lancashire
+Lancer	http://dbpedia.org/resource/Mitsubishi_Lancer
+Lancs	http://dbpedia.org/resource/Lancashire
+Lao Tzu	http://dbpedia.org/resource/Laozi
+Larry Page	http://dbpedia.org/resource/Larry_Page
+Las Vegas	http://dbpedia.org/resource/Las_Vegas
+Las Vegas	http://dbpedia.org/resource/Las_Vegas%E2%80%93Paradise,_NV_MSA
+Lauren Pope	http://dbpedia.org/resource/Lauren_Pope
+Lawrence Booth	http://dbpedia.org/resource/Lawrence_Booth_(cricket_writer)
+Lawyers	http://dbpedia.org/resource/Lawyer
+Lead Singer	http://dbpedia.org/resource/Lead_vocalist
+Lebanon Valley	http://dbpedia.org/resource/Lebanon_Valley
+Lee Evans	http://dbpedia.org/resource/Lee_Evans_(American_football)
+Leeds	http://dbpedia.org/resource/Leeds
+Leicester	http://dbpedia.org/resource/Leicester
+Lenny	http://dbpedia.org/resource/Lenny_Kravitz
+Leo	http://dbpedia.org/resource/Leo_(astrology)
+Leos	http://dbpedia.org/resource/Leo_(astrology)
+Lewisham	http://dbpedia.org/resource/Lewisham
+Lib Dems	http://dbpedia.org/resource/Liberal_Democrats
+Libra	http://dbpedia.org/resource/Libra_(astrology)
+Libras	http://dbpedia.org/resource/Libra_(astrology)
+Libya	http://dbpedia.org/resource/Libya
+Libyan	http://dbpedia.org/resource/Libyan_people
+LightSquared	http://dbpedia.org/resource/LightSquared
+Lil Wayne	http://dbpedia.org/resource/Lil_Wayne
+Lily	http://dbpedia.org/resource/Order_of_the_Phoenix_(fiction)
+Lima, OH	http://dbpedia.org/resource/Lima,_Ohio
+Limavady	http://dbpedia.org/resource/Limavady
+Linda Christian	http://dbpedia.org/resource/Linda_Christian
+LinkedIn	http://dbpedia.org/resource/LinkedIn
+Lion	http://dbpedia.org/resource/Mac_OS_X_Lion
+Lions	http://dbpedia.org/resource/Lion
+Lithuania	http://dbpedia.org/resource/Lithuania
+Little Bay Islands	http://dbpedia.org/resource/Little_Bay_Islands
+Liverpool	http://dbpedia.org/resource/Liverpool
+Liverpool	http://dbpedia.org/resource/Liverpool_F.C.
+Liverpool Uni	http://dbpedia.org/resource/University_of_Liverpool
+Livestation	http://dbpedia.org/resource/LiveStation
+Living Social	http://dbpedia.org/resource/LivingSocial
+Lloyd	http://dbpedia.org/resource/Carli_Lloyd
+Lofa Tatupu	http://dbpedia.org/resource/Lofa_Tatupu
+Londis	http://dbpedia.org/resource/Londis
+London	http://dbpedia.org/resource/London
+London Fire Brigade	http://dbpedia.org/resource/London_Fire_Brigade
+London riots	http://dbpedia.org/resource/2011_England_riots
+London riots	http://dbpedia.org/resource/List_of_riots_in_London
+LondonRiots	http://dbpedia.org/resource/2011_England_riots
+Londoners	http://dbpedia.org/resource/London_Citizens
+Londonriots	http://dbpedia.org/resource/2011_England_riots
+Long Beach	http://dbpedia.org/resource/Long_Beach,_California
+Long Island, NY	http://dbpedia.org/resource/Long_Island
+Longhorn Network	http://dbpedia.org/resource/Longhorn_Network
+Lord	http://dbpedia.org/resource/God
+Lord	http://dbpedia.org/resource/Lord
+Lord Jesus	http://dbpedia.org/resource/Jesus
+Lord Sugar	http://dbpedia.org/resource/Alan_Sugar
+Lords	http://dbpedia.org/resource/God
+Lorenzo	http://dbpedia.org/resource/San_Lorenzo,_California
+Louise boat	http://dbpedia.org/resource/LulzSec
+Love146	http://dbpedia.org/resource/Love146
+Loyola Schools	http://dbpedia.org/resource/Loyola_Schools
+Lucas Glover	http://dbpedia.org/resource/Lucas_Glover
+Lucius Malfoy	http://dbpedia.org/resource/Death_Eater
+Luis Suarez	http://dbpedia.org/resource/Luis_Su%C3%A1rez
+Luis Suárez	http://dbpedia.org/resource/Luis_Su%C3%A1rez
+Luka Modric	http://dbpedia.org/resource/Luka_Modri%C4%87
+Lulz Security	http://dbpedia.org/resource/LulzSec
+LulzSec	http://dbpedia.org/resource/LulzSec
+M25	http://dbpedia.org/resource/M25_motorway
+MAN OF STEEL	http://dbpedia.org/resource/Man_of_Steel_(film)
+MANCHESTER	http://dbpedia.org/resource/Manchester
+MBLAQ	http://dbpedia.org/resource/MBLAQ
+MC	http://dbpedia.org/resource/Master_of_ceremonies
+MITB	http://dbpedia.org/resource/WWE_Money_in_the_Bank
+MLB	http://dbpedia.org/resource/Major_League_Baseball
+MNR	http://dbpedia.org/resource/Ministry_of_Natural_Resources_(Ontario)
+MP	http://dbpedia.org/resource/Member_of_Parliament
+MPG	http://dbpedia.org/resource/Fuel_economy_in_automobiles
+MPH	http://dbpedia.org/resource/Miles_per_hour
+MPs	http://dbpedia.org/resource/Member_of_Parliament
+MSL	http://dbpedia.org/resource/Mars_Science_Laboratory
+MSN	http://dbpedia.org/resource/MSN
+MSNBC	http://dbpedia.org/resource/MSNBC
+MTV	http://dbpedia.org/resource/MTV
+MTVNews	http://dbpedia.org/resource/MTV_News
+MUFC	http://dbpedia.org/resource/Manchester_United_F.C.
+Mac	http://dbpedia.org/resource/Macintosh
+Mac App Store	http://dbpedia.org/resource/Mac_App_Store
+Macarthur Coal	http://dbpedia.org/resource/Macarthur_Coal
+Madison County	http://dbpedia.org/resource/Madison_County,_New_York
+Madonna	http://dbpedia.org/resource/Madonna_(entertainer)
+Madrid	http://dbpedia.org/resource/Madrid
+Mae West	http://dbpedia.org/resource/Mae_West
+Mail on Sunday	http://dbpedia.org/resource/The_Mail_on_Sunday
+Malaysian	http://dbpedia.org/resource/Ethnic_Malays
+Man City	http://dbpedia.org/resource/Manchester_City_F.C.
+Manchester	http://dbpedia.org/resource/Manchester
+Manchester City	http://dbpedia.org/resource/Manchester_City_F.C.
+Manchester City Centre	http://dbpedia.org/resource/Manchester_city_centre
+Manchester United	http://dbpedia.org/resource/Manchester_United_F.C.
+ManchesterRiots	http://dbpedia.org/resource/2011_England_riots
+Mangos	http://dbpedia.org/resource/Mango
+Manila	http://dbpedia.org/resource/Manila
+Manipur	http://dbpedia.org/resource/Manipur
+Mankins	http://dbpedia.org/resource/Logan_Mankins
+Manning	http://dbpedia.org/resource/Peyton_Manning
+Manny Pacquiao	http://dbpedia.org/resource/Manny_Pacquiao
+Map Room	http://dbpedia.org/resource/Map_Room_(White_House)
+Marcell Jansen	http://dbpedia.org/resource/Marcell_Jansen
+March 1999	http://dbpedia.org/resource/March_1999
+Marco Bueno	http://dbpedia.org/resource/Marco_Bueno
+MardyFish	http://dbpedia.org/resource/Mardy_Fish
+Marg	http://dbpedia.org/resource/Marg_Helgenberger
+MariaFowler	http://dbpedia.org/resource/Maria_Fowler
+Marian Price	http://dbpedia.org/resource/Marian_Price
+Mariano Rivera	http://dbpedia.org/resource/Mariano_Rivera
+Mariners	http://dbpedia.org/resource/Seattle_Mariners
+Mario Kart	http://dbpedia.org/resource/Mario_Kart
+Marion Bartoli	http://dbpedia.org/resource/Marion_Bartoli
+Mark	http://dbpedia.org/resource/Death_of_Mark_Duggan
+Mark Clayton	http://dbpedia.org/resource/Mark_Jermaine_Clayton
+Mark Dapin	http://dbpedia.org/resource/Mark_Dapin
+Mark Duggan	http://dbpedia.org/resource/Death_of_Mark_Duggan
+Mark Hoppus	http://dbpedia.org/resource/Mark_Hoppus
+Mark Salling	http://dbpedia.org/resource/Mark_Salling
+Mark Twain	http://dbpedia.org/resource/Mark_Twain
+MarketWatch	http://dbpedia.org/resource/MarketWatch
+Marley Station mall	http://dbpedia.org/resource/Marley_Station
+Martin Campbell	http://dbpedia.org/resource/Martin_Campbell
+Martin Guptill	http://dbpedia.org/resource/Martin_Guptill
+Martin Keown	http://dbpedia.org/resource/Martin_Keown
+Martin Robinson	http://dbpedia.org/resource/Marty_Robinson_(announcer)
+Maruti Suzuki India	http://dbpedia.org/resource/Maruti_Suzuki
+Mary Robinson	http://dbpedia.org/resource/Mary_Robinson
+Maryland	http://dbpedia.org/resource/Maryland
+Maryland’s Governor	http://dbpedia.org/resource/Governor_of_Maryland
+Massachusetts	http://dbpedia.org/resource/Massachusetts
+Mastercard	http://dbpedia.org/resource/MasterCard
+Masters 1000	http://dbpedia.org/resource/ATP_World_Tour_Masters_1000
+Mata	http://dbpedia.org/resource/Juan_Mata
+Mateu Lahoz	http://dbpedia.org/resource/Antonio_Mateu_Lahoz
+Matt Oakley	http://dbpedia.org/resource/Matt_Oakley
+Matt Roth	http://dbpedia.org/resource/Matt_Roth
+Matt Sorum	http://dbpedia.org/resource/Matt_Sorum
+Matt_HayesSN	http://dbpedia.org/resource/Matt_Hayes
+Max Allan Collins	http://dbpedia.org/resource/Max_Allan_Collins
+May 17th	http://dbpedia.org/resource/May_17
+May 2007	http://dbpedia.org/resource/May_2007
+May 2011	http://dbpedia.org/resource/May_2011
+Mayo Clinic	http://dbpedia.org/resource/Mayo_Clinic
+Mayor	http://dbpedia.org/resource/Mayor
+McConnell	http://dbpedia.org/resource/Mitch_McConnell
+McGahee	http://dbpedia.org/resource/Willis_McGahee
+McIlroyRory	http://dbpedia.org/resource/Rory_McIlroy
+MeaganGood	http://dbpedia.org/resource/Meagan_Good
+Medicare	http://dbpedia.org/resource/Medicare_(United_States)
+Mediterranean	http://dbpedia.org/resource/Mediterranean_Sea
+MerseyPolice	http://dbpedia.org/resource/Merseyside_Police
+Met	http://dbpedia.org/resource/Metropolitan_Police_Service
+Met Police	http://dbpedia.org/resource/Metropolitan_Police_Service
+Met police commissioner Sir Paul Stephenson	http://dbpedia.org/resource/Paul_Stephenson_(police_officer)
+MetPolice	http://dbpedia.org/resource/Metropolitan_Police_Service
+Metropolitan Police	http://dbpedia.org/resource/Metropolitan_Police_Service
+Mexican	http://dbpedia.org/resource/Mexican_cuisine
+Mexican drugs cartel	http://dbpedia.org/resource/Mexican_Drug_War
+Mexico	http://dbpedia.org/resource/Mexico
+Miami	http://dbpedia.org/resource/Miami
+Miami	http://dbpedia.org/resource/Miami_Dolphins
+Miami Beach Police	http://dbpedia.org/resource/Miami_Beach_Police_Department
+Miami Beach Police Departm	http://dbpedia.org/resource/Miami_Beach_Police_Department
+Miami Heat	http://dbpedia.org/resource/Miami_Heat
+Miami Int. Airport	http://dbpedia.org/resource/Miami_International_Airport
+Michael Jackson	http://dbpedia.org/resource/Michael_Jackson
+Michael Vick	http://dbpedia.org/resource/Michael_Vick
+Michel Vorm	http://dbpedia.org/resource/Michel_Vorm
+Micheál Martin	http://dbpedia.org/resource/Miche%C3%A1l_Martin
+Microsoft	http://dbpedia.org/resource/Microsoft
+Microsoft Azure	http://dbpedia.org/resource/Windows_Azure
+Midair plane collision	http://dbpedia.org/resource/Mid-air_collision
+Middle East	http://dbpedia.org/resource/Middle_East
+Middlesex	http://dbpedia.org/resource/Middlesex_County_Cricket_Club
+Midnight	http://dbpedia.org/resource/Midnight
+Miguna Miguna	http://dbpedia.org/resource/Miguna_Miguna
+Miley	http://dbpedia.org/resource/Miley_Cyrus
+MileyCyrus	http://dbpedia.org/resource/Miley_Cyrus
+Milford	http://dbpedia.org/resource/Milford,_New_Hampshire
+Million	http://dbpedia.org/resource/Million
+Milly Dowler	http://dbpedia.org/resource/Murder_of_Milly_Dowler
+Milwall	http://dbpedia.org/resource/Millwall_F.C.
+Ministry of Magic	http://dbpedia.org/resource/Ministry_of_Magic
+Minnesota	http://dbpedia.org/resource/Minnesota
+Minor League	http://dbpedia.org/resource/Minor_League_Baseball
+Mirror	http://dbpedia.org/resource/Sunday_Mirror
+Mirror.co.uk	http://dbpedia.org/resource/Daily_Mirror
+Mischief Managed	http://dbpedia.org/resource/Magical_objects_in_Harry_Potter
+Misha Collins	http://dbpedia.org/resource/Misha_Collins
+Miss Selfridges	http://dbpedia.org/resource/Miss_Selfridge
+Mitch McConnell	http://dbpedia.org/resource/Mitch_McConnell
+Mitsubishi	http://dbpedia.org/resource/Mitsubishi_Motors
+Mitsubishi CEO	http://dbpedia.org/resource/Yorihiko_Kojima
+Monday	http://dbpedia.org/resource/Monday
+Moon	http://dbpedia.org/resource/Moon
+MoonDogs	http://dbpedia.org/resource/Mankato_MoonDogs
+Morgan	http://dbpedia.org/resource/Piers_Morgan
+Moroccan	http://dbpedia.org/resource/Moroccan_people
+Morocco	http://dbpedia.org/resource/Morocco
+Mother Monster	http://dbpedia.org/resource/Lady_Gaga
+Motherwell	http://dbpedia.org/resource/Motherwell_F.C.
+MotoGP	http://dbpedia.org/resource/Grand_Prix_motorcycle_racing
+Mourinho	http://dbpedia.org/resource/Jos%C3%A9_Mourinho
+Mrs. Murdoch	http://dbpedia.org/resource/Wendi_Deng_Murdoch
+Mubarak	http://dbpedia.org/resource/Hosni_Mubarak
+Mucus	http://dbpedia.org/resource/Mucus
+Mueller	http://dbpedia.org/resource/Brooke_Mueller
+Mukilteo	http://dbpedia.org/resource/Mukilteo,_Washington
+Mumbai	http://dbpedia.org/resource/Mumbai
+Munter	http://dbpedia.org/resource/Cameron_Munter
+Murcia	http://dbpedia.org/resource/Murcia
+Murdoch	http://dbpedia.org/resource/Rupert_Murdoch
+Murdochs	http://dbpedia.org/resource/Rupert_Murdoch
+Museum of American People	http://dbpedia.org/resource/National_Museum_of_the_American_People
+Muslims	http://dbpedia.org/resource/Muslim
+MySpace	http://dbpedia.org/resource/Myspace
+N.Korea	http://dbpedia.org/resource/North_Korea
+N.O.W	http://dbpedia.org/resource/News_of_the_World
+N9	http://dbpedia.org/resource/Nokia_N9
+NAACP	http://dbpedia.org/resource/National_Association_for_the_Advancement_of_Colored_People
+NASA	http://dbpedia.org/resource/NASA
+NASAJuno	http://dbpedia.org/resource/Juno_(spacecraft)
+NASA_EO	http://dbpedia.org/resource/NASA_Earth_Observatory
+NASCAR	http://dbpedia.org/resource/NASCAR
+NATIONAL WEATHER SERVICE	http://dbpedia.org/resource/National_Weather_Service
+NATO	http://dbpedia.org/resource/NATO
+NBA	http://dbpedia.org/resource/National_Basketball_Association
+NBA Guard Sasha Vujacic	http://dbpedia.org/resource/Sasha_Vuja%C4%8Di%C4%87
+NBC	http://dbpedia.org/resource/NBC
+NBC Miami	http://dbpedia.org/resource/WTVJ
+NBC News	http://dbpedia.org/resource/NBC_News
+NCAA	http://dbpedia.org/resource/National_Collegiate_Athletic_Association
+NDP	http://dbpedia.org/resource/New_Democratic_Party_(Canada)
+NEW YORK	http://dbpedia.org/resource/New_York
+NFL	http://dbpedia.org/resource/National_Football_League
+NFL Network	http://dbpedia.org/resource/NFL_Network
+NFLN	http://dbpedia.org/resource/NFL_Network
+NFLPA	http://dbpedia.org/resource/National_Football_League_Players_Association
+NFP	http://dbpedia.org/resource/Nonprofit_organization
+NFPA	http://dbpedia.org/resource/National_Football_League_Players_Association
+NHC	http://dbpedia.org/resource/National_Hurricane_Center
+NHL	http://dbpedia.org/resource/National_Hockey_League
+NHLJets	http://dbpedia.org/resource/Winnipeg_Jets
+NI	http://dbpedia.org/resource/NI_Group
+NICE	http://dbpedia.org/resource/National_Institute_for_Health_and_Clinical_Excellence
+NM	http://dbpedia.org/resource/New_Mexico
+NOAA	http://dbpedia.org/resource/National_Oceanic_and_Atmospheric_Administration
+NOLA	http://dbpedia.org/resource/New_Orleans
+NOTW	http://dbpedia.org/resource/News_of_the_World
+NOTW phone hacking	http://dbpedia.org/resource/News_International_phone_hacking_scandal
+NRK	http://dbpedia.org/resource/NRK
+NUFC	http://dbpedia.org/resource/Newcastle_United_F.C.
+NY	http://dbpedia.org/resource/New_York
+NY Archdiocese	http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_New_York
+NY gov	http://dbpedia.org/resource/Government_of_New_York
+NYC	http://dbpedia.org/resource/New_York_City
+NYT	http://dbpedia.org/resource/The_New_York_Times
+Nafousa mountain	http://dbpedia.org/resource/Nafusa_Mountains
+Namibia	http://dbpedia.org/resource/Namibia_Under-19_cricket_team
+Naples	http://dbpedia.org/resource/Naples,_Florida
+Napoleon Hill	http://dbpedia.org/resource/Napoleon_Hill
+Nasdaq	http://dbpedia.org/resource/NASDAQ
+Nashville	http://dbpedia.org/resource/Nashville,_Tennessee
+Nate Irving	http://dbpedia.org/resource/Nate_Irving
+NateTheGreat	http://dbpedia.org/resource/Nate_Schierholtz
+National Express	http://dbpedia.org/resource/National_Express_Group
+Nats	http://dbpedia.org/resource/Washington_Nationals
+Natural History Museum at Tring	http://dbpedia.org/resource/Natural_History_Museum_at_Tring
+NavySEALs	http://dbpedia.org/resource/United_States_Navy_SEALs
+Neil Armstrong	http://dbpedia.org/resource/Neil_Armstrong
+Neil Kinnock	http://dbpedia.org/resource/Neil_Kinnock
+Nelson Mandela	http://dbpedia.org/resource/Nelson_Mandela
+Netherlands	http://dbpedia.org/resource/Netherlands
+Nets	http://dbpedia.org/resource/Brooklyn_Nets
+Nevada	http://dbpedia.org/resource/Nevada
+New Moon	http://dbpedia.org/resource/The_Twilight_Saga:_New_Moon
+New Orleans	http://dbpedia.org/resource/New_Orleans
+New York	http://dbpedia.org/resource/New_York
+New York	http://dbpedia.org/resource/New_York_City
+New York City	http://dbpedia.org/resource/New_York_City
+New York Giants	http://dbpedia.org/resource/New_York_Giants
+New York Gov	http://dbpedia.org/resource/Governor_of_New_York
+New York Red Bulls	http://dbpedia.org/resource/New_York_Red_Bulls
+New York Times	http://dbpedia.org/resource/The_New_York_Times
+New Zealand	http://dbpedia.org/resource/New_Zealand
+Newcastle	http://dbpedia.org/resource/Newcastle_United_F.C.
+Newcastle	http://dbpedia.org/resource/Newcastle_upon_Tyne
+Newfoundland	http://dbpedia.org/resource/Dominion_of_Newfoundland
+Newport	http://dbpedia.org/resource/Newport
+Newry	http://dbpedia.org/resource/Newry
+News Corp	http://dbpedia.org/resource/News_Corporation
+News Corporation	http://dbpedia.org/resource/News_Corporation
+News International	http://dbpedia.org/resource/NI_Group
+News1130	http://dbpedia.org/resource/CKWX
+NewsCorp	http://dbpedia.org/resource/News_Corporation
+NewsInt	http://dbpedia.org/resource/NI_Group
+Newsnight	http://dbpedia.org/resource/Newsnight
+Newzbin	http://dbpedia.org/resource/Newzbin
+Nick Andersen	http://dbpedia.org/resource/Nick_Anderson
+Nick Boles	http://dbpedia.org/resource/Nicholas_Boles
+Nicki Minaj	http://dbpedia.org/resource/Nicki_Minaj
+Nicklas Bendtner	http://dbpedia.org/resource/Nicklas_Bendtner
+Nifty	http://dbpedia.org/resource/S&P_CNX_Nifty
+Nigeria	http://dbpedia.org/resource/Nigeria
+Nigga	http://dbpedia.org/resource/Nigga
+Niggas	http://dbpedia.org/resource/Nigga
+Ninja	http://dbpedia.org/resource/Ninja
+No 10	http://dbpedia.org/resource/10_Downing_Street
+No. 17	http://dbpedia.org/resource/17_(number)
+No.1	http://dbpedia.org/resource/1_(number)
+No1	http://dbpedia.org/resource/1_(number)
+NoW	http://dbpedia.org/resource/News_of_the_World
+Noah	http://dbpedia.org/resource/Noah
+Nokia	http://dbpedia.org/resource/Nokia
+North America	http://dbpedia.org/resource/North_America
+North Wazirirstan	http://dbpedia.org/resource/North_Waziristan
+Northern Ireland	http://dbpedia.org/resource/Northern_Ireland
+Northern Irish peoples	http://dbpedia.org/resource/People_of_Northern_Ireland
+Northumberland Street	http://dbpedia.org/resource/Northumberland_Street
+Northumbria Police	http://dbpedia.org/resource/Northumbria_Police
+Northumbria Police force	http://dbpedia.org/resource/Northumbria_Police
+Norway	http://dbpedia.org/resource/Norway
+Norway PM	http://dbpedia.org/resource/Prime_Minister_of_Norway
+Norway attacks	http://dbpedia.org/resource/2011_Norway_attacks
+Norway police	http://dbpedia.org/resource/Norwegian_Police_Service
+Norway's Prime Minister Jens Stoltenberg	http://dbpedia.org/resource/Jens_Stoltenberg
+Norwegian	http://dbpedia.org/resource/Norwegians
+Norwegian Government	http://dbpedia.org/resource/Politics_of_Norway
+Norwegian police	http://dbpedia.org/resource/Norwegian_Police_Service
+Norwegians	http://dbpedia.org/resource/Norwegians
+Nottingham	http://dbpedia.org/resource/Nottingham
+Novartis	http://dbpedia.org/resource/Novartis
+Noynoy Aquino	http://dbpedia.org/resource/Benigno_Aquino_III
+OBAMA HEALTH CARE LAW	http://dbpedia.org/resource/Health_care_reforms_proposed_during_the_Obama_administration
+OCCUPYWALLSTREET	http://dbpedia.org/resource/Occupy_Wall_Street
+ODD	http://dbpedia.org/resource/Optical_disc_drive
+OIL TANKER	http://dbpedia.org/resource/Oil_tanker
+ONE	http://dbpedia.org/resource/1_(number)
+OS X Lion	http://dbpedia.org/resource/Mac_OS_X_Lion
+OSLO	http://dbpedia.org/resource/Oslo
+OU	http://dbpedia.org/resource/University_of_Oklahoma
+Obama	http://dbpedia.org/resource/Barack_Obama
+Obama's health care law	http://dbpedia.org/resource/Patient_Protection_and_Affordable_Care_Act
+Obamacare	http://dbpedia.org/resource/Patient_Protection_and_Affordable_Care_Act
+Ohi nuclear plant	http://dbpedia.org/resource/%C5%8Ci_Nuclear_Power_Plant
+Ohi plant	http://dbpedia.org/resource/%C5%8Ci_Nuclear_Power_Plant
+Omar death	http://dbpedia.org/resource/Death_of_Osama_bin_Laden
+OnMyMind	http://dbpedia.org/resource/On_My_Mind_(song)
+One	http://dbpedia.org/resource/1_(number)
+One Direction	http://dbpedia.org/resource/One_Direction
+Ontario	http://dbpedia.org/resource/Ontario
+OpPaypal	http://dbpedia.org/resource/PayPal
+Open	http://dbpedia.org/resource/The_Open_Championship
+Operation Mororman	http://dbpedia.org/resource/Operation_Motorman
+Oprah	http://dbpedia.org/resource/Oprah_Winfrey
+Oprah_World	http://dbpedia.org/resource/Oprah_Winfrey
+Optical disc	http://dbpedia.org/resource/Optical_disc
+Oracle	http://dbpedia.org/resource/Oracle_Corporation
+Oregon	http://dbpedia.org/resource/Oregon
+Orlando	http://dbpedia.org/resource/Orlando,_Florida
+Orlov	http://dbpedia.org/resource/Orlov
+Orwell Prize	http://dbpedia.org/resource/Orwell_Prize
+Osborne	http://dbpedia.org/resource/George_Osborne
+Oslo	http://dbpedia.org/resource/Oslo
+Oslo bomb	http://dbpedia.org/resource/2011_Norway_attacks
+Oslo explosion	http://dbpedia.org/resource/2011_Norway_attacks
+Oslo, Norway	http://dbpedia.org/resource/Oslo
+Ottawa Bluesfest	http://dbpedia.org/resource/Ottawa_Bluesfest
+Ouachita Baptist University	http://dbpedia.org/resource/Ouachita_Baptist_University
+Outkast	http://dbpedia.org/resource/Outkast
+Owen Hargreaves	http://dbpedia.org/resource/Owen_Hargreaves
+Owen Hart	http://dbpedia.org/resource/Owen_Hart
+Oxford	http://dbpedia.org/resource/University_of_Oxford
+Oxford comma	http://dbpedia.org/resource/Serial_comma
+Oxlade-Chamberlain	http://dbpedia.org/resource/Alex_Oxlade-Chamberlain
+P90X	http://dbpedia.org/resource/P90X
+P90X2	http://dbpedia.org/resource/P90X
+PA	http://dbpedia.org/resource/Pakistan
+PAL Express	http://dbpedia.org/resource/PAL_Express
+PARIS	http://dbpedia.org/resource/Paris
+PBS	http://dbpedia.org/resource/PBS
+PDF	http://dbpedia.org/resource/Portable_Document_Format
+PETA	http://dbpedia.org/resource/People_for_the_Ethical_Treatment_of_Animals
+PGA Championship	http://dbpedia.org/resource/PGA_Championship
+PGATour	http://dbpedia.org/resource/PGA_Tour
+PHILIPPINES	http://dbpedia.org/resource/Philippines_national_football_team
+PL	http://dbpedia.org/resource/Premier_League
+PM	http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom
+PM	http://dbpedia.org/resource/Prime_minister
+PM Raila Odinga	http://dbpedia.org/resource/Raila_Odinga
+PNJ	http://dbpedia.org/resource/Pensacola_News_Journal
+POLICE	http://dbpedia.org/resource/Norwegian_Police_Service
+POTUS	http://dbpedia.org/resource/President_of_the_United_States
+PPP	http://dbpedia.org/resource/Pakistan_Peoples_Party
+PSG	http://dbpedia.org/resource/Paris_Saint-Germain_F.C.
+Packers	http://dbpedia.org/resource/Green_Bay_Packers
+Paige	http://dbpedia.org/resource/Paige_(band)
+Pakistan	http://dbpedia.org/resource/Pakistan
+Pakistan flood	http://dbpedia.org/resource/2010_Pakistan_floods
+Pakistan gov't	http://dbpedia.org/resource/Government_of_Pakistan
+Pakistani	http://dbpedia.org/resource/Pakistani_people
+Palace	http://dbpedia.org/resource/Crystal_Palace_F.C.
+Palestine	http://dbpedia.org/resource/Palestine
+PalmersGreen	http://dbpedia.org/resource/Palmers_Green
+Panda	http://dbpedia.org/resource/Pablo_Sandoval
+Papua	http://dbpedia.org/resource/West_Papua_(region)
+Paris	http://dbpedia.org/resource/Paris
+ParisHilton	http://dbpedia.org/resource/Paris_Hilton
+Patriots	http://dbpedia.org/resource/New_England_Patriots
+Pattinson	http://dbpedia.org/resource/Robert_Pattinson
+Paul McCartney	http://dbpedia.org/resource/Paul_McCartney
+Paul Stephenson	http://dbpedia.org/resource/Paul_Stephenson_(police_officer)
+PayPal	http://dbpedia.org/resource/PayPal
+Payrolls	http://dbpedia.org/resource/Payroll
+Peabody Energy	http://dbpedia.org/resource/Peabody_Energy
+Peace Pilgrim	http://dbpedia.org/resource/Peace_Pilgrim
+Peacock	http://dbpedia.org/resource/Peafowl
+Peckham	http://dbpedia.org/resource/Peckham
+Pedigree	http://dbpedia.org/resource/Pedigree_chart
+Peeta Mellark	http://dbpedia.org/resource/Peeta_Mellark
+Pelosi	http://dbpedia.org/resource/Nancy_Pelosi
+Pentagon	http://dbpedia.org/resource/United_States_Department_of_Defense
+Pep Guardiola	http://dbpedia.org/resource/Pep_Guardiola
+Peter Dinklage	http://dbpedia.org/resource/Peter_Dinklage
+Peter Schmeichel	http://dbpedia.org/resource/Peter_Schmeichel
+Peterborough	http://dbpedia.org/resource/Peterborough
+Petr Cech	http://dbpedia.org/resource/Petr_%C4%8Cech
+Philadelphia	http://dbpedia.org/resource/Philadelphia
+Philadelphia	http://dbpedia.org/resource/Philadelphia_Eagles
+Philadelphia International Airport	http://dbpedia.org/resource/Philadelphia_International_Airport
+Philip Morris	http://dbpedia.org/resource/Philip_Morris_International
+Philippine Airlines	http://dbpedia.org/resource/Philippine_Airlines
+Philippine Dragon Boat Team	http://dbpedia.org/resource/Philippine_Dragon_Boat_Federation
+Philippines	http://dbpedia.org/resource/Philippines
+Philippines	http://dbpedia.org/resource/Philippines_national_football_team
+Philly	http://dbpedia.org/resource/Philadelphia
+Phineas	http://dbpedia.org/resource/Phineas_Flynn
+Phoenix	http://dbpedia.org/resource/Phoenix_Park
+Physicists	http://dbpedia.org/resource/Physicist
+Pias	http://dbpedia.org/resource/PIAS_Entertainment_Group
+PiersMorgan	http://dbpedia.org/resource/Piers_Morgan
+Pinoy	http://dbpedia.org/resource/Pinoy
+Pinto beans	http://dbpedia.org/resource/Phaseolus_vulgaris
+Pirates	http://dbpedia.org/resource/Pittsburgh_Pirates
+Pisces	http://dbpedia.org/resource/Pisces_(astrology)
+Plan B	http://dbpedia.org/resource/Plan_B_(musician)
+Plankton	http://dbpedia.org/resource/Plankton_(SpongeBob_SquarePants)
+Plato	http://dbpedia.org/resource/Plato
+Plaxico	http://dbpedia.org/resource/Plaxico_Burress
+Plaxico Burress	http://dbpedia.org/resource/Plaxico_Burress
+Players	http://dbpedia.org/resource/Player_(game)
+Plouffe	http://dbpedia.org/resource/Trevor_Plouffe
+Pluto	http://dbpedia.org/resource/Pluto
+Pocono	http://dbpedia.org/resource/Pocono_Raceway
+Poland	http://dbpedia.org/resource/Poland_national_football_team
+Polanski	http://dbpedia.org/resource/Roman_Polanski
+Polar bears	http://dbpedia.org/resource/Polar_bear
+Pole Position	http://dbpedia.org/resource/Pole_position
+Police	http://dbpedia.org/resource/Police
+Police Department	http://dbpedia.org/resource/Police
+Politicians	http://dbpedia.org/resource/Politician
+PondersEnd	http://dbpedia.org/resource/Ponders_End
+Pontiac	http://dbpedia.org/resource/Pontiac,_Michigan
+Ponzi	http://dbpedia.org/resource/Ponzi_scheme
+Pooh	http://dbpedia.org/resource/Winnie-the-Pooh
+Pootie Tang	http://dbpedia.org/resource/Pootie_Tang
+Power Swimmer	http://dbpedia.org/resource/Personal_flotation_device
+Premier League	http://dbpedia.org/resource/Premier_League
+Premier League	http://dbpedia.org/resource/Premier_League_Darts
+President	http://dbpedia.org/resource/President
+President Barack Obama	http://dbpedia.org/resource/Barack_Obama
+President Correa	http://dbpedia.org/resource/Rafael_Correa
+President Obama	http://dbpedia.org/resource/Barack_Obama
+President of SouthAfrica	http://dbpedia.org/resource/President_of_South_Africa
+Prime Minister	http://dbpedia.org/resource/Prime_Minister_of_India
+Prime Minister	http://dbpedia.org/resource/Prime_Minister_of_Norway
+Prime Minister	http://dbpedia.org/resource/Prime_minister
+Prime Minister SilvBerlusconi	http://dbpedia.org/resource/Silvio_Berlusconi
+Prince Sultan	http://dbpedia.org/resource/Sultan_bin_Abdulaziz
+Prince of Wales	http://dbpedia.org/resource/Prince_of_Wales
+Princess Rose	http://dbpedia.org/resource/Princess_Rose
+Princeton	http://dbpedia.org/resource/Princeton_University
+Pro Bowl	http://dbpedia.org/resource/Pro_Bowl
+Protestants	http://dbpedia.org/resource/Protestantism
+Proverbs	http://dbpedia.org/resource/Book_of_Proverbs
+Providence	http://dbpedia.org/resource/Providence_Bruins
+Psalm	http://dbpedia.org/resource/Psalms
+Psalms	http://dbpedia.org/resource/Psalms
+Public Service Announcement	http://dbpedia.org/resource/Public_service_announcement
+Pujols	http://dbpedia.org/resource/Albert_Pujols
+Punjab	http://dbpedia.org/resource/Punjab_region
+Pusha T	http://dbpedia.org/resource/Pusha_T
+QB	http://dbpedia.org/resource/Quarterback
+QB Kevin Kolb	http://dbpedia.org/resource/Kevin_Kolb
+QFG	http://dbpedia.org/resource/Quest_for_Glory
+QOF	http://dbpedia.org/resource/Quality_and_Outcomes_Framework
+Queen	http://dbpedia.org/resource/Elizabeth_II
+R Broyles	http://dbpedia.org/resource/Ryan_Broyles
+R&B	http://dbpedia.org/resource/Rhythm_and_blues
+RB Reggie Bush	http://dbpedia.org/resource/Reggie_Bush
+RB Willis McGahee	http://dbpedia.org/resource/Willis_McGahee
+RDR	http://dbpedia.org/resource/Financial_Services_Authority
+REUTERS	http://dbpedia.org/resource/Reuters
+RIM	http://dbpedia.org/resource/BlackBerry_(company)
+ROV	http://dbpedia.org/resource/Remotely_operated_underwater_vehicle
+RSA	http://dbpedia.org/resource/RSA_(security_firm)
+Rabindranath Tagore	http://dbpedia.org/resource/Rabindranath_Tagore
+Rachael_Hodges	http://dbpedia.org/resource/Rachael_Hodges
+Raiders	http://dbpedia.org/resource/Oakland_Raiders
+Rain	http://dbpedia.org/resource/Rain
+Ramadan	http://dbpedia.org/resource/Ramadan
+RamadanMassacre	http://dbpedia.org/resource/Siege_of_Hama_(2011)
+Rams	http://dbpedia.org/resource/St._Louis_Rams
+Randy Moss	http://dbpedia.org/resource/Randy_Moss
+Rangers	http://dbpedia.org/resource/Rangers_F.C.
+Rangers	http://dbpedia.org/resource/Texas_Rangers_(baseball)
+Ravens	http://dbpedia.org/resource/Baltimore_Ravens
+Rays	http://dbpedia.org/resource/Tampa_Bay_Rays
+Real Madrid	http://dbpedia.org/resource/Real_Madrid_C.F.
+Reality TV	http://dbpedia.org/resource/Reality_television
+Rebecca Black	http://dbpedia.org/resource/Rebecca_Black
+Rebecca Brooks	http://dbpedia.org/resource/Rebekah_Brooks
+Rebecca brooks	http://dbpedia.org/resource/Rebekah_Brooks
+Rebekah Brooks	http://dbpedia.org/resource/Rebekah_Brooks
+Red Cross	http://dbpedia.org/resource/International_Red_Cross_and_Red_Crescent_Movement
+Red Sox	http://dbpedia.org/resource/Boston_Red_Sox
+RedState	http://dbpedia.org/resource/Red_states_and_blue_states
+Redbox	http://dbpedia.org/resource/Redbox
+Reds	http://dbpedia.org/resource/Cincinnati_Reds
+Redskins	http://dbpedia.org/resource/Washington_Redskins
+Regina George	http://dbpedia.org/resource/Regina_George
+Reid	http://dbpedia.org/resource/Harry_Reid
+Reno_Tahoe_Open	http://dbpedia.org/resource/Reno%E2%80%93Tahoe_Open
+Reporter	http://dbpedia.org/resource/Journalist
+Respect for Marriage Act	http://dbpedia.org/resource/Respect_for_Marriage_Act
+Reuters	http://dbpedia.org/resource/Reuters
+Rev. Al Sharpton	http://dbpedia.org/resource/Al_Sharpton
+RevRunWisdom	http://dbpedia.org/resource/Joseph_Simmons
+Revolutionary Suicide	http://dbpedia.org/resource/Revolutionary_Suicide
+Rice Krispy	http://dbpedia.org/resource/Rice_Krispies
+Richard Bach	http://dbpedia.org/resource/Richard_Bach
+Richard Bowes	http://dbpedia.org/resource/Richard_Bowes
+Richard Dent	http://dbpedia.org/resource/Richard_Dent
+Richard Harris	http://dbpedia.org/resource/Richard_Harris
+Rick Perry	http://dbpedia.org/resource/Rick_Perry
+Rick Ross	http://dbpedia.org/resource/Rick_Ross
+RickPerry	http://dbpedia.org/resource/Rick_Perry
+Rico Suave	http://dbpedia.org/resource/Rico_Suave_(song)
+Rio	http://dbpedia.org/resource/Rio_de_Janeiro
+Riots	http://dbpedia.org/resource/2011_England_riots
+Rise of the Planet of the Apes	http://dbpedia.org/resource/Rise_of_the_Planet_of_the_Apes
+Ritchie Coliseum	http://dbpedia.org/resource/Ritchie_Coliseum
+Riteishd	http://dbpedia.org/resource/Riteish_Deshmukh
+RiverMarket	http://dbpedia.org/resource/River_Market,_Kansas_City
+Robbie Keane	http://dbpedia.org/resource/Robbie_Keane
+Roberta Vinci	http://dbpedia.org/resource/Roberta_Vinci
+Roberto Di Matteo	http://dbpedia.org/resource/Roberto_Di_Matteo
+Robin van Persie	http://dbpedia.org/resource/Robin_van_Persie
+Rock in Rio	http://dbpedia.org/resource/Rock_in_Rio
+Roger Cheng	http://dbpedia.org/resource/Roger_Chang
+RogersCup	http://dbpedia.org/resource/2011_Rogers_Cup
+Rolls-Royce	http://dbpedia.org/resource/Rolls-Royce_Group_PLC
+Romans	http://dbpedia.org/resource/Epistle_to_the_Romans
+Rome	http://dbpedia.org/resource/Rome
+Ron	http://dbpedia.org/resource/Ron_Weasley
+Ron Burke	http://dbpedia.org/resource/Ron_Burke_(sportscaster)
+Ron Weasley	http://dbpedia.org/resource/Ron_Weasley
+Rosen Law Firm	http://dbpedia.org/resource/Rose_Law_Firm
+Rosicky	http://dbpedia.org/resource/Tom%C3%A1%C5%A1_Rosick%C3%BD
+Ross Kemp	http://dbpedia.org/resource/Ross_Kemp
+Roth	http://dbpedia.org/resource/Matt_Roth
+Rotherham	http://dbpedia.org/resource/Rotherham
+Rovio	http://dbpedia.org/resource/Rovio_Entertainment
+Royal Dutch Shell	http://dbpedia.org/resource/Royal_Dutch_Shell
+Rugrats	http://dbpedia.org/resource/Rugrats
+Rupert	http://dbpedia.org/resource/Rupert_Grint
+Rupert	http://dbpedia.org/resource/Rupert_Murdoch
+Rupert Grint	http://dbpedia.org/resource/Rupert_Grint
+Rupert Murdoch	http://dbpedia.org/resource/Rupert_Murdoch
+Russell Blaylock	http://dbpedia.org/resource/Russell_Blaylock
+Russia	http://dbpedia.org/resource/Russia
+Ryan Longwell	http://dbpedia.org/resource/Ryan_Longwell
+RyanSeacrest	http://dbpedia.org/resource/Ryan_Seacrest
+Ryder	http://dbpedia.org/resource/Zack_Ryder
+Ryeo Wook	http://dbpedia.org/resource/Kim_Ryeowook
+S&P	http://dbpedia.org/resource/Standard_&_Poor's
+S&P 500	http://dbpedia.org/resource/S&P_500
+S'gor MB	http://dbpedia.org/resource/Abdul_Khalid_Ibrahim
+SA	http://dbpedia.org/resource/South_Africa
+SAINTS	http://dbpedia.org/resource/New_Orleans_Saints
+SAN FRANCISCO	http://dbpedia.org/resource/San_Francisco
+SB Nation	http://dbpedia.org/resource/SB_Nation
+SCAF	http://dbpedia.org/resource/Supreme_Council_of_the_Armed_Forces
+SDSU	http://dbpedia.org/resource/San_Diego_State_University
+SEO	http://dbpedia.org/resource/Search_engine_optimization
+SETI	http://dbpedia.org/resource/Search_for_extraterrestrial_intelligence
+SF	http://dbpedia.org/resource/San_Francisco_Giants
+SFGiants	http://dbpedia.org/resource/San_Francisco_Giants
+SHANGHAI	http://dbpedia.org/resource/Shanghai
+SK Tel	http://dbpedia.org/resource/SK_Telecom
+SLAMnewswire	http://dbpedia.org/resource/SLAM_Magazine
+SLAMonline.com	http://dbpedia.org/resource/SLAM_Magazine
+SMEs	http://dbpedia.org/resource/Small_and_medium_enterprises
+SNL	http://dbpedia.org/resource/Saturday_Night_Live
+SPL	http://dbpedia.org/resource/Scottish_Premier_League
+SSN	http://dbpedia.org/resource/Sky_Sports_News
+STS-135	http://dbpedia.org/resource/STS-135
+SUNDAY	http://dbpedia.org/resource/Sunday
+SURREY	http://dbpedia.org/resource/Surrey
+SWAT	http://dbpedia.org/resource/SWAT
+SWT	http://dbpedia.org/resource/Subhanahu_wa_ta'ala
+SYP	http://dbpedia.org/resource/South_Yorkshire_Police
+Sagittarius	http://dbpedia.org/resource/Sagittarius_(astrology)
+Sainsbury's	http://dbpedia.org/resource/Sainsbury's
+Sainsburys	http://dbpedia.org/resource/Sainsbury's
+Saint-Germain	http://dbpedia.org/resource/Paris_Saint-Germain_F.C.
+Saints	http://dbpedia.org/resource/New_Orleans_Saints
+Salford	http://dbpedia.org/resource/City_of_Salford
+Salford/city	http://dbpedia.org/resource/City_of_Salford
+Sam Bradford	http://dbpedia.org/resource/Sam_Bradford
+Samsung Galaxy Tab	http://dbpedia.org/resource/Samsung_Galaxy_Tab
+San Diego	http://dbpedia.org/resource/San_Diego
+San Francisco	http://dbpedia.org/resource/San_Francisco
+San Francisco Business Times	http://dbpedia.org/resource/American_City_Business_Journals
+San Francisco Transit	http://dbpedia.org/resource/San_Francisco_Municipal_Railway
+Sand	http://dbpedia.org/resource/Sand
+Santander	http://dbpedia.org/resource/Santander_Group
+Santiago Bernabeu stadium	http://dbpedia.org/resource/Santiago_Bernab%C3%A9u_Stadium
+Santiago Casilla	http://dbpedia.org/resource/Santiago_Casilla
+Santonio Holmes	http://dbpedia.org/resource/Santonio_Holmes
+Saprissa	http://dbpedia.org/resource/Deportivo_Saprissa_S.A.D.
+Sartre	http://dbpedia.org/resource/Jean-Paul_Sartre
+Saskatchewan	http://dbpedia.org/resource/Saskatchewan
+Saturday	http://dbpedia.org/resource/Saturday
+Saudi	http://dbpedia.org/resource/Saudi_Arabia
+Schrock	http://dbpedia.org/resource/Stephan_Schr%C3%B6ck
+Science	http://dbpedia.org/resource/Science
+Scooter	http://dbpedia.org/resource/Scooter_Braun
+Scorpio	http://dbpedia.org/resource/Scorpio_(astrology)
+Scorpios	http://dbpedia.org/resource/Scorpio_(astrology)
+Scotland	http://dbpedia.org/resource/Scotland
+Scotland Yard	http://dbpedia.org/resource/Scotland_Yard
+Scott Piercy	http://dbpedia.org/resource/Scott_Piercy
+Scott Walker	http://dbpedia.org/resource/Scott_Walker_(politician)
+Scottish	http://dbpedia.org/resource/Scottish_people
+Scottish Power	http://dbpedia.org/resource/Scottish_Power
+Scottish Premier League	http://dbpedia.org/resource/Scottish_Premier_League
+Scottish and Southern	http://dbpedia.org/resource/SSE_plc
+ScottyMcCreery	http://dbpedia.org/resource/Scotty_McCreery
+Scrabble	http://dbpedia.org/resource/Scrabble
+Seahawk	http://dbpedia.org/resource/Seattle_Seahawks
+Seahawks	http://dbpedia.org/resource/Seattle_Seahawks
+Seal Team Six	http://dbpedia.org/resource/United_States_Naval_Special_Warfare_Development_Group
+Sean Bean	http://dbpedia.org/resource/Sean_Bean
+Sean Hoare	http://dbpedia.org/resource/Sean_Hoare
+Seattle	http://dbpedia.org/resource/Seattle
+Seattle	http://dbpedia.org/resource/Seattle_Seahawks
+Sehr	http://dbpedia.org/resource/Suhoor
+Selangor	http://dbpedia.org/resource/Selangor
+Selangor government	http://dbpedia.org/resource/Selangor
+Selena	http://dbpedia.org/resource/Selena_Gomez
+Sen. John Cornyn	http://dbpedia.org/resource/John_Cornyn
+Sen. Sanders	http://dbpedia.org/resource/Bernie_Sanders
+Senate	http://dbpedia.org/resource/United_States_Senate
+Senator Reid	http://dbpedia.org/resource/Harry_Reid
+Seoul	http://dbpedia.org/resource/Seoul
+Sept 20	http://dbpedia.org/resource/September_20
+Sept.	http://dbpedia.org/resource/September
+Sept. 10th	http://dbpedia.org/resource/September_10
+September	http://dbpedia.org/resource/September
+September 19	http://dbpedia.org/resource/September_19
+September 2001	http://dbpedia.org/resource/September_2001
+September 20th	http://dbpedia.org/resource/September_20
+September 7	http://dbpedia.org/resource/September_7
+Sergio Aguero	http://dbpedia.org/resource/Sergio_Ag%C3%BCero
+Serigo Aguero	http://dbpedia.org/resource/Sergio_Ag%C3%BCero
+Severus	http://dbpedia.org/resource/Severus_Snape
+Severus Snape	http://dbpedia.org/resource/Severus_Snape
+Sex game	http://dbpedia.org/resource/Sex_toy
+Shadows of the Damned	http://dbpedia.org/resource/Shadows_of_the_Damned
+Shakespeare	http://dbpedia.org/resource/William_Shakespeare
+Shay Given	http://dbpedia.org/resource/Shay_Given
+She Makes Me Wanna	http://dbpedia.org/resource/She_Makes_Me_Wanna
+Sheehey	http://dbpedia.org/resource/Will_Sheehey
+Sheffield	http://dbpedia.org/resource/Sheffield
+Sheffield city centre	http://dbpedia.org/resource/Sheffield_City_Centre
+Shell	http://dbpedia.org/resource/Royal_Dutch_Shell
+Shetland Islands	http://dbpedia.org/resource/Shetland
+Shipwreck	http://dbpedia.org/resource/Shipwreck
+Shuhardi Mat Isa	http://dbpedia.org/resource/Nasharudin_Mat_Isa
+Shuttle	http://dbpedia.org/resource/Space_Shuttle
+Siberian Khatru	http://dbpedia.org/resource/Siberian_Khatru
+Sierra Nevada	http://dbpedia.org/resource/Sierra_Nevada_(U.S.)
+Sikh	http://dbpedia.org/resource/Sikh
+Simoncelli	http://dbpedia.org/resource/Marco_Simoncelli
+Sir Paul Stephenson	http://dbpedia.org/resource/Paul_Stephenson_(police_officer)
+Sirens	http://dbpedia.org/resource/Siren_(noisemaker)
+Sirius XM	http://dbpedia.org/resource/Sirius_XM_Radio
+Skins	http://dbpedia.org/resource/Washington_Redskins
+Sky	http://dbpedia.org/resource/BSkyB
+Sky News	http://dbpedia.org/resource/Sky_News
+Sky news	http://dbpedia.org/resource/Sky_News
+SkyNews	http://dbpedia.org/resource/Sky_News
+SkyNewsBreak	http://dbpedia.org/resource/Sky_News
+SkySportsNews	http://dbpedia.org/resource/Sky_Sports_News
+Skyscraper	http://dbpedia.org/resource/Skyscraper
+Skysports.com	http://dbpedia.org/resource/Sky_Sports
+Smaalenene	http://dbpedia.org/resource/Smaalenenes_Avis
+Smackdown	http://dbpedia.org/resource/WWE_SmackDown
+Smith	http://dbpedia.org/resource/DeMaurice_Smith
+Smith	http://dbpedia.org/resource/Tom_Smith_(cricketer_born_1985)
+Smithdown Road area of Liverpool	http://dbpedia.org/resource/Smithdown_Road,_Liverpool
+Sneijder	http://dbpedia.org/resource/Wesley_Sneijder
+Snow White	http://dbpedia.org/resource/Snow_White
+Social Security	http://dbpedia.org/resource/Social_security
+Social Security Disability	http://dbpedia.org/resource/Social_Security_Disability_Insurance
+Sol Saks	http://dbpedia.org/resource/Sol_Saks
+Solar energy	http://dbpedia.org/resource/Solar_energy
+Somalia	http://dbpedia.org/resource/Somalia
+Sony	http://dbpedia.org/resource/Sony
+Sony Alpha DSLR	http://dbpedia.org/resource/Sony_Alpha_900
+Sony Centre	http://dbpedia.org/resource/Sony_Centre
+SouljaBoy	http://dbpedia.org/resource/Soulja_Boy
+South Africa	http://dbpedia.org/resource/South_Africa
+South Korea	http://dbpedia.org/resource/South_Korea
+South Yorkshire	http://dbpedia.org/resource/South_Yorkshire
+South of Border	http://dbpedia.org/resource/Mexico
+Southall	http://dbpedia.org/resource/Southall
+Southampton	http://dbpedia.org/resource/Southampton
+Southeast	http://dbpedia.org/resource/Southeastern_United_States
+Southend	http://dbpedia.org/resource/Southend-on-Sea
+Southern Cross	http://dbpedia.org/resource/Southern_Cross_Healthcare_(United_Kingdom)
+Southwark Crown Court	http://dbpedia.org/resource/Southwark_Crown_Court
+Sox	http://dbpedia.org/resource/Boston_Red_Sox
+Space	http://dbpedia.org/resource/Space
+Space Agreement	http://dbpedia.org/resource/Space_Act_Agreement
+Space Shuttle Endeavou	http://dbpedia.org/resource/Space_Shuttle_Endeavour
+Space Station	http://dbpedia.org/resource/Space_station
+Space shuttle Columbia	http://dbpedia.org/resource/Space_Shuttle_Columbia
+Spain	http://dbpedia.org/resource/Spain
+Spanish Supercup	http://dbpedia.org/resource/Supercopa_de_Espa%C3%B1a
+Speaker Boehner	http://dbpedia.org/resource/John_Boehner
+Splendour In The Grass	http://dbpedia.org/resource/Splendour_in_the_Grass
+Spongebob	http://dbpedia.org/resource/SpongeBob_SquarePants
+Sports News	http://dbpedia.org/resource/Sports_journalism
+Spotify	http://dbpedia.org/resource/Spotify
+Spring	http://dbpedia.org/resource/Spring_(season)
+Sprint	http://dbpedia.org/resource/Sprint_Nextel
+Spurs	http://dbpedia.org/resource/Tottenham_Hotspur_F.C.
+St. John Fisher	http://dbpedia.org/resource/John_Fisher
+St.Clair	http://dbpedia.org/resource/St._Clair-Superior
+Stadium	http://dbpedia.org/resource/Stadium
+Stan	http://dbpedia.org/resource/Stan_Lee
+Stand	http://dbpedia.org/resource/Stand_(Lenny_Kravitz_song)
+StarWars	http://dbpedia.org/resource/Star_Wars
+Stars	http://dbpedia.org/resource/Star
+States	http://dbpedia.org/resource/United_States
+Steely Dan	http://dbpedia.org/resource/Steely_Dan
+Stephenson	http://dbpedia.org/resource/Paul_Stephenson_(police_officer)
+Stepping Hill Hospital	http://dbpedia.org/resource/Stepping_Hill_Hospital
+Stevan Ridley	http://dbpedia.org/resource/Stevan_Ridley
+Steve Gostkowksi	http://dbpedia.org/resource/Stephen_Gostkowski
+Steve Hough	http://dbpedia.org/resource/Steve_Hough
+Steve Hutchinson	http://dbpedia.org/resource/Steve_Hutchinson_(American_football)
+Steve King	http://dbpedia.org/resource/Steve_King
+Steve Kloves	http://dbpedia.org/resource/Steve_Kloves
+Steve Smith	http://dbpedia.org/resource/Steve_Smith_(wide_receiver,_born_1985)
+Steve Stricker	http://dbpedia.org/resource/Steve_Stricker
+Steve Williams	http://dbpedia.org/resource/Steve_Williams_(caddy)
+Steven Croft	http://dbpedia.org/resource/Steven_Croft_(cricketer)
+Steven Davis	http://dbpedia.org/resource/Steven_Davis
+Steven Finn	http://dbpedia.org/resource/Steven_Finn_(cricketer)
+Steven Gerrard	http://dbpedia.org/resource/Steven_Gerrard
+Stockport	http://dbpedia.org/resource/Stockport
+Stoke City	http://dbpedia.org/resource/Stoke_City_F.C.
+Stoltenberg	http://dbpedia.org/resource/Jens_Stoltenberg
+Strathclyde Police	http://dbpedia.org/resource/Strathclyde_Police
+Stricker	http://dbpedia.org/resource/Steve_Stricker
+Suarez	http://dbpedia.org/resource/Luis_Su%C3%A1rez
+SugarLand	http://dbpedia.org/resource/Sugarland
+Sugarland	http://dbpedia.org/resource/Sugarland
+Summer	http://dbpedia.org/resource/Summer
+Sun	http://dbpedia.org/resource/Sun
+Sun	http://dbpedia.org/resource/The_Sun_(United_Kingdom)
+Sun Yang	http://dbpedia.org/resource/Sun_Yang
+Sunday	http://dbpedia.org/resource/Sunday
+Sunderland	http://dbpedia.org/resource/Sunderland,_Tyne_and_Wear
+Sunderland	http://dbpedia.org/resource/Sunderland_A.F.C.
+Sunnah	http://dbpedia.org/resource/Sunnah
+Super Bowl	http://dbpedia.org/resource/Super_Bowl
+SuperSport	http://dbpedia.org/resource/SuperSport
+Superquinn	http://dbpedia.org/resource/Superquinn
+Supreme Court	http://dbpedia.org/resource/Supreme_court
+Surrey	http://dbpedia.org/resource/Surrey
+Surrey Police	http://dbpedia.org/resource/Surrey_Police
+Surrey Quays	http://dbpedia.org/resource/Surrey_Quays
+Svalbard	http://dbpedia.org/resource/Svalbard
+Swish bank UBS	http://dbpedia.org/resource/Union_Bank_of_Switzerland
+Sydney	http://dbpedia.org/resource/Sydney
+Sydney, Australia	http://dbpedia.org/resource/Sydney
+Symbian	http://dbpedia.org/resource/Symbian
+Syria	http://dbpedia.org/resource/Syria
+Syrian	http://dbpedia.org/resource/Syrian_people
+Syrian capital, Damascus	http://dbpedia.org/resource/Damascus
+Szczesny	http://dbpedia.org/resource/Wojciech_Szcz%C4%99sny
+T-Mobile	http://dbpedia.org/resource/T-Mobile
+T-Mobile USA	http://dbpedia.org/resource/T-Mobile_USA
+TAIPEI	http://dbpedia.org/resource/Taipei
+TCA	http://dbpedia.org/resource/Teen_Choice_Awards
+TCAs	http://dbpedia.org/resource/Teen_Choice_Awards
+TCAs	http://dbpedia.org/resource/Television_Critics_Association
+TCS	http://dbpedia.org/resource/Tata_Consultancy_Services
+TFG	http://dbpedia.org/resource/Transitional_Federal_Government
+THE BAHAMAS	http://dbpedia.org/resource/The_Bahamas
+TMB	http://dbpedia.org/resource/The_Midnight_Beast
+TNW Insider	http://dbpedia.org/resource/The_Next_Web
+TNWapple	http://dbpedia.org/resource/The_Next_Web
+TNWinsider	http://dbpedia.org/resource/The_Next_Web
+TNWmicrosoft	http://dbpedia.org/resource/The_Next_Web
+TNWmobile	http://dbpedia.org/resource/The_Next_Web
+TO	http://dbpedia.org/resource/Toronto
+TROPICAL STORM BRET	http://dbpedia.org/resource/Tropical_Storm_Bret_(2011)
+TSA	http://dbpedia.org/resource/Transportation_Security_Administration
+TSMC	http://dbpedia.org/resource/TSMC
+TWILIGHT	http://dbpedia.org/resource/The_Twilight_Saga_(film_series)
+TWITTER	http://dbpedia.org/resource/Twitter
+Tahrir	http://dbpedia.org/resource/Tahrir_Square
+Tahrir square	http://dbpedia.org/resource/Tahrir_Square
+Takbeer	http://dbpedia.org/resource/Takbir
+Taliban	http://dbpedia.org/resource/Taliban
+Tampa	http://dbpedia.org/resource/Tampa,_Florida
+Tampa Bay	http://dbpedia.org/resource/Tampa_Bay_Rowdies
+Taurus	http://dbpedia.org/resource/Taurus_(astrology)
+Tavis Smiley	http://dbpedia.org/resource/Tavis_Smiley
+Taylor Lautner	http://dbpedia.org/resource/Taylor_Lautner
+Tea Party	http://dbpedia.org/resource/The_Tea_Party
+Ted Bundy	http://dbpedia.org/resource/Ted_Bundy
+Tencent	http://dbpedia.org/resource/Tencent_Holdings
+Tencent Holdings	http://dbpedia.org/resource/Tencent_Holdings
+Tendulkar	http://dbpedia.org/resource/Sachin_Tendulkar
+Tennis	http://dbpedia.org/resource/Tennis
+Terra satellite	http://dbpedia.org/resource/Terra_(satellite)
+Terrorism	http://dbpedia.org/resource/Terrorism
+Test	http://dbpedia.org/resource/River_Test
+Tevez	http://dbpedia.org/resource/Carlos_T%C3%A9vez
+Texans	http://dbpedia.org/resource/Houston_Texans
+Texas	http://dbpedia.org/resource/Texas
+Texas A&M	http://dbpedia.org/resource/Texas_A&M_University
+Texas Gov. Rick Perry	http://dbpedia.org/resource/Rick_Perry
+Thai	http://dbpedia.org/resource/Thai_people
+Thai police	http://dbpedia.org/resource/Royal_Thai_Police
+Thai-Cambodia dispute	http://dbpedia.org/resource/Cambodian%E2%80%93Thai_border_dispute
+Thailand	http://dbpedia.org/resource/Thailand
+Thar coal	http://dbpedia.org/resource/Thar_coalfield
+The Apprentice	http://dbpedia.org/resource/The_Apprentice_(TV_series)
+The Champions	http://dbpedia.org/resource/The_Champions
+The Duchess of Cornwall	http://dbpedia.org/resource/Duchess_of_Cornwall
+The Edge of Glory	http://dbpedia.org/resource/The_Edge_of_Glory
+The Godfather: Part II	http://dbpedia.org/resource/The_Godfather_Part_II
+The Guardian	http://dbpedia.org/resource/The_Guardian
+The Norway attacks	http://dbpedia.org/resource/2011_Norway_attacks
+The Open Championship	http://dbpedia.org/resource/The_Open_Championship
+The Perfume Shop	http://dbpedia.org/resource/The_Perfume_Shop
+The Prisoner of the Chamber	http://dbpedia.org/resource/Harry_Potter_and_the_Chamber_of_Secrets
+The San Francisco Chronicle	http://dbpedia.org/resource/San_Francisco_Chronicle
+The Sun	http://dbpedia.org/resource/The_Sun_(United_Kingdom)
+The Sunday Times	http://dbpedia.org/resource/The_Sunday_Times
+The Voice	http://dbpedia.org/resource/The_Voice_(U.S._TV_series)
+TheBachelor	http://dbpedia.org/resource/The_Bachelor_(U.S._TV_series)
+TheChew	http://dbpedia.org/resource/The_Chew
+TheNextWebME	http://dbpedia.org/resource/The_Next_Web
+TheSun.co.uk	http://dbpedia.org/resource/The_Sun_(United_Kingdom)
+Theresa May	http://dbpedia.org/resource/Theresa_May
+Thiago	http://dbpedia.org/resource/Thiago_Alc%C3%A2ntara
+Third Doctor	http://dbpedia.org/resource/Third_Doctor
+Thousand	http://dbpedia.org/resource/1000_(number)
+Three	http://dbpedia.org/resource/3_(number)
+Thu	http://dbpedia.org/resource/Thursday
+Thursday	http://dbpedia.org/resource/Thursday
+Tiffany	http://dbpedia.org/resource/Tiffany_(South_Korean_singer)
+Tiffin	http://dbpedia.org/resource/Tiffin,_Ohio
+Tiger	http://dbpedia.org/resource/Tiger_Woods
+Tiger Woods	http://dbpedia.org/resource/Tiger_Woods
+Tim Ferriss	http://dbpedia.org/resource/Timothy_Ferriss
+Tim Southee	http://dbpedia.org/resource/Tim_Southee
+Times-Picayune, NOLA.com	http://dbpedia.org/resource/The_Times-Picayune
+Tobin Heath	http://dbpedia.org/resource/Tobin_Heath
+Tokyo	http://dbpedia.org/resource/Tokyo
+Tom Cable	http://dbpedia.org/resource/Tom_Cable
+Tom Smith	http://dbpedia.org/resource/Tom_Smith_(cricketer_born_1985)
+Tom Watson	http://dbpedia.org/resource/Tom_Watson_(golfer)
+Tom Watson	http://dbpedia.org/resource/Tom_Watson_(politician)
+TomFelton	http://dbpedia.org/resource/Tom_Felton
+Tomter	http://dbpedia.org/resource/Tomter
+Topiary	http://dbpedia.org/resource/Topiary_(hacktivist)
+Toronto	http://dbpedia.org/resource/Toronto
+Tory	http://dbpedia.org/resource/Tory
+Tottenham	http://dbpedia.org/resource/Tottenham
+Tottenham	http://dbpedia.org/resource/Tottenham_Hotspur_F.C.
+TouchPad	http://dbpedia.org/resource/HP_TouchPad
+Tower of London	http://dbpedia.org/resource/Tower_of_London
+Toy Story	http://dbpedia.org/resource/Toy_Story
+Trafford	http://dbpedia.org/resource/Trafford
+Transitional Federal Government	http://dbpedia.org/resource/Transitional_Federal_Government
+Transport for London	http://dbpedia.org/resource/Transport_for_London
+Travis Pastrana	http://dbpedia.org/resource/Travis_Pastrana
+Trey songz	http://dbpedia.org/resource/Trey_Songz
+Tropical Storm Bret	http://dbpedia.org/resource/Tropical_Storm_Bret_(2011)
+Tropical Storm Don	http://dbpedia.org/resource/Tropical_Storm_Don_(2011)
+Tropical storm Emily	http://dbpedia.org/resource/Tropical_Storm_Emily_(2011)
+Truong Tan Sang	http://dbpedia.org/resource/Truong_Tan_Sang
+Tubular Bells	http://dbpedia.org/resource/Tubular_Bells
+Tuesday	http://dbpedia.org/resource/Tuesday
+Tulsa	http://dbpedia.org/resource/Tulsa,_Oklahoma
+Tumblr	http://dbpedia.org/resource/Tumblr
+Tupac	http://dbpedia.org/resource/Tupac_Shakur
+Turkey	http://dbpedia.org/resource/Turkey
+Turkish banks	http://dbpedia.org/resource/Turkish_Bank
+Turkish team	http://dbpedia.org/resource/Anadolu_Efes_S.K.
+Twentieth Century Fox Animation	http://dbpedia.org/resource/Fox_Animation_Studios
+Twilight	http://dbpedia.org/resource/The_Twilight_Saga_(film_series)
+Twilight	http://dbpedia.org/resource/Twilight_(2008_film)
+Twilight Breaking dawn	http://dbpedia.org/resource/The_Twilight_Saga:_Breaking_Dawn_%E2%80%93_Part_1
+Twins	http://dbpedia.org/resource/Minnesota_Twins
+Twitpic	http://dbpedia.org/resource/TwitPic
+Twitter	http://dbpedia.org/resource/Twitter
+Two	http://dbpedia.org/resource/2_(number)
+Tyler, the Creator	http://dbpedia.org/resource/Tyler,_The_Creator
+Tyrone Power	http://dbpedia.org/resource/Tyrone_Power
+U-KISS	http://dbpedia.org/resource/U-KISS
+U.S.	http://dbpedia.org/resource/Demographics_of_the_United_States
+U.S.	http://dbpedia.org/resource/United_States
+U.S. Cellular Field	http://dbpedia.org/resource/U.S._Cellular_Field
+U.S. Senate	http://dbpedia.org/resource/United_States_Senate
+U.S. Visa	http://dbpedia.org/resource/United_States_visas
+U.S. appeals court	http://dbpedia.org/resource/United_States_courts_of_appeals
+U.S. debt	http://dbpedia.org/resource/National_debt_of_the_United_States
+U.S. debt ceiling	http://dbpedia.org/resource/United_States_debt_ceiling
+U.S. economy	http://dbpedia.org/resource/Economy_of_the_United_States
+U.S. military	http://dbpedia.org/resource/United_States_Armed_Forces
+U.S. visa	http://dbpedia.org/resource/United_States_visas
+U19 Euros	http://dbpedia.org/resource/UEFA_European_Under-19_Football_Championship
+U2	http://dbpedia.org/resource/U2
+U20 World Cup	http://dbpedia.org/resource/FIFA_U-20_World_Cup
+U21 Euros	http://dbpedia.org/resource/UEFA_European_Under-21_Football_Championship
+UBS	http://dbpedia.org/resource/Union_Bank_of_Switzerland
+UCLA	http://dbpedia.org/resource/University_of_California,_Los_Angeles
+UK	http://dbpedia.org/resource/United_Kingdom
+UK Housing Minister	http://dbpedia.org/resource/Ministry_of_Housing_and_Local_Government
+UK police	http://dbpedia.org/resource/Law_enforcement_in_the_United_Kingdom
+UK riots	http://dbpedia.org/resource/2011_England_riots
+UKRiots	http://dbpedia.org/resource/2011_England_riots
+UN	http://dbpedia.org/resource/United_Nations
+UN court	http://dbpedia.org/resource/International_Court_of_Justice
+UNLV	http://dbpedia.org/resource/University_of_Nevada,_Las_Vegas
+UPSHelp	http://dbpedia.org/resource/United_Parcel_Service
+US	http://dbpedia.org/resource/United_States
+US Department of Energy	http://dbpedia.org/resource/United_States_Department_of_Energy
+US House Republicans	http://dbpedia.org/resource/Republican_Party_(United_States)
+US News and World Report	http://dbpedia.org/resource/U.S._News_&_World_Report
+US Secretary of State Clinton	http://dbpedia.org/resource/Hillary_Rodham_Clinton
+US Senate	http://dbpedia.org/resource/United_States_Senate
+US Senior Open	http://dbpedia.org/resource/United_States_Senior_Open
+US congressmen	http://dbpedia.org/resource/Member_of_Congress
+US debt	http://dbpedia.org/resource/National_debt_of_the_United_States
+US economy	http://dbpedia.org/resource/Economy_of_the_United_States
+US gov	http://dbpedia.org/resource/Federal_government_of_the_United_States
+US government	http://dbpedia.org/resource/Federal_government_of_the_United_States
+US national team	http://dbpedia.org/resource/United_States_men's_national_soccer_team
+US news	http://dbpedia.org/resource/U.S._News_&_World_Report
+US press	http://dbpedia.org/resource/Media_of_the_United_States
+US screens	http://dbpedia.org/resource/Television_in_the_United_States
+USA	http://dbpedia.org/resource/United_States
+USA	http://dbpedia.org/resource/United_States_men's_national_soccer_team
+USMNT	http://dbpedia.org/resource/United_States_men's_national_soccer_team
+USWNT	http://dbpedia.org/resource/United_States_women's_national_soccer_team
+Ubaldo	http://dbpedia.org/resource/Ubaldo_Jim%C3%A9nez
+Udinese	http://dbpedia.org/resource/Udinese_Calcio
+Uganda	http://dbpedia.org/resource/Uganda
+Umno Youth	http://dbpedia.org/resource/United_Malays_National_Organisation
+Under 20 World Cup	http://dbpedia.org/resource/FIFA_U-20_World_Cup
+United	http://dbpedia.org/resource/Manchester_United_F.C.
+United States	http://dbpedia.org/resource/United_States
+University	http://dbpedia.org/resource/Delaware_State_University
+University of Ulster	http://dbpedia.org/resource/University_of_Ulster
+Urban Design	http://dbpedia.org/resource/Urban_design
+Uruguay	http://dbpedia.org/resource/Uruguay
+Uruguay	http://dbpedia.org/resource/Uruguay_national_football_team
+Usama bin Laden	http://dbpedia.org/resource/Osama_bin_Laden
+Ustream	http://dbpedia.org/resource/Ustream
+Utoya	http://dbpedia.org/resource/Ut%C3%B8ya
+Utøya	http://dbpedia.org/resource/Ut%C3%B8ya
+Utøya Island	http://dbpedia.org/resource/Ut%C3%B8ya
+Utøya shooter	http://dbpedia.org/resource/Anders_Behring_Breivik
+Uzbekistan	http://dbpedia.org/resource/Uzbekistan
+VA	http://dbpedia.org/resource/United_States_Department_of_Veterans_Affairs
+VIETNAM	http://dbpedia.org/resource/Vietnam
+VT	http://dbpedia.org/resource/Virginia_Tech
+Vader	http://dbpedia.org/resource/Big_Van_Vader
+Valencia	http://dbpedia.org/resource/Valencia_CF
+Vallares	http://dbpedia.org/resource/Genel_Energy
+Vancouver	http://dbpedia.org/resource/Vancouver
+Vatican	http://dbpedia.org/resource/Vatican_City
+Vela	http://dbpedia.org/resource/Carlos_Vela
+Velvet Revolver	http://dbpedia.org/resource/Velvet_Revolver
+Venice festival	http://dbpedia.org/resource/Venice_Film_Festival
+Verizon	http://dbpedia.org/resource/Verizon_Communications
+Vermaelen	http://dbpedia.org/resource/Thomas_Vermaelen
+Vice President	http://dbpedia.org/resource/Vice_president
+Victoria Avenue, Southend	http://dbpedia.org/resource/Southend_Victoria_railway_station
+Videographers	http://dbpedia.org/resource/Videographer
+Vietnam	http://dbpedia.org/resource/Vietnam
+Vietnam's lawmaking National Assembly	http://dbpedia.org/resource/National_Assembly_(Vietnam)
+Vikings	http://dbpedia.org/resource/Minnesota_Vikings
+Villas-Boas	http://dbpedia.org/resource/Andr%C3%A9_Villas-Boas
+Vince	http://dbpedia.org/resource/Vince_McMahon
+Virgin America	http://dbpedia.org/resource/Virgin_America
+Virginia	http://dbpedia.org/resource/Virginia
+Virginia Tech	http://dbpedia.org/resource/Virginia_Tech
+Virgo	http://dbpedia.org/resource/Virgo_(astrology)
+Virgos	http://dbpedia.org/resource/Virgo_(astrology)
+Visa	http://dbpedia.org/resource/Visa_Inc.
+Vodafone UK	http://dbpedia.org/resource/Vodafone_UK
+WARNER BROS.	http://dbpedia.org/resource/Warner_Bros.
+WASHINGTON	http://dbpedia.org/resource/Washington,_D.C.
+WBA	http://dbpedia.org/resource/West_Bromwich_Albion_F.C.
+WERK	http://dbpedia.org/resource/WERK
+WIKILEAKS	http://dbpedia.org/resource/WikiLeaks
+WINDmobile	http://dbpedia.org/resource/Wind_Mobile
+WIPO	http://dbpedia.org/resource/World_Intellectual_Property_Organization
+WKYT	http://dbpedia.org/resource/WKYT-TV
+WM WorldCupFinal	http://dbpedia.org/resource/2011_FIFA_Women's_World_Cup
+WNBA	http://dbpedia.org/resource/Women's_National_Basketball_Association
+WP7	http://dbpedia.org/resource/WP7
+WPB	http://dbpedia.org/resource/West_Palm_Beach,_Florida
+WPB FL	http://dbpedia.org/resource/West_Palm_Beach,_Florida
+WR Denarius Moore	http://dbpedia.org/resource/Denarius_Moore
+WR Michael Crabtree	http://dbpedia.org/resource/Michael_Crabtree
+WR Santonio Holmes	http://dbpedia.org/resource/Santonio_Holmes
+WSJ	http://dbpedia.org/resource/The_Wall_Street_Journal
+WW2	http://dbpedia.org/resource/World_War_II
+WWE	http://dbpedia.org/resource/WWE
+WWE Champion	http://dbpedia.org/resource/WWE_Championship
+WWEmagazine	http://dbpedia.org/resource/WWE_Magazine
+Wagoner County	http://dbpedia.org/resource/Wagoner_County,_Oklahoma
+Wale	http://dbpedia.org/resource/Wale_(rapper)
+Walgreens	http://dbpedia.org/resource/Walgreens
+Wall St	http://dbpedia.org/resource/Wall_Street
+Wall Street	http://dbpedia.org/resource/Wall_Street
+Wallis	http://dbpedia.org/resource/Neil_Wallis
+Walsall	http://dbpedia.org/resource/Walsall
+Walt Disney	http://dbpedia.org/resource/Walt_Disney
+Waltham Abbey	http://dbpedia.org/resource/Waltham_Abbey_(town)
+Walworth	http://dbpedia.org/resource/Walworth
+Wambach	http://dbpedia.org/resource/Abby_Wambach
+Wanna Be Startin' Somethin	http://dbpedia.org/resource/Wanna_Be_Startin'_Somethin'
+War on Drugs	http://dbpedia.org/resource/War_on_Drugs
+Warrant	http://dbpedia.org/resource/Warrant_(American_band)
+Warren Jeffs	http://dbpedia.org/resource/Warren_Jeffs
+Washington	http://dbpedia.org/resource/Federal_government_of_the_United_States
+Washington	http://dbpedia.org/resource/Washington,_D.C.
+Watford	http://dbpedia.org/resource/Watford
+Wathamstow	http://dbpedia.org/resource/Walthamstow
+Watson	http://dbpedia.org/resource/Tom_Watson_(golfer)
+Wayne	http://dbpedia.org/resource/Lil_Wayne
+Wayne Gretzky	http://dbpedia.org/resource/Wayne_Gretzky
+Wazin	http://dbpedia.org/resource/Wazzin
+Web 2	http://dbpedia.org/resource/Web_2.0
+Webbie	http://dbpedia.org/resource/Webbie
+Wedding photographer	http://dbpedia.org/resource/Wedding_photography
+Wednesday	http://dbpedia.org/resource/Wednesday
+Wembley	http://dbpedia.org/resource/Wembley
+Wendi	http://dbpedia.org/resource/Wendi_Deng_Murdoch
+Wenger	http://dbpedia.org/resource/Ars%C3%A8ne_Wenger
+Wes Brown	http://dbpedia.org/resource/Wes_Brown
+Wesley Sneijder	http://dbpedia.org/resource/Wesley_Sneijder
+West Bromwich	http://dbpedia.org/resource/West_Bromwich
+West Croydon	http://dbpedia.org/resource/West_Croydon_station
+West Midlands	http://dbpedia.org/resource/West_Midlands_(region)
+West Papua	http://dbpedia.org/resource/West_Papua_(region)
+Westfield	http://dbpedia.org/resource/Westfield_London
+White House	http://dbpedia.org/resource/White_House
+White House and congressional leaders	http://dbpedia.org/resource/White_House_Deputy_Chief_of_Staff
+White Sox	http://dbpedia.org/resource/Chicago_White_Sox
+White Sox GM Kenny Williams	http://dbpedia.org/resource/Kenny_Williams_(baseball)
+WhiteSox	http://dbpedia.org/resource/Chicago_White_Sox
+Whitehall	http://dbpedia.org/resource/Whitehall
+WiFi	http://dbpedia.org/resource/Wi-Fi
+Wigan	http://dbpedia.org/resource/Wigan_Athletic_F.C.
+WikiLeaks	http://dbpedia.org/resource/WikiLeaks
+Will	http://dbpedia.org/resource/Prince_William,_Duke_of_Cambridge
+Will	http://dbpedia.org/resource/Will_Sheehey
+Will Smith	http://dbpedia.org/resource/Will_Smith
+Wimbledon	http://dbpedia.org/resource/The_Championships,_Wimbledon
+Wimbledon	http://dbpedia.org/resource/Wimbledon,_London
+Windows 8	http://dbpedia.org/resource/Windows_8
+Windows Phone 7.5	http://dbpedia.org/resource/Windows_Phone_7
+Windows server	http://dbpedia.org/resource/Windows_Server
+Winehouse	http://dbpedia.org/resource/Amy_Winehouse
+Winklevoss twins	http://dbpedia.org/resource/Winklevoss_twins
+Winnipeg Jets	http://dbpedia.org/resource/Winnipeg_Jets
+Wisconsin	http://dbpedia.org/resource/Wisconsin
+WoW	http://dbpedia.org/resource/World_of_Warcraft
+Wolverhampton	http://dbpedia.org/resource/Wolverhampton
+Women's World Cup	http://dbpedia.org/resource/FIFA_Women's_World_Cup
+Womens World Cup	http://dbpedia.org/resource/Women's_National_Basketball_Association
+Wood Green	http://dbpedia.org/resource/Wood_Green
+Woodgreen	http://dbpedia.org/resource/Woodgreen
+Woods	http://dbpedia.org/resource/Tiger_Woods
+Woody	http://dbpedia.org/resource/Sheriff_Woody
+Worcester	http://dbpedia.org/resource/Worcester_Sharks
+World	http://dbpedia.org/resource/World
+World Cup	http://dbpedia.org/resource/FIFA_Women's_World_Cup
+World Cup	http://dbpedia.org/resource/FIFA_World_Cup
+World Intellectual Property Organization	http://dbpedia.org/resource/World_Intellectual_Property_Organization
+World Ocean Day	http://dbpedia.org/resource/World_Oceans_Day
+World Wide Web	http://dbpedia.org/resource/World_Wide_Web
+World of Warc	http://dbpedia.org/resource/World_of_Warcraft
+Writer	http://dbpedia.org/resource/Writer
+Wyatt Earp	http://dbpedia.org/resource/Wyatt_Earp
+Xbox	http://dbpedia.org/resource/Xbox
+Xbox 360	http://dbpedia.org/resource/Xbox_360
+Xcode	http://dbpedia.org/resource/Xcode
+Xinhua	http://dbpedia.org/resource/Xinhua_News_Agency
+Yacht	http://dbpedia.org/resource/Yacht
+Yahoo	http://dbpedia.org/resource/Yahoo!
+Yahoo! News	http://dbpedia.org/resource/Yahoo!_News
+YahooNews	http://dbpedia.org/resource/Yahoo!_News
+YahooSports	http://dbpedia.org/resource/Yahoo!_Sports
+Yankee Stadium	http://dbpedia.org/resource/Yankee_Stadium_(1923)
+Yankees	http://dbpedia.org/resource/New_York_Yankees
+Yoghurt	http://dbpedia.org/resource/Yogurt
+Yoichi Yokozawa	http://dbpedia.org/resource/Yorihiko_Kojima
+York	http://dbpedia.org/resource/York
+YouTube	http://dbpedia.org/resource/YouTube
+Youtube	http://dbpedia.org/resource/YouTube
+Yuan	http://dbpedia.org/resource/Chinese_yuan
+Yuri	http://dbpedia.org/resource/Kwon_Yuri
+Z100	http://dbpedia.org/resource/WHTZ
+ZERO	http://dbpedia.org/resource/0_(number)
+Zachary Walters	http://dbpedia.org/resource/Washington_Nationals_minor_league_players
+Zack Snyder	http://dbpedia.org/resource/Zack_Snyder
+Zaheer	http://dbpedia.org/resource/Zaheer_Khan
+Zhu-Zhu pet	http://dbpedia.org/resource/Zhu_Zhu_Pets
+Zliten	http://dbpedia.org/resource/Zliten
+a million	http://dbpedia.org/resource/Million
+absolutepunk	http://dbpedia.org/resource/AbsolutePunk
+acid	http://dbpedia.org/resource/Acid
+acoustic	http://dbpedia.org/resource/Acoustic_music
+actor	http://dbpedia.org/resource/Actor
+actors	http://dbpedia.org/resource/Actor
+adamlambert	http://dbpedia.org/resource/Adam_Lambert
+afc	http://dbpedia.org/resource/Arsenal_F.C.
+afghan	http://dbpedia.org/resource/Afghanistan
+ajaymaken	http://dbpedia.org/resource/Ajay_Maken
+al-Assad	http://dbpedia.org/resource/Bashar_al-Assad
+al-Shabab	http://dbpedia.org/resource/Al-Shabaab_(militant_group)
+alcohol	http://dbpedia.org/resource/Alcohol
+alexmorgan13	http://dbpedia.org/resource/Alex_Morgan
+algae	http://dbpedia.org/resource/Algae
+ambulance	http://dbpedia.org/resource/Ambulance
+america	http://dbpedia.org/resource/United_States
+amy whinehouse	http://dbpedia.org/resource/Amy_Winehouse
+amy winehouse	http://dbpedia.org/resource/Amy_Winehouse
+amywinehouse	http://dbpedia.org/resource/Amy_Winehouse
+and You and I	http://dbpedia.org/resource/And_You_and_I
+andersoncooper	http://dbpedia.org/resource/Anderson_Cooper
+anonymouSabu	http://dbpedia.org/resource/Hector_Xavier_Monsegur
+anonymous	http://dbpedia.org/resource/Anonymous_(group)
+antelopes	http://dbpedia.org/resource/Antelope
+apartheid	http://dbpedia.org/resource/Apartheid_in_South_Africa
+apple	http://dbpedia.org/resource/Apple_Inc.
+apprentice	http://dbpedia.org/resource/The_Apprentice_(UK_TV_series)
+apprenticefinal	http://dbpedia.org/resource/The_Apprentice_(UK_TV_series)
+arena football	http://dbpedia.org/resource/Arena_football
+arsenal	http://dbpedia.org/resource/Arsenal_F.C.
+art	http://dbpedia.org/resource/Art
+artist	http://dbpedia.org/resource/Artist
+artists	http://dbpedia.org/resource/Artist
+arusbridger	http://dbpedia.org/resource/Alan_Rusbridger
+asia	http://dbpedia.org/resource/Asia
+atp	http://dbpedia.org/resource/Association_of_Tennis_Professionals
+audio production software	http://dbpedia.org/resource/Music_software
+austin360	http://dbpedia.org/resource/Austin_American-Statesman
+autumn	http://dbpedia.org/resource/Autumn
+badminton	http://dbpedia.org/resource/Badminton
+banana	http://dbpedia.org/resource/Banana
+baristas	http://dbpedia.org/resource/Barista
+barter	http://dbpedia.org/resource/Barter
+bartering	http://dbpedia.org/resource/Barter
+bbc	http://dbpedia.org/resource/BBC
+bbcapprentice	http://dbpedia.org/resource/The_Apprentice_(UK_TV_series)
+bbcwm	http://dbpedia.org/resource/BBC_WM
+bbcworldservice	http://dbpedia.org/resource/BBC_World_Service
+bg524	http://dbpedia.org/resource/Billy_Gilman
+billion	http://dbpedia.org/resource/1,000,000,000
+billy	http://dbpedia.org/resource/Billy_Gilman
+billy gilman	http://dbpedia.org/resource/Billy_Gilman
+bird	http://dbpedia.org/resource/Bird
+birds	http://dbpedia.org/resource/Bird
+birminghamriots	http://dbpedia.org/resource/2011_England_riots
+bitcoin	http://dbpedia.org/resource/Bitcoin
+black	http://dbpedia.org/resource/Black_people
+black people	http://dbpedia.org/resource/Black_people
+blood	http://dbpedia.org/resource/Blood
+blooms	http://dbpedia.org/resource/Algal_bloom
+bond market	http://dbpedia.org/resource/Bond_market
+boogiecousins	http://dbpedia.org/resource/DeMarcus_Cousins
+book of the dead	http://dbpedia.org/resource/Book_of_the_Dead
+borowitzreport	http://dbpedia.org/resource/Andy_Borowitz
+bow wow	http://dbpedia.org/resource/Bow_Wow_(rapper)
+bowling	http://dbpedia.org/resource/Bowling
+breaking news	http://dbpedia.org/resource/Breaking_news
+brianstelter	http://dbpedia.org/resource/Brian_Stelter
+bristol	http://dbpedia.org/resource/Bristol
+brmb	http://dbpedia.org/resource/Free_Radio_Birmingham
+broadcaster NRK	http://dbpedia.org/resource/NRK
+bullingdon	http://dbpedia.org/resource/Bullingdon_Club
+bunnies	http://dbpedia.org/resource/Rabbit
+bynickdavies	http://dbpedia.org/resource/Nick_Davies
+cab	http://dbpedia.org/resource/Taxicabs_of_the_United_Kingdom
+caddie	http://dbpedia.org/resource/Caddy
+call of duty ; black ops	http://dbpedia.org/resource/Call_of_Duty:_Black_Ops
+cancer	http://dbpedia.org/resource/Cancer
+cancer	http://dbpedia.org/resource/Cancer_(astrology)
+cantaloupes	http://dbpedia.org/resource/Cantaloupe
+captain planet	http://dbpedia.org/resource/Captain_Planet_and_the_Planeteers
+cardiffriots	http://dbpedia.org/resource/2011_England_riots
+carmageddon	http://dbpedia.org/resource/Carmageddon
+carnival	http://dbpedia.org/resource/Carnival
+cat	http://dbpedia.org/resource/Cat
+chairman	http://dbpedia.org/resource/Chairman
+chairman Ed Snider	http://dbpedia.org/resource/Ed_Snider
+chairman James Murdoch	http://dbpedia.org/resource/James_Murdoch
+charleston	http://dbpedia.org/resource/Charleston,_South_Carolina
+chelseafc	http://dbpedia.org/resource/Chelsea_F.C.
+chemicals	http://dbpedia.org/resource/Chemical_substance
+chief	http://dbpedia.org/resource/Chief_officer
+chief executive	http://dbpedia.org/resource/Chief_executive_officer
+china	http://dbpedia.org/resource/China
+chris	http://dbpedia.org/resource/Chris_Brown_(American_entertainer)
+chris brown	http://dbpedia.org/resource/Chris_Brown_(American_entertainer)
+chrisbharrison	http://dbpedia.org/resource/Chris_Harrison
+chrisbrown	http://dbpedia.org/resource/Chris_Brown_(American_entertainer)
+chriscolfer	http://dbpedia.org/resource/Chris_Colfer
+christopher wallace	http://dbpedia.org/resource/The_Notorious_B.I.G.
+church	http://dbpedia.org/resource/Church_(building)
+civil rights	http://dbpedia.org/resource/Civil_and_political_rights
+clapham junction	http://dbpedia.org/resource/Clapham_Junction_railway_station
+climatechange	http://dbpedia.org/resource/Climate_change
+clock tower	http://dbpedia.org/resource/Philadelphia_City_Hall
+cnbc	http://dbpedia.org/resource/CNBC
+cnn	http://dbpedia.org/resource/CNN
+coach	http://dbpedia.org/resource/Coach_(sport)
+coach Jim Washburn	http://dbpedia.org/resource/Jim_Washburn
+coaches	http://dbpedia.org/resource/Coach_(sport)
+cocaine	http://dbpedia.org/resource/Cocaine
+combination therapy	http://dbpedia.org/resource/Combination_therapy
+compressed natural gas	http://dbpedia.org/resource/Compressed_natural_gas
+condom	http://dbpedia.org/resource/Condom
+confessions of a shopaholic	http://dbpedia.org/resource/Confessions_of_a_Shopaholic_(film)
+corporate barter	http://dbpedia.org/resource/Barter
+corporate governance	http://dbpedia.org/resource/Corporate_governance
+cotton	http://dbpedia.org/resource/Cotton
+cows	http://dbpedia.org/resource/Cattle
+cricket	http://dbpedia.org/resource/Cricket
+crunch berries	http://dbpedia.org/resource/Cap'n_Crunch
+cultivars	http://dbpedia.org/resource/Cultivar
+cup-holder	http://dbpedia.org/resource/Cup_holder
+dangeroussummer	http://dbpedia.org/resource/The_Dangerous_Summer_(band)
+darrenrovell	http://dbpedia.org/resource/Darren_Rovell
+dayton	http://dbpedia.org/resource/Dayton,_Ohio
+ddlovato	http://dbpedia.org/resource/Demi_Lovato
+death penalty	http://dbpedia.org/resource/Capital_punishment
+debt ceiling	http://dbpedia.org/resource/United_States_debt_ceiling
+demons	http://dbpedia.org/resource/Demon
+denisleary	http://dbpedia.org/resource/Denis_Leary
+dentist	http://dbpedia.org/resource/Dentist
+depressant	http://dbpedia.org/resource/Depressant
+devil	http://dbpedia.org/resource/Devil
+dh2	http://dbpedia.org/resource/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2
+diddy	http://dbpedia.org/resource/Sean_Combs
+doctors	http://dbpedia.org/resource/Doctor_of_Medicine
+dog	http://dbpedia.org/resource/Dog
+dojo	http://dbpedia.org/resource/Dojo
+dollar	http://dbpedia.org/resource/Dollar
+dollars	http://dbpedia.org/resource/Dollar
+dugout	http://dbpedia.org/resource/Dugout_(baseball)
+eBay	http://dbpedia.org/resource/EBay
+eagle	http://dbpedia.org/resource/Eagle
+earth	http://dbpedia.org/resource/Earth
+earthquake	http://dbpedia.org/resource/Earthquake
+east	http://dbpedia.org/resource/East
+east China	http://dbpedia.org/resource/East_China
+ebertchicago	http://dbpedia.org/resource/Roger_Ebert
+ebled24	http://dbpedia.org/resource/Eric_Bledsoe
+ecstasy	http://dbpedia.org/resource/MDMA
+edgbaston	http://dbpedia.org/resource/Edgbaston
+editor	http://dbpedia.org/resource/Editing
+edshow	http://dbpedia.org/resource/The_Ed_Schultz_Show
+eight	http://dbpedia.org/resource/8_(number)
+el periodico	http://dbpedia.org/resource/El_Peri%C3%B3dico_de_Catalunya
+elderly people	http://dbpedia.org/resource/Old_age
+electronic	http://dbpedia.org/resource/Electronic_musical_instrument
+emmy nomination	http://dbpedia.org/resource/Emmy_Award
+energy crisis	http://dbpedia.org/resource/Energy_crisis
+enews	http://dbpedia.org/resource/E!_News
+enfield	http://dbpedia.org/resource/London_Borough_of_Enfield
+engineers	http://dbpedia.org/resource/Engineer
+ese economy	http://dbpedia.org/resource/Economy_of_Japan
+essex	http://dbpedia.org/resource/Essex
+euro	http://dbpedia.org/resource/Euro
+euro zone	http://dbpedia.org/resource/Eurozone
+facebook	http://dbpedia.org/resource/Facebook
+fall	http://dbpedia.org/resource/Autumn
+famine	http://dbpedia.org/resource/Famine
+fanfic	http://dbpedia.org/resource/Fan_fiction
+farmers	http://dbpedia.org/resource/Farmer
+fashion show	http://dbpedia.org/resource/Fashion_show
+fast-food	http://dbpedia.org/resource/Fast_food
+federal government	http://dbpedia.org/resource/Federal_government_of_the_United_States
+federal judge	http://dbpedia.org/resource/Federal_judge
+federal minimum wage	http://dbpedia.org/resource/Minimum_wage_in_the_United_States
+fertiliser	http://dbpedia.org/resource/Fertilizer
+fiber	http://dbpedia.org/resource/Dietary_fiber
+filch	http://dbpedia.org/resource/Hogwarts_staff
+fish	http://dbpedia.org/resource/Fish
+five	http://dbpedia.org/resource/5_(number)
+flick-knife	http://dbpedia.org/resource/Switchblade
+fog	http://dbpedia.org/resource/Fog
+food court	http://dbpedia.org/resource/Food_court
+football	http://dbpedia.org/resource/Association_football
+football	http://dbpedia.org/resource/Football
+former Raiders guard Robert Gallery	http://dbpedia.org/resource/Robert_Gallery
+fountain of youth	http://dbpedia.org/resource/Fountain_of_Youth
+four	http://dbpedia.org/resource/4_(number)
+free agents	http://dbpedia.org/resource/Free_agent
+fried chicken	http://dbpedia.org/resource/Fried_chicken
+froot loops	http://dbpedia.org/resource/Froot_Loops
+g4tv	http://dbpedia.org/resource/G4_(TV_channel)
+gaddafi	http://dbpedia.org/resource/Muammar_Gaddafi
+gas	http://dbpedia.org/resource/Gasoline
+gemini	http://dbpedia.org/resource/Gemini_(astrology)
+genetics	http://dbpedia.org/resource/Genetics
+ghetto	http://dbpedia.org/resource/Ghetto
+gilescoren	http://dbpedia.org/resource/Giles_Coren
+gin	http://dbpedia.org/resource/Gin
+glenarden	http://dbpedia.org/resource/Glenarden,_Maryland
+gmpolice	http://dbpedia.org/resource/Greater_Manchester_Police
+god	http://dbpedia.org/resource/God
+godka tonic	http://dbpedia.org/resource/Vodka_tonic
+gold	http://dbpedia.org/resource/Gold
+gold medal	http://dbpedia.org/resource/Gold_medal
+golf	http://dbpedia.org/resource/Golf
+gonorrhea	http://dbpedia.org/resource/Gonorrhea
+good life	http://dbpedia.org/resource/The_Good_Life_(band)
+google	http://dbpedia.org/resource/Google
+google plus	http://dbpedia.org/resource/Google+
+google+	http://dbpedia.org/resource/Google+
+goose bumps	http://dbpedia.org/resource/Goose_bumps
+government	http://dbpedia.org/resource/Federal_government_of_the_United_States
+government	http://dbpedia.org/resource/Government
+government	http://dbpedia.org/resource/Government_of_the_United_Kingdom
+government debt	http://dbpedia.org/resource/Government_debt
+green economy	http://dbpedia.org/resource/Green_economy
+griffin	http://dbpedia.org/resource/Griffin
+grocer	http://dbpedia.org/resource/Grocer
+ground zero	http://dbpedia.org/resource/Ground_zero
+growers	http://dbpedia.org/resource/Farmer
+guardian	http://dbpedia.org/resource/The_Guardian
+gum	http://dbpedia.org/resource/Chewing_gum
+gunners	http://dbpedia.org/resource/Arsenal_F.C.
+hackgate	http://dbpedia.org/resource/News_International_phone_hacking_scandal
+hacking	http://dbpedia.org/resource/News_International_phone_hacking_scandal
+hacking scandal	http://dbpedia.org/resource/News_International_phone_hacking_scandal
+hackinggate	http://dbpedia.org/resource/News_International_phone_hacking_scandal
+hairdresser	http://dbpedia.org/resource/Barber
+harimaumalaya	http://dbpedia.org/resource/Malaysia_national_football_team
+harry potter seven long books	http://dbpedia.org/resource/Harry_Potter
+hazy	http://dbpedia.org/resource/Haze
+head coach	http://dbpedia.org/resource/Head_coach
+health-care overhaul	http://dbpedia.org/resource/Patient_Protection_and_Affordable_Care_Act
+hell	http://dbpedia.org/resource/Hell
+hemp	http://dbpedia.org/resource/Hemp
+hermione	http://dbpedia.org/resource/Hermione_Granger
+heroin	http://dbpedia.org/resource/Heroin
+herpes	http://dbpedia.org/resource/Herpes_simplex
+high school	http://dbpedia.org/resource/High_school
+hockey	http://dbpedia.org/resource/Ice_hockey
+hogwarts	http://dbpedia.org/resource/Hogwarts
+horses	http://dbpedia.org/resource/Horse
+hottubtimemachine	http://dbpedia.org/resource/Hot_Tub_Time_Machine
+hrithik	http://dbpedia.org/resource/Hrithik_Roshan
+http://CNNMoney.com	http://dbpedia.org/resource/CNNMoney.com
+human being	http://dbpedia.org/resource/Human
+humanity	http://dbpedia.org/resource/Human
+humpback whale	http://dbpedia.org/resource/Humpback_whale
+hundred	http://dbpedia.org/resource/100_(number)
+hurricane	http://dbpedia.org/resource/Tropical_cyclone
+i-tunes	http://dbpedia.org/resource/ITunes
+iFixit	http://dbpedia.org/resource/IFixit
+iPad	http://dbpedia.org/resource/IPad
+iPhone	http://dbpedia.org/resource/IPhone
+iPhone 4S	http://dbpedia.org/resource/IPhone_4S
+iPhone 5	http://dbpedia.org/resource/IPhone_5
+iPod	http://dbpedia.org/resource/IPod
+iPods	http://dbpedia.org/resource/IPod
+iTax	http://dbpedia.org/resource/Income_tax_in_the_United_States
+iTunes	http://dbpedia.org/resource/ITunes
+iTunes	http://dbpedia.org/resource/ITunes_Store
+ice cube	http://dbpedia.org/resource/Ice_Cube
+iceberg	http://dbpedia.org/resource/Iceberg
+inning	http://dbpedia.org/resource/Innings
+intergalactic	http://dbpedia.org/resource/Outer_space
+internet	http://dbpedia.org/resource/Internet
+ipad	http://dbpedia.org/resource/IPad
+ipod	http://dbpedia.org/resource/IPod
+ireland	http://dbpedia.org/resource/Ireland
+islam	http://dbpedia.org/resource/Islam
+itunes	http://dbpedia.org/resource/ITunes_Store
+jamesmaslow	http://dbpedia.org/resource/James_Maslow
+janis joplin	http://dbpedia.org/resource/Janis_Joplin
+japan	http://dbpedia.org/resource/Japan
+jarpad	http://dbpedia.org/resource/Jared_Padalecki
+jasonterry31	http://dbpedia.org/resource/Jason_Terry
+jazz	http://dbpedia.org/resource/Jazz
+jimmi hendrix	http://dbpedia.org/resource/Jimi_Hendrix
+jimmywa11	http://dbpedia.org/resource/John_Wall_(basketball)
+joey7barton	http://dbpedia.org/resource/Joey_Barton
+johncena	http://dbpedia.org/resource/John_Cena
+jongaunt	http://dbpedia.org/resource/Jon_Gaunt
+jordan 2	http://dbpedia.org/resource/Air_Jordan
+journalist	http://dbpedia.org/resource/Journalist
+journalists	http://dbpedia.org/resource/Journalist
+judge	http://dbpedia.org/resource/Judge
+july8	http://dbpedia.org/resource/July_8
+justinbieber	http://dbpedia.org/resource/Justin_Bieber
+kabanayans	http://dbpedia.org/resource/Kababayan
+kabayan	http://dbpedia.org/resource/Typhoon_Muifa_(2011)
+karma	http://dbpedia.org/resource/Karma
+keeper	http://dbpedia.org/resource/Goalkeeper_(association_football)
+kevin spacey	http://dbpedia.org/resource/Kevin_Spacey
+khap movie	http://dbpedia.org/resource/Khap_(film)
+knife	http://dbpedia.org/resource/Knife
+kurt coban	http://dbpedia.org/resource/Kurt_Cobain
+kwame	http://dbpedia.org/resource/Kwam%C3%A9
+ladygaga	http://dbpedia.org/resource/Lady_Gaga
+league	http://dbpedia.org/resource/National_Rugby_League
+leave of absence	http://dbpedia.org/resource/Leave_of_absence
+leopard	http://dbpedia.org/resource/Leopard
+lgbt	http://dbpedia.org/resource/LGBT_community
+libra	http://dbpedia.org/resource/Libra_(astrology)
+libya	http://dbpedia.org/resource/Libya
+lil Kim	http://dbpedia.org/resource/Lil'_Kim
+lil b	http://dbpedia.org/resource/Lil_B
+linen	http://dbpedia.org/resource/Linen
+lion	http://dbpedia.org/resource/Lion
+lion king	http://dbpedia.org/resource/The_Lion_King_(musical)
+liverpoolriots	http://dbpedia.org/resource/2011_England_riots
+living Social	http://dbpedia.org/resource/LivingSocial
+ll cool j	http://dbpedia.org/resource/LL_Cool_J
+london	http://dbpedia.org/resource/London
+londonriots	http://dbpedia.org/resource/2011_England_riots
+lord	http://dbpedia.org/resource/Lord
+lulzsec	http://dbpedia.org/resource/LulzSec
+mac	http://dbpedia.org/resource/Macintosh
+mall	http://dbpedia.org/resource/Shopping_mall
+manchester	http://dbpedia.org/resource/Manchester
+mangos	http://dbpedia.org/resource/Mango
+manhattan beach	http://dbpedia.org/resource/Manhattan_Beach,_California
+marijuana	http://dbpedia.org/resource/Cannabis_(drug)
+mars rover	http://dbpedia.org/resource/Mars_rover
+mcfc	http://dbpedia.org/resource/Manchester_City_F.C.
+mchammer	http://dbpedia.org/resource/MC_Hammer
+melody	http://dbpedia.org/resource/Melody
+miami	http://dbpedia.org/resource/Miami
+michaelombardi	http://dbpedia.org/resource/Michael_Lombardi_(American_football)
+midnight	http://dbpedia.org/resource/Midnight
+mileycyrus	http://dbpedia.org/resource/Miley_Cyrus
+military police	http://dbpedia.org/resource/Military_police
+million	http://dbpedia.org/resource/Million
+minicab	http://dbpedia.org/resource/Taxicabs_of_the_United_Kingdom
+mirror	http://dbpedia.org/resource/Daily_Mirror
+monster	http://dbpedia.org/resource/Monster
+moon	http://dbpedia.org/resource/Moon
+mosques	http://dbpedia.org/resource/Mosque
+mouse	http://dbpedia.org/resource/Mickey_Mouse
+mufc	http://dbpedia.org/resource/Manchester_United_F.C.
+mumford and sons	http://dbpedia.org/resource/Mumford_&_Sons
+murdoch	http://dbpedia.org/resource/Rupert_Murdoch
+n government	http://dbpedia.org/resource/Council_of_Ministers_(Syria)
+n*gga	http://dbpedia.org/resource/Nigga
+n*gga	http://dbpedia.org/resource/Nigger
+nasa	http://dbpedia.org/resource/NASA
+new York Times	http://dbpedia.org/resource/The_New_York_Times
+new drug application	http://dbpedia.org/resource/New_Drug_Application
+new york	http://dbpedia.org/resource/New_York
+newsbrooke	http://dbpedia.org/resource/Heather_Brooke
+newtgingrich	http://dbpedia.org/resource/Newt_Gingrich
+nfl	http://dbpedia.org/resource/National_Football_League
+nicotine	http://dbpedia.org/resource/Nicotine
+nigga	http://dbpedia.org/resource/Nigga
+niggas	http://dbpedia.org/resource/Nigga
+night at the museum	http://dbpedia.org/resource/Night_at_the_Museum
+nine	http://dbpedia.org/resource/9_(number)
+north Belfast	http://dbpedia.org/resource/Belfast_North_(UK_Parliament_constituency)
+north London	http://dbpedia.org/resource/North_London
+notw	http://dbpedia.org/resource/News_of_the_World
+nuclear power	http://dbpedia.org/resource/Nuclear_power
+number 1	http://dbpedia.org/resource/1_(number)
+nyg	http://dbpedia.org/resource/New_York_Giants
+nyj	http://dbpedia.org/resource/New_York_Jets
+nyt	http://dbpedia.org/resource/The_New_York_Times
+obamacare	http://dbpedia.org/resource/Patient_Protection_and_Affordable_Care_Act
+officialjaden	http://dbpedia.org/resource/Jaden_Smith
+officials	http://dbpedia.org/resource/Official
+oil from BP's Deepwater Horizon	http://dbpedia.org/resource/Deepwater_Horizon_oil_spill
+olympics	http://dbpedia.org/resource/Olympic_Games
+one	http://dbpedia.org/resource/0_(number)
+one	http://dbpedia.org/resource/1_(number)
+onedirection	http://dbpedia.org/resource/One_Direction
+online pharmacy	http://dbpedia.org/resource/Online_pharmacy
+opening day	http://dbpedia.org/resource/Opening_Day
+oslexpl	http://dbpedia.org/resource/2011_Norway_attacks
+oslo	http://dbpedia.org/resource/Oslo
+oslobomb	http://dbpedia.org/resource/2011_Norway_attacks
+osloexpl	http://dbpedia.org/resource/2011_Norway_attacks
+owlcity	http://dbpedia.org/resource/Owl_City
+ox tails	http://dbpedia.org/resource/Oxtail
+oxytocin	http://dbpedia.org/resource/Oxytocin
+p90x	http://dbpedia.org/resource/P90X
+pack rat	http://dbpedia.org/resource/Pack_rat
+palin	http://dbpedia.org/resource/Sarah_Palin
+paramore	http://dbpedia.org/resource/Paramore
+pee wee Herman	http://dbpedia.org/resource/Pee-wee_Herman
+peer-to-peer network	http://dbpedia.org/resource/Peer-to-peer
+phone hacking	http://dbpedia.org/resource/News_International_phone_hacking_scandal
+phone hacking scandal	http://dbpedia.org/resource/News_International_phone_hacking_scandal
+phonehacking	http://dbpedia.org/resource/News_International_phone_hacking_scandal
+piersmorgan	http://dbpedia.org/resource/Piers_Morgan
+pigs	http://dbpedia.org/resource/Pig
+pixels	http://dbpedia.org/resource/Pixel
+plaxico	http://dbpedia.org/resource/Plaxico_Burress
+playboys	http://dbpedia.org/resource/Playboy_Club
+playstation	http://dbpedia.org/resource/PlayStation
+pll	http://dbpedia.org/resource/Pretty_Little_Liars_(TV_series)
+polar bear	http://dbpedia.org/resource/Polar_bear
+police	http://dbpedia.org/resource/Norwegian_Police_Service
+police	http://dbpedia.org/resource/Police
+police chief	http://dbpedia.org/resource/Chief_of_police
+police chiefs	http://dbpedia.org/resource/Chief_of_police
+police officer	http://dbpedia.org/resource/Police_officer
+policeman	http://dbpedia.org/resource/Police_officer
+policewomen	http://dbpedia.org/resource/Police_officer
+policymakers	http://dbpedia.org/resource/Politician
+pop	http://dbpedia.org/resource/Pop_music
+pop punk	http://dbpedia.org/resource/Pop_punk
+pot	http://dbpedia.org/resource/Cannabis_smoking
+potassium	http://dbpedia.org/resource/Potassium
+potter	http://dbpedia.org/resource/Harry_Potter
+prayfor	http://dbpedia.org/resource/Norway
+preist	http://dbpedia.org/resource/Priest
+president	http://dbpedia.org/resource/President
+president al-Assad	http://dbpedia.org/resource/Bashar_al-Assad
+presidents	http://dbpedia.org/resource/President
+prince charming	http://dbpedia.org/resource/Prince_Charming
+producer	http://dbpedia.org/resource/Television_producer
+prostate	http://dbpedia.org/resource/Prostate_cancer
+ps3	http://dbpedia.org/resource/PlayStation_3
+put to death	http://dbpedia.org/resource/Capital_punishment
+quarterback Nate Davis	http://dbpedia.org/resource/Nate_Davis_(quarterback)
+queen latifah	http://dbpedia.org/resource/Queen_Latifah
+racism	http://dbpedia.org/resource/Racism
+radio one	http://dbpedia.org/resource/BBC_Radio_1
+rapper	http://dbpedia.org/resource/Rapping
+rappers	http://dbpedia.org/resource/Rapping
+rapture	http://dbpedia.org/resource/Rapture
+realmadrid	http://dbpedia.org/resource/Real_Madrid_C.F.
+reporter	http://dbpedia.org/resource/Journalist
+republican	http://dbpedia.org/resource/Irish_republicanism
+rio	http://dbpedia.org/resource/Rio_de_Janeiro
+riot	http://dbpedia.org/resource/2011_England_riots
+riots	http://dbpedia.org/resource/2011_England_riots
+rocket	http://dbpedia.org/resource/Rocket
+rush hour	http://dbpedia.org/resource/Rush_hour
+ryeong9	http://dbpedia.org/resource/Kim_Ryeowook
+salmonella	http://dbpedia.org/resource/Salmonella
+saturated fat	http://dbpedia.org/resource/Saturated_fat
+scenario	http://dbpedia.org/resource/Scenario
+scientists	http://dbpedia.org/resource/Scientist
+scoobydoo	http://dbpedia.org/resource/Scooby-Doo
+series 1	http://dbpedia.org/resource/Sherlock_(TV_series)
+series 2 of #Sherlock	http://dbpedia.org/resource/Sherlock_(TV_series)
+seven	http://dbpedia.org/resource/7_(number)
+seventeenmag	http://dbpedia.org/resource/Seventeen_(magazine)
+sex slavery	http://dbpedia.org/resource/Sexual_slavery
+sexual appeal	http://dbpedia.org/resource/Sexual_attraction
+sexual pleasure	http://dbpedia.org/resource/Human_sexual_activity
+shahidkapoor	http://dbpedia.org/resource/Shahid_Kapoor
+sharm el sheikh	http://dbpedia.org/resource/Sharm_el-Sheikh
+shuttle	http://dbpedia.org/resource/Space_Shuttle
+singapore	http://dbpedia.org/resource/Singapore
+six	http://dbpedia.org/resource/6_(number)
+slaughterhouse	http://dbpedia.org/resource/Slaughterhouse
+smart phones	http://dbpedia.org/resource/Smartphone
+soccer	http://dbpedia.org/resource/Association_football
+social networking services	http://dbpedia.org/resource/Social_networking_service
+social networking sites	http://dbpedia.org/resource/Social_networking_service
+sodium	http://dbpedia.org/resource/Sodium
+solar energy	http://dbpedia.org/resource/Solar_energy
+soldier	http://dbpedia.org/resource/Soldier
+soldiers	http://dbpedia.org/resource/Soldier
+soompi	http://dbpedia.org/resource/Soompi
+southern U.S.	http://dbpedia.org/resource/Southern_United_States
+space	http://dbpedia.org/resource/Outer_space
+space shuttle Atlantis	http://dbpedia.org/resource/Space_Shuttle_Atlantis
+space shuttle program	http://dbpedia.org/resource/Space_Shuttle_program
+space station	http://dbpedia.org/resource/Space_station
+spacestation	http://dbpedia.org/resource/Space_station
+spurs	http://dbpedia.org/resource/Tottenham_Hotspur_F.C.
+starboynathan	http://dbpedia.org/resource/Starboy_Nathan
+starbucks	http://dbpedia.org/resource/Starbucks
+state fair	http://dbpedia.org/resource/State_fair
+stock indexes	http://dbpedia.org/resource/Stock_market_index
+stock market crash of 1929	http://dbpedia.org/resource/Wall_Street_Crash_of_1929
+strip club	http://dbpedia.org/resource/Strip_club
+subway	http://dbpedia.org/resource/Subway_(restaurant)
+summer	http://dbpedia.org/resource/Summer
+summer vacation	http://dbpedia.org/resource/Summer_vacation
+summer vacations	http://dbpedia.org/resource/Summer_vacation
+sun	http://dbpedia.org/resource/Sun
+sunday	http://dbpedia.org/resource/Sunday
+sunnah	http://dbpedia.org/resource/Sunnah
+surgical team	http://dbpedia.org/resource/Surgical_team
+surreyriots	http://dbpedia.org/resource/2011_England_riots
+swear	http://dbpedia.org/resource/Oath
+swedish	http://dbpedia.org/resource/Sweden
+swimming	http://dbpedia.org/resource/Swimming_(sport)
+swimming world championships	http://dbpedia.org/resource/2011_World_Aquatics_Championships
+swish41	http://dbpedia.org/resource/Dirk_Nowitzki
+tampons	http://dbpedia.org/resource/Tampon
+taurus	http://dbpedia.org/resource/Taurus_(astrology)
+taylorswift13	http://dbpedia.org/resource/Taylor_Swift
+teamvirgin	http://dbpedia.org/resource/British_Virgin_Islands_national_football_team
+temporary insanity	http://dbpedia.org/resource/Insanity_defense
+ten	http://dbpedia.org/resource/10_(number)
+tennis	http://dbpedia.org/resource/Tennis
+the N word	http://dbpedia.org/resource/Nigger
+the Open Championship	http://dbpedia.org/resource/The_Open_Championship
+the Sun	http://dbpedia.org/resource/The_Sun_(United_Kingdom)
+the Today Show	http://dbpedia.org/resource/Today_(U.S._TV_program)
+the apprentice	http://dbpedia.org/resource/The_Apprentice_(UK_TV_series)
+the lion king	http://dbpedia.org/resource/The_Lion_King
+the sun	http://dbpedia.org/resource/The_Sun_(United_Kingdom)
+the usual suspects	http://dbpedia.org/resource/The_Usual_Suspects
+theaters	http://dbpedia.org/resource/Theatre
+thenextwebuk	http://dbpedia.org/resource/The_Next_Web
+thesun	http://dbpedia.org/resource/The_Sun_(United_Kingdom)
+thewantedmusic	http://dbpedia.org/resource/The_Wanted
+thor hushovd	http://dbpedia.org/resource/Thor_Hushovd
+thousand	http://dbpedia.org/resource/1000_(number)
+three	http://dbpedia.org/resource/3_(number)
+thursday	http://dbpedia.org/resource/Thursday
+tiesto	http://dbpedia.org/resource/Ti%C3%ABsto
+time	http://dbpedia.org/resource/Time_(magazine)
+time machine	http://dbpedia.org/resource/Time_travel
+titanium	http://dbpedia.org/resource/Titanium
+tnwtwit	http://dbpedia.org/resource/The_Next_Web
+torpedo	http://dbpedia.org/resource/Torpedo
+totp	http://dbpedia.org/resource/Top_of_the_Pops
+touchdown	http://dbpedia.org/resource/Touchdown
+trade-credit	http://dbpedia.org/resource/Trade_credit
+trentsevern	http://dbpedia.org/resource/Trent%E2%80%93Severn_Waterway
+tripleh	http://dbpedia.org/resource/Triple_H
+tropicalstormdon	http://dbpedia.org/resource/Tropical_Storm_Don_(2011)
+tropics	http://dbpedia.org/resource/Tropics
+tumblr	http://dbpedia.org/resource/Tumblr
+tupac	http://dbpedia.org/resource/Tupac_Shakur
+twilight movie	http://dbpedia.org/resource/The_Twilight_Saga_(film_series)
+twitter	http://dbpedia.org/resource/Twitter
+two	http://dbpedia.org/resource/2_(number)
+uggs	http://dbpedia.org/resource/Ugg_boots
+ukriots	http://dbpedia.org/resource/2011_England_riots
+universe	http://dbpedia.org/resource/Universe
+usa	http://dbpedia.org/resource/United_States
+uslpro	http://dbpedia.org/resource/USL_Pro
+ussoccer_wnt	http://dbpedia.org/resource/United_States_women's_national_soccer_team
+vampire	http://dbpedia.org/resource/Vampire
+vessel	http://dbpedia.org/resource/Blood_vessel
+viatumblr	http://dbpedia.org/resource/Tumblr
+virginiatech	http://dbpedia.org/resource/Virginia_Tech
+war in Iraq	http://dbpedia.org/resource/Iraq_War
+war on terror	http://dbpedia.org/resource/War_on_Terror
+washingtonpost	http://dbpedia.org/resource/The_Washington_Post
+water power	http://dbpedia.org/resource/Hydropower
+wedding	http://dbpedia.org/resource/Wedding
+weed	http://dbpedia.org/resource/Weed
+wendi	http://dbpedia.org/resource/Wendi_Deng_Murdoch
+werewolf	http://dbpedia.org/resource/Werewolf
+white	http://dbpedia.org/resource/White_people
+white dolphins	http://dbpedia.org/resource/Chinese_white_dolphin
+white people	http://dbpedia.org/resource/White_people
+white privilege	http://dbpedia.org/resource/White_privilege
+white supremacist	http://dbpedia.org/resource/White_supremacy
+white supremacy	http://dbpedia.org/resource/White_supremacy
+whitehouse	http://dbpedia.org/resource/White_House
+whites	http://dbpedia.org/resource/White_people
+wikipedia	http://dbpedia.org/resource/Wikipedia
+will smith	http://dbpedia.org/resource/Will_Smith
+winger	http://dbpedia.org/resource/Winger_(sports)
+winter	http://dbpedia.org/resource/Winter
+womens world cup	http://dbpedia.org/resource/FIFA_Women's_World_Cup
+working people	http://dbpedia.org/resource/Working_class
+world	http://dbpedia.org/resource/World
+world championships	http://dbpedia.org/resource/World_championship
+world cup	http://dbpedia.org/resource/World_cup_competition
+world record	http://dbpedia.org/resource/World_record
+wrestling	http://dbpedia.org/resource/Wrestling
+wwe	http://dbpedia.org/resource/WWE
+www.chelseafc.com	http://dbpedia.org/resource/Chelsea_F.C.
+www.dailymail.co.uk	http://dbpedia.org/resource/Daily_Mail
+www.skysports.com	http://dbpedia.org/resource/Sky_Sports
+www.teenchoiceawards.com	http://dbpedia.org/resource/Teen_Choice_Awards
+www.thesun.co.uk	http://dbpedia.org/resource/The_Sun_(United_Kingdom)
+www.winnipegjets.com	http://dbpedia.org/resource/Winnipeg_Jets
+xbox 360	http://dbpedia.org/resource/Xbox_360
+yankees	http://dbpedia.org/resource/New_York_Yankees
+young mc	http://dbpedia.org/resource/Young_MC
+youtube	http://dbpedia.org/resource/YouTube
+zero	http://dbpedia.org/resource/0_(number)
+zodiac	http://dbpedia.org/resource/Zodiac
+zookeeper	http://dbpedia.org/resource/Zookeeper_(film)
+°F	http://dbpedia.org/resource/Fahrenheit

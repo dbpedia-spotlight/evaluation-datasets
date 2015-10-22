@@ -1,0 +1,36 @@
+
+cat  AIDA-YAGO2_entities_and_links_unique_entities_onlyLinks.txt neel2014_unique_entities_onlyLinks.txt  | sort | uniq -c | sort -nr | gsed 's/^ *//' > AIDA_neel2014.txt
+cat  AIDA-YAGO2_entities_and_links_unique_entities_onlyLinks.txt neel2015_unique_entities_no_NIL_onlyLinks.txt | sort | uniq -c | sort -nr | gsed 's/^ *//' > AIDA_neel2015.txt 
+cat  AIDA-YAGO2_entities_and_links_unique_entities_onlyLinks.txt oke_train_and_test_unique_entities_onlyLinks.txt | sort | uniq -c | sort -nr | gsed 's/^ *//' > AIDA_oke2015.txt
+cat  AIDA-YAGO2_entities_and_links_unique_entities_onlyLinks.txt rss500_unique_entities_onlyLinks.txt | sort | uniq -c | sort -nr | gsed 's/^ *//' > AIDA_rss500.txt
+cat AIDA-YAGO2_entities_and_links_unique_entities_onlyLinks.txt  wes2015_unique_entities_onlyLinks.txt | sort | uniq -c | sort -nr | gsed 's/^ *//' > AIDA_wes2015.txt
+cat  AIDA-YAGO2_entities_and_links_unique_entities_onlyLinks.txt  wikinews_unique_entities_onlyLinks.txt | sort | uniq -c | sort -nr | gsed 's/^ *//' > AIDA_wikinews.txt 
+
+cat  neel2014_unique_entities_onlyLinks.txt neel2015_unique_entities_no_NIL_onlyLinks.txt  | sort | uniq -c | sort -nr | gsed 's/^ *//' > neel2014_neel2015.txt
+cat  neel2014_unique_entities_onlyLinks.txt oke_train_and_test_unique_entities_onlyLinks.txt  | sort | uniq -c | sort -nr | gsed 's/^ *//'  > neel2014_oke2015.txt
+cat neel2014_unique_entities_onlyLinks.txt rss500_unique_entities_onlyLinks.txt  | sort | uniq -c | sort -nr | gsed 's/^ *//' > neel2014_rss500.txt
+cat  neel2014_unique_entities_onlyLinks.txt wes2015_unique_entities_onlyLinks.txt | sort | uniq -c | sort -nr | gsed 's/^ *//' > neel2014_wes2015.txt
+cat  neel2014_unique_entities_onlyLinks.txt wikinews_unique_entities_onlyLinks.txt | sort | uniq -c | sort -nr | gsed 's/^ *//' > neel2014_wikinews.txt
+
+cat  neel2015_unique_entities_no_NIL_onlyLinks.txt  oke_train_and_test_unique_entities_onlyLinks.txt | sort | uniq -c | sort -nr | gsed 's/^ *//' > neel2015_oke2015.txt
+cat  neel2015_unique_entities_no_NIL_onlyLinks.txt rss500_unique_entities_onlyLinks.txt | sort | uniq -c | sort -nr | gsed 's/^ *//'  > neel2015_rss500.txt
+cat  neel2015_unique_entities_no_NIL_onlyLinks.txt wes2015_unique_entities_onlyLinks.txt | sort | uniq -c | sort -nr | gsed 's/^ *//' > neel2015_wes2015.txt
+cat  neel2015_unique_entities_no_NIL_onlyLinks.txt  wikinews_unique_entities_onlyLinks.txt | sort | uniq -c | sort -nr | gsed 's/^ *//' > neel2015_wikinews.txt
+
+cat oke_train_and_test_unique_entities_onlyLinks.txt rss500_unique_entities_onlyLinks.txt  | sort | uniq -c | sort -nr | gsed 's/^ *//' > oke2015_rss500.txt
+cat oke_train_and_test_unique_entities_onlyLinks.txt wes2015_unique_entities_onlyLinks.txt | sort | uniq -c | sort -nr | gsed 's/^ *//'  > oke2015_wes2015.txt
+cat oke_train_and_test_unique_entities_onlyLinks.txt wikinews_unique_entities_onlyLinks.txt | sort | uniq -c | sort -nr | gsed 's/^ *//' > oke2015_wikinews.txt
+
+cat   rss500_unique_entities_onlyLinks.txt wes2015_unique_entities_onlyLinks.txt| sort | uniq -c | sort -nr | gsed 's/^ *//' > rss500_wes2015.txt
+cat   rss500_unique_entities_onlyLinks.txt wikinews_unique_entities_onlyLinks.txt | sort | uniq -c | sort -nr | gsed 's/^ *//'  > rss500_wikinews.txt
+
+cat  wes2015_unique_entities_onlyLinks.txt wikinews_unique_entities_onlyLinks.txt | sort | uniq -c | sort -nr | gsed 's/^ *//' > wes2015_wikinews.txt
+
+
+# Moved newly created files to new directory
+for x in * ; do echo $x ;  grep -c "^2" < $x ; done  
+
+
+
+
+
