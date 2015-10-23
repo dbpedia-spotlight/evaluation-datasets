@@ -1,10 +1,10 @@
 
-cat  AIDA-YAGO2_entities_and_links_unique_entities_onlyLinks.txt neel2014_unique_entities_onlyLinks.txt  | sort | uniq -c | sort -nr | gsed 's/^ *//' > AIDA_neel2014.txt
-cat  AIDA-YAGO2_entities_and_links_unique_entities_onlyLinks.txt neel2015_unique_entities_no_NIL_onlyLinks.txt | sort | uniq -c | sort -nr | gsed 's/^ *//' > AIDA_neel2015.txt 
-cat  AIDA-YAGO2_entities_and_links_unique_entities_onlyLinks.txt oke_train_and_test_unique_entities_onlyLinks.txt | sort | uniq -c | sort -nr | gsed 's/^ *//' > AIDA_oke2015.txt
-cat  AIDA-YAGO2_entities_and_links_unique_entities_onlyLinks.txt rss500_unique_entities_onlyLinks.txt | sort | uniq -c | sort -nr | gsed 's/^ *//' > AIDA_rss500.txt
-cat AIDA-YAGO2_entities_and_links_unique_entities_onlyLinks.txt  wes2015_unique_entities_onlyLinks.txt | sort | uniq -c | sort -nr | gsed 's/^ *//' > AIDA_wes2015.txt
-cat  AIDA-YAGO2_entities_and_links_unique_entities_onlyLinks.txt  wikinews_unique_entities_onlyLinks.txt | sort | uniq -c | sort -nr | gsed 's/^ *//' > AIDA_wikinews.txt 
+cat  AIDA-YAGO2_entities_and_links_unique_entities_onlyLinks_wikipedia_to_dbpedia.txt neel2014_unique_entities_onlyLinks.txt  | sort | uniq -c | sort -nr | gsed 's/^ *//' > AIDA_neel2014.txt
+cat  AIDA-YAGO2_entities_and_links_unique_entities_onlyLinks_wikipedia_to_dbpedia.txt neel2015_unique_entities_no_NIL_onlyLinks.txt | sort | uniq -c | sort -nr | gsed 's/^ *//' > AIDA_neel2015.txt 
+cat  AIDA-YAGO2_entities_and_links_unique_entities_onlyLinks_wikipedia_to_dbpedia.txtoke_train_and_test_unique_entities_onlyLinks.txt | sort | uniq -c | sort -nr | gsed 's/^ *//' > AIDA_oke2015.txt
+cat  AIDA-YAGO2_entities_and_links_unique_entities_onlyLinks_wikipedia_to_dbpedia.txt rss500_unique_entities_onlyLinks.txt | sort | uniq -c | sort -nr | gsed 's/^ *//' > AIDA_rss500.txt
+cat AIDA-YAGO2_entities_and_links_unique_entities_onlyLinks_wikipedia_to_dbpedia.txt  wes2015_unique_entities_onlyLinks.txt | sort | uniq -c | sort -nr | gsed 's/^ *//' > AIDA_wes2015.txt
+cat  AIDA-YAGO2_entities_and_links_unique_entities_onlyLinks_wikipedia_to_dbpedia.txt wikinews_unique_entities_onlyLinks.txt | sort | uniq -c | sort -nr | gsed 's/^ *//' > AIDA_wikinews.txt 
 
 cat  neel2014_unique_entities_onlyLinks.txt neel2015_unique_entities_no_NIL_onlyLinks.txt  | sort | uniq -c | sort -nr | gsed 's/^ *//' > neel2014_neel2015.txt
 cat  neel2014_unique_entities_onlyLinks.txt oke_train_and_test_unique_entities_onlyLinks.txt  | sort | uniq -c | sort -nr | gsed 's/^ *//'  > neel2014_oke2015.txt
